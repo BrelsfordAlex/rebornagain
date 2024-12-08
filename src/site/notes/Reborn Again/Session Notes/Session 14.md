@@ -22,9 +22,9 @@ Session 14 _*Dated 10/27/24*_
 
 ==================================================
 
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]]
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]]
 - Sweetberry
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Grizz Drann\|Grizz Drann]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]]
@@ -38,7 +38,7 @@ Session 14 _*Dated 10/27/24*_
         - 8 ft tall
         - Scale freckles
         - Nebula bird on shoulder (part of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]])
-    - Marrow is the common name for [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Vel\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Vel]]’Vrow
+    - Marrow is the common name for [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Vel\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Vel]]’Vrow
 
 ==================================================
 
@@ -68,9 +68,9 @@ Session 14 _*Dated 10/27/24*_
 
 - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Kalia Sunblessed\|Kalia Sunblessed]] brought to a side room
         - Present
-            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]]
+            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]]
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]]
-            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy]]
+            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]]
             - Sweetberry
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Grizz Drann\|Grizz Drann]]
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana, Temportal Disacossiate]]
@@ -238,18 +238,18 @@ Magic Magic and more Magic
 - - Competition
         - Present
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]
-            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Baxter\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Baxter]]
+            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter]]
             - Others
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] vs [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] WINS
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] VS [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Baxter\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Baxter]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] VS [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter]]
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] title: Protector of Mizzix
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] WINS
             - Win:
                 - 400g
                 - Mystery
 
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]] Donation of a shield
+[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] Donation of a shield
 
 Enchanted
 
@@ -265,16 +265,16 @@ Every longrest they can choose what to have resistance to
 ### Marksman Competition
 
 - - Kalia
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye]]
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye]]
     - Vets
     - Sketch
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina]]
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Spherior\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Spherior]]
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina]]
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior]]
     - Panther
         - Spirit Company
         - Kore aux
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Aldros\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Aldros]] Second
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye]] WINS
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Aldros\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Aldros]] Second
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye]] WINS
         - Gets requisition from Mizzix
 
 ==================================================
@@ -319,7 +319,7 @@ Every longrest they can choose what to have resistance to
 
 ==================================================
 
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]] Donation of a shield ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]])
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] Donation of a shield ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]])
     - Enchanted
         - Every long rest they can choose what to have resistance to
     - +1 AC

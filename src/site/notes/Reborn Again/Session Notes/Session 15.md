@@ -27,11 +27,11 @@ Session 15 _*Dated 10/30/24*_
     - Friends with Cheezo
     - From the Warrens
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]
-- [[[[Glint\|[[Glint]] ]]
-- [[[[Sentry\|[[Sentry]] 
+- [Glint]]
+- [Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sentry]]
 -[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/George\|George]]
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Jason\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Jason]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jason\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jason]]
     - The dude [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gave the violin to
     - Up and coming artist
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Head of Necrochoir\|Head of Necrochoir]]
@@ -47,15 +47,15 @@ Session 15 _*Dated 10/30/24*_
     - Missing an arm
     - Covered in bruises and cuts
     - Sword with Fae blood on it
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Candor\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Candor]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor]]
 - House of Lament ( in full)
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Madam Valenica\|Madam Valenica]]
 - [[Ella Halcot \|Ella]]-Kar
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Far'Kal'Cer\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Far'Kal'Cer]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Far'Kal'Cer\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Far'Kal'Cer]]
     - Gith
     - Long black robes with silver edging
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Vel\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Vel]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Vel\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Vel]]
     - Amethyst Dragon
         - Young
         - Bonded to Far’Kal’Cer
@@ -66,9 +66,9 @@ Session 15 _*Dated 10/30/24*_
         - Retired in [[Tallon City \|Tallon]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]]
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/The Canis\|Cannis]]
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Vance\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Vance]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Vance\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Vance]]
     - Leader of the order when Dar’Taggon is not present
 
 ==================================================
@@ -82,10 +82,10 @@ Session 15 _*Dated 10/30/24*_
     - Iron door
 - house that the red robes fight was in
 - Jail Cell
-- [[[[Glint\|[[Glint]] ]]s office
+- [Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]]s office
 - Baine Clan Forest
 - Proving Grounds
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]]’ Emporium
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]]’ Emporium
 - House of Lament
 - Baba’s House
 - House of Balance
@@ -377,22 +377,22 @@ Retired in [[Tallon City \|Tallon]]
         - Far’Kal’Cer
             - Gith
             - Long black robes with silver edging
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Vel\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Vel]]
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Vel\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Vel]]
             - Amethyst Dragon
                 - Young
                 - Bonded to Far’Kal’Cer
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] asks to speak with a dragon
             - Shows the egg
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Vel\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Vel]] asks where it was found
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Vel\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Vel]] asks where it was found
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] explains it was in a vault
         - Gith don’t believe in a higher power
-            - Uses will over [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Tau-Weave\|Weave]]
+            - Uses will over [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|Weave]]
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] Projects
         - Starcutter almost done
         - Aegis Complete
         - Centurian?
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] names the dragon Edan
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Spherior\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Spherior]] gets 2 Grav Bombs
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior]] gets 2 Grav Bombs
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] talk
 
@@ -413,7 +413,7 @@ Retired in [[Tallon City \|Tallon]]
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/The Canis\|Cannis]] offered in return for that one song to be played
     - 1000 people
     - 9 of the Necrochoir join the concert
-    - One hour on [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]] [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]] return
+    - One hour on [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]] [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]] return
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]] asks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] out
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] says yes happily
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]] groans and looks away as they probably make out
@@ -426,7 +426,7 @@ Retired in [[Tallon City \|Tallon]]
 
 - **To [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/The Canis\|Canis]]: Thank you for letting me hold the concert… if you would like to hear more please ask I wouldn't mind playing for you some :)**
     - **Reply:** Of course, I hear you work at Foxies, I will come along tonight to enjoy the show
-- **To [[[[Glint\|[[Glint]] ]]: Is it ok if I ask a question about my files…?**
+- **To [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]]: Is it ok if I ask a question about my files…?**
     - **Reply:**No you may not They are sealed for a reason kid
 
 ==================================================
@@ -440,7 +440,7 @@ Retired in [[Tallon City \|Tallon]]
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]] says if he steps out of line the Architect has cells for things like [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] where he won't escape
 - Baby Dragons are rare
 - Gith don’t believe in a higher power
-    - Uses will over [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Tau-Weave\|Weave]]
+    - Uses will over [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|Weave]]
 - Merrigrove is an old name in [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]
 - Knew one who was an apprentice to Baba
 - Order of the Abyssal Hunters Dar’taggons order
@@ -463,7 +463,7 @@ Retired in [[Tallon City \|Tallon]]
     - Aegis Complete
     - Centurian?
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] names the dragon Edan
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Spherior\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Spherior]] gets 2 Grav Bombs
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior]] gets 2 Grav Bombs
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] is NOT a full Vampire
     - She is in an inbetween state
     - She does not need food but she DOES need blood
@@ -475,8 +475,8 @@ Retired in [[Tallon City \|Tallon]]
         - If she has already been invited into a place she will still be able to go into it
     - Cannot willingly tell a lie
         - Half truths are ok
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]] recruited
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] hears [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie]] scream “That's my bard”
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] recruited
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] hears [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie]] scream “That's my bard”
 
 ==================================================
 

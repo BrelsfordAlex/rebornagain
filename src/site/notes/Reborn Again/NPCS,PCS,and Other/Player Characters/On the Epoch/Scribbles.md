@@ -21,7 +21,7 @@ Paper Dragon
 
 #### Notes
 ---
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess]]
+[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Cranium Rat\|Cranium Rat]]
 [[Reborn Again/Session Notes/Session 4\|Session 4]]

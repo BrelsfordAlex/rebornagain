@@ -24,12 +24,12 @@
         - "find"
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] has white light in their head?!?!
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s Friend can help when in times of danger
-- "Someones moving you" old man guard grandpa( [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Eniox]])
+- "Someones moving you" old man guard grandpa( [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox]])
     - Carried her to guard house (soldiers praise [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] & [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]])
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Eniox]] lets [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] sleep in his bed saying shes safe
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox]] lets [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] sleep in his bed saying shes safe
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] got big deer butchered
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] pull to things?
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] talk to [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Faith\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Faith]] (Vex [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbiter]] (bronze whatever that metal is [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] has = contractor?)
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] talk to [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith]] (Vex [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbiter]] (bronze whatever that metal is [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] has = contractor?)
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 
@@ -39,7 +39,7 @@
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 
-- - Grandpa Guard - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Eniox]]
+- - Grandpa Guard - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox]]
         - Was the old guard who carried her to his bed
         - Grandpa vibes
     - Got a few seeds from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] (turned into vines for his "walking stick")
@@ -48,7 +48,7 @@
 
 ### General Store
 
-- - Mechanical Parrot( [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Graham\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Graham]])
+- - Mechanical Parrot( [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Graham\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Graham]])
         - Glitches when speaking
         - Likes seeds
         - Friends with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
@@ -59,7 +59,7 @@
         - Tinkerer and loves rare magical items
         - Overworked
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gave parrot and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie Falker]] 3 seeds
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]] is [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie Falker]]'s brother in Talon City, tower, bad sense of direction
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] is [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie Falker]]'s brother in Talon City, tower, bad sense of direction
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] shopped
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] talks to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie Falker]] about [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Allaro Dar'Marvo (Marvo)]] being her boss
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] mentions house of flesh [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] froze hearing name

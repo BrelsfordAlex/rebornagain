@@ -7,7 +7,7 @@ Lady M (Null Soul)
 
 - A blue-skinned Vedalken wearing dulled silver armor and wielding a massive onyx blade.
     
-- Null Soul Trait: Her presence repels magic, causing physical discomfort to those sensitive to the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Tau-Weave\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Tau-Weave]].
+- Null Soul Trait: Her presence repels magic, causing physical discomfort to those sensitive to the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave]].
     
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and others feel a clawing sensation in their minds when she approaches, which dissipates when she focuses on controlling her aura.
     

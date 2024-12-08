@@ -87,18 +87,18 @@ Ending Date: evening of the 25th of Winterdusk 15 days before spring
         - "madam [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]” ?!?!?
     - banquet hall seating: MariaOberontitaniaPrincess-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]-Guard
     - Pixies serve everyone
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]] to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]: dont know what happened just reports of what [[Reborn Again/NPCS,PCS,and Other/NPCS/No/The Wizard (Magnus the Mad)\|The Wizard]] had done
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]] to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]: dont know what happened just reports of what [[Reborn Again/NPCS,PCS,and Other/NPCS/No/The Wizard (Magnus the Mad)\|The Wizard]] had done
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] still connected to the court and had become something else
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess]] missed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]] friends with the bear
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]] missed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]] friends with the bear
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s mom shifter Tau
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tries to explain what she remembers the demons they fought saying but kept getting talked over
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] asking for help from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]] for the fight
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] asking for help from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]] for the fight
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] knows sundering level weapons and tells the king and queen about it
         - Legend lawVault 27-A
             - The [[Reborn Again/Locations Gone to/Westvale/Necropolis\|Necropolis]] [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] leaves the room at that
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] asks for help from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] asks for help from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]]
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] has the shard of a dead god
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] to her scythe "what are you"
         - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]]
@@ -107,32 +107,32 @@ Ending Date: evening of the 25th of Winterdusk 15 days before spring
 
 - - - Guard captain guides [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to the garden
         - Guard sits with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] at the bench
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] a paper dragon egg
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] a paper dragon egg
             - anything said is written on the egg
-            - egg is the [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess]]'s dragons egg
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess]] told [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] her name Rose
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells her name to the [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess]]
+            - egg is the [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]]'s dragons egg
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]] told [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] her name Rose
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells her name to the [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]]
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to princessi wanna go home...
 
 #### in the banquet hall
 
-- - - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] the shield of spring
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]] stick alive
+- - - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] the shield of spring
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]] stick alive
 
 #### 
 
 #### with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]
 
 - - - brought to a dorm style home
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]"anything you need"
-        - Given jade leaft hat will summon [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]] if broken
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]"anything you need"
+        - Given jade leaft hat will summon [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]] if broken
 
 #### back in the garden
 
-- - - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania]] gives 10 rainbow seeds
+- - - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]] gives 10 rainbow seeds
         - offering support
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania]] knows abou**t __it__**
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]] knows abou**t __it__**
             - took it off of her
             - in return teach [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] how to ride the stags and get a teacher for [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Pan (Fae)\|Pan (Fae)]] flute
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania]] finds out about what house of flesh did to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]] finds out about what house of flesh did to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
         - Takes away the rat ninja’s glowing ring

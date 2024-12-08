@@ -7,7 +7,7 @@
 **Description:** 
 **Who Went There:** Viv Maria Myria THEM
 **Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Spring Captain Guard\|Spring Captain Guard]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Klank\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Klank]]
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Spring Captain Guard\|Spring Captain Guard]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Klank\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Klank]]
 
 
 #### Notes
@@ -26,7 +26,7 @@
 **Description:** 
 **Who Went There:** Viv Maria Myria THEM
 **Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Spring Captain Guard\|Spring Captain Guard]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Klank\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Klank]]
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Spring Captain Guard\|Spring Captain Guard]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Klank\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Klank]]
 
 
 #### Notes

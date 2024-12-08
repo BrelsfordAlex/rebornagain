@@ -22,12 +22,12 @@ Session 8 Dated 9/21
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] looks for mom, she isnt home? ( <:sus:1130483444011499520> )
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] goes to the Palace and knocks on door (Deadeye opens it)
     - VI need to speak with Mistfiend
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye]]Why?
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye]]Why?
     - VivBombs in Tallon City
     - DeadeyeCome with me
     - Deadeye takes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] to Mistfiend who is infact ASLEEP <:179_Psisleepy:743175444290994247>
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye]] wakes [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] up by shouting
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] gets angry and shoots lightning ~~[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye]] dodges it and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] takes damage
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye]] wakes [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] up by shouting
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] gets angry and shoots lightning ~~[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye]] dodges it and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] takes damage
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] puts the pressure of the world onto [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s shoulders
     - She has to speak accurately (falls to a knee)
     - VivLuna spoke to me, Bombs in [[Tallon City \|Tallon]]

@@ -58,7 +58,7 @@ Session 9 Dated 9/25/24
 ### At Mizzix
 
 - ==================================================
-    - [[Elder Brian \|Elder Brian ]]made [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/3N4BL3R\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/3N4BL3R]]
+    - [[Elder Brian \|Elder Brian ]]made [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/3N4BL3R\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/3N4BL3R]]
     - Them shows [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] Enabler's Corpse
     - Everyone tries to meet with Brian (he is busy)
     - After pestering long enough Brian starts to talk through the Secretary Illithid
@@ -119,13 +119,13 @@ Session 9 Dated 9/25/24
     - Valenciathen it was the right thing
     - Myriabut everyone else said it was bad....
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Madam Valenica\|Valencia]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] a hug and carries her to the House of Balance
-    - house of balance has 3-4 vampires in it rigth now(by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/House of Hospitality\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/House of Hospitality]])
+    - house of balance has 3-4 vampires in it rigth now(by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality]])
 - ==================================================
 
 ### Maria and Viv at the Palace
 
 - ==================================================
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye]] not at the desk
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye]] not at the desk
     - VivWe need to speak to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] NOW, or I will get my mother
     - Person at the deskhe is in a meeting That one ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]) Can go in but you cannot
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] : I can't go in? I'm an interregator
@@ -135,10 +135,10 @@ Session 9 Dated 9/25/24
     - People in the Meeting
         - All the high mages
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]]
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]]
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]]
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]]
     - MariaThere are urgent matters, there are 3 bombs in [[Tallon City \|Tallon City ]]and we know where they are. The Red robes are traitors one tried to surrender and was killed
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]] slams his mace in front of Jurian
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]] slams his mace in front of Jurian
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] shares the plan her and Jurian had to investigate the Red Robes with the Paranormal Investigation Squad and how it went wrong and then explains the fightin basics and how they got information out of Brian
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] proud that they got information from Brian
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] to JurianIs your house in order yet?
@@ -163,14 +163,14 @@ Session 9 Dated 9/25/24
     - tall steampunk tower
     - Warforged working there
     - Like a magical Home depot
-    - MyriaWarforged: can I see uhm [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]]?
+    - MyriaWarforged: can I see uhm [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]]?
     - Warforged: hes busy
     - Myriawhat if I said I met his mom and sister
     - Warforgedhes in aisle 17
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]] meet and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] asks him how hard would it be to get a gun
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]] get s 500 gold upfront for a magical gun (will take 4 days to make)
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] walks into the shop and gets mad that [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]] sold her a gun
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]] makes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] armor
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] meet and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] asks him how hard would it be to get a gun
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] get s 500 gold upfront for a magical gun (will take 4 days to make)
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] walks into the shop and gets mad that [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] sold her a gun
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] makes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] armor
 - ==================================================
 
 ### Grave of Men with THEM

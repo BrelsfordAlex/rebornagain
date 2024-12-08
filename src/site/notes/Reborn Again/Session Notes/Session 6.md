@@ -57,7 +57,7 @@ Session 6
         - Eyes were white
         - The Leylines are strong
     - Weapon's nameVeil Piercer
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] can get a gun from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]] ( <:tbh_gun:1082149444809658438> )
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] can get a gun from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] ( <:tbh_gun:1082149444809658438> )
 - Everyone argues that Myria can't get a gun
 - Maria gets a shotgun
 - Them gets a gun hand (gets a memory from ava of how to aborb the hand into themselves) GUN HAND UWU

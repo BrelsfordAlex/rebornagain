@@ -29,7 +29,7 @@ Session 13 _*Dated 10/23/24*_
     - Hunched over
     - Cane of Roses
     - 6th Seat of 9 of the circle of great Hags
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Sentry\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Sentry]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sentry\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sentry]]
     - 25 ft tall stone giant
     - Likes doughnuts
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba La'saga\|Baba La'saga]]
@@ -38,18 +38,18 @@ Session 13 _*Dated 10/23/24*_
     - Hunched over
     - 5 ft at most
     - 2nd seat of 9 of the circle of great Hags
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/House of Hospitality\| Butler]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality\| Butler]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
     - ![](<ElderBrian.png>)
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Varrik\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Varrik]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Varrik\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Varrik]]
     - Human with Draconic Wings and scale like freckles
     - Gaunt and pale
     - Black Robes
     - Forge master and Necromancer
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Skully\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Skully]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Skully\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Skully]]
     - Flaming Animated Skull
     - Can get a skully in 17 days
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie]]
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Cranium Rat\|Cranium Rat]]
     - Cranium Rat
     - ![](<Rat.png>)
@@ -58,12 +58,12 @@ Session 13 _*Dated 10/23/24*_
     - Flowing Parchment Robes with flowing words on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
     - Flowing writing on skin
     - Onomancer
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Alaxandra\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Alaxandra]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Alaxandra\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Alaxandra]]
     - Scribe
     - Scholarly robes
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Amalgamation of Shards of the Grey\|Amalgamation of Shards of the Grey]]
     - Chimera of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] Mist
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Raina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Raina]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Raina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Raina]]
     - Split hair ½ blonde ½ black
     - Red eyes
     - Elf
@@ -73,7 +73,7 @@ Session 13 _*Dated 10/23/24*_
     - Looks bland
     - When Unconcious
         - Todd form changes to an alien [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] creature with weird eyes and is demonic in nature
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Drake Knights\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Drake Knights]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Drake Knights\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Drake Knights]]
     - Riding Gemstone Dragons
     - Gith
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Allendro Dar'Marvo\|Allendro]] Dar’[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]]
@@ -91,7 +91,7 @@ Session 13 _*Dated 10/23/24*_
 - Hospitality
 - Witches End
     - Walled off from the rest of the City
-    - Guarded by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Sentry\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Sentry]]
+    - Guarded by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sentry\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sentry]]
 - Mizzix
 - Necro-Corp
     - Building # 34 the smallest one
@@ -103,7 +103,7 @@ Session 13 _*Dated 10/23/24*_
     - Massive Library that seems to have no end
 - Proving Grounds
 - Houses
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]]
 - Tree
 
 ==================================================
@@ -153,7 +153,7 @@ Session 13 _*Dated 10/23/24*_
         - Witches End Description
             - Walled off from the rest of the City
             - Guarded
-        - Meet[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Sentry\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Sentry]]
+        - Meet[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sentry\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sentry]]
             - Sentry
                 - 25 ft tall stone giant
                 - Likes doughnuts
@@ -194,7 +194,7 @@ This basically means she has protection from the Fae
                 - Black Robes
                 - Forge master and Necromancer
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] asks Varrik to help in the fight
-            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Varrik\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Varrik]] needs an invitation
+            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Varrik\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Varrik]] needs an invitation
             - Varrik scans [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] shows Imagination and says “help and you can talk to him”
             - Skully
                 - Flaming Animated Skull
@@ -204,7 +204,7 @@ This basically means she has protection from the Fae
     - Working at Foxies
         - Only thing learn is that some guy cheated on his wife and is on the streets
         - Foxie and healers will join the fight
-        - Is [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie]] flirting with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]?!?!?
+        - Is [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie]] flirting with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]?!?!?
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 
@@ -516,7 +516,7 @@ Glint calls all arbiters to get the people
 - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] awakens [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]]
     - “[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]]” on stage introducing everyone and the event
         - It totally isnt [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Raina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Raina]] will summon a demon of raw strength to fight
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Raina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Raina]] will summon a demon of raw strength to fight
     - In the crowd
         - The 5 heads of Mizzix
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] and his pupper
@@ -528,8 +528,8 @@ Glint calls all arbiters to get the people
         - 6 hags
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous]]
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Radaghast\|Radaghast]]
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Eniox]]
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye]]
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox]]
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye]]
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Raine of the Names\|Raine]] has a binding spell
         - Old, thought it was lost
             - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] will ask later
@@ -537,7 +537,7 @@ Glint calls all arbiters to get the people
     - When [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] activates her rage she hears “Good” in her head
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]’s fireball comes from their chest in a cone of molten slag
     - Kalia finishes the demon
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]] changes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbiter]] medallion
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]] changes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbiter]] medallion
         - “See the heroes know [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]”
 
 ==================================================
@@ -552,15 +552,15 @@ Glint calls all arbiters to get the people
 
 - - **Reply:** Oh,,,, tell [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]] you owe me nothing, do it enjoy! Things good, we have retreated to Faewild for invasion. Goodluck my friend  
         
-- **To Pippin:** [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]] made me a big gun! I know your house is on the way to [[Tallon City \|Tallon]]… are you going to seek shelter in the city?
+- **To Pippin:** [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] made me a big gun! I know your house is on the way to [[Tallon City \|Tallon]]… are you going to seek shelter in the city?
     - **Reply:** thats great, hope youre well I am home for this invasion. I am safe. Hope you are as well much love
-- **To [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oakley\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oakley]]:** Are you ok? I heard about the summer court I was gonna come and say hi soon as I could… Please be safe
+- **To [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley]]:** Are you ok? I heard about the summer court I was gonna come and say hi soon as I could… Please be safe
     - **Reply:** I'm great!! the spring court is amazing so many shiny things  
         
-- **To [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Princess]](Rose):** Thank you for little [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]] I’m sorry I wasn’t more thankful when I met you he's a little sneaky boy! Would you be my friend?
+- **To [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]](Rose):** Thank you for little [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]] I’m sorry I wasn’t more thankful when I met you he's a little sneaky boy! Would you be my friend?
     - **Reply: FAILED Dimensional Interference  
         **
-- **To [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania]]:** Friendo, cult of last days shards [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Famine\|Famine]] [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Pestilence\|Plague]] and [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Deception\|Deception]] Careful of spies. Kid’s father high priest leading fight here. Be safe. Xoxo Magi
+- **To [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]]:** Friendo, cult of last days shards [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Famine\|Famine]] [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Pestilence\|Plague]] and [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Deception\|Deception]] Careful of spies. Kid’s father high priest leading fight here. Be safe. Xoxo Magi
     - **Reply:** thats concerning, I will look into it House of flesh destroyed, one remains for your convienience
 
 ==================================================
@@ -619,7 +619,7 @@ Glint calls all arbiters to get the people
         - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Famine\|Famine]] (Held by the Cult of the Last Day)
         - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Deception\|Deception]] (Held by the Cult of the Last Day)
         - Vengeance (Held by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s dad in the Cult of the Last Day)
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Raina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Raina]] has a binding spell
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Raina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Raina]] has a binding spell
 - When [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] activates her rage she hears “Good” in her head
 - What do you know about [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Allendro Dar'Marvo\|Allendro]] Dar’[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]]
     - Master

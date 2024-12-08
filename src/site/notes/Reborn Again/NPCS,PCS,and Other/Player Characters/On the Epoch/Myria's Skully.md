@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reborn-again/npcs-pcs-and-other/player-characters/on-the-epoch/myria-s-skully/"}
 ---
 
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Skully\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Skully]] (The Flaming Skull)
+[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Skully\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Skully]] (The Flaming Skull)
 
 - Gifted by the Necro Corp as a permanent, sentient flaming bomb.
     

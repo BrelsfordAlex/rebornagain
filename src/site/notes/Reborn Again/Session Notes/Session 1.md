@@ -10,7 +10,7 @@
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Amberly\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Amberly]] Knows [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Esher\|Esher]] (Eyes went White to Black)
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Amberly\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Amberly]] Knows [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Esher\|Esher]] (Eyes went White to Black)
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] were dead for 3 Months
 - The Shade Wraith that attacked [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] said "The white Why" to when [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] one shot the bastard
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Shadowed Reaper\|Shadowed Reaper]] fight
@@ -25,8 +25,8 @@
 - "Praise the demon god" [[Reborn Again/NPCS,PCS,and Other/NPCS/No/The Wizard (Magnus the Mad)\|The Wizard]] who nuked me
 - People on the list to assassinate
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-    - ~~[[The Mayor\|The Mayor]]~~**DEAD**
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Faith\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Faith]]
+    - ~~[[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Mayor\|Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Mayor]]~~**DEAD**
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith]]
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
@@ -39,7 +39,7 @@
         - The white is the enemy of the [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Shadowed Reaper\|Shadowed Reaper]], [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/The Creator\|The Creator]] (one who created the world)
     - Q4How did you know my name
         - The Fate waver knows all
-            - [[[Fate Weaver\|[Fate Weaver]] = demon god which means the demon gods are working together = BAD]
+            - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Fate Weaver\|Fate Weaver]] = demon god which means the demon gods are working together = BAD]
     - Q5What do you want with the capital
         - Watch the capital burn and allow the new dominion of the demons to reign. Fell the high council fell [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] all
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Talk with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]] in a private place away from the group

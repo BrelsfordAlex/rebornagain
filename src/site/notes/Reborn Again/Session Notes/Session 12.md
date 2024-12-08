@@ -22,19 +22,19 @@ Session 12 _*Dated 10/16/24*_
 
 ==================================================
 
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina]]
     - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] skin tiefing
     - Horns
     - Metal on her breast
     - Rifle of gold
     - In her later years
     - Has wings
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina]] is a war hero who was called “Liberator of Mal’Ker”
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina]] is a war hero who was called “Liberator of Mal’Ker”
         - During the Sundering
     - Irish
     - Has ADHD
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]]
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Velkie\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Velkie]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Velkie\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Velkie]]
     - Velkan Fox
     - Has wings
     - Fox
@@ -42,13 +42,13 @@ Session 12 _*Dated 10/16/24*_
     - Red
     - Adaptable
     - Made by [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]]
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Spherior\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Spherior]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior]]
     - 20-30 ft tall
     - Stone in skin
         - Kor Style
     - Giant Bow on back
     - Milky white eyes
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]]
     - 12-15 ft tall
     - Bare Chested
     - Thick as tree Arms
@@ -68,7 +68,7 @@ Session 12 _*Dated 10/16/24*_
     - Gold [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]] necklace
     - Has a great club and wand
     - Mas sending
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Maeve\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Maeve]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maeve\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maeve]]
     - Young regal woman
     - Gills
     - Tendrils
@@ -76,12 +76,12 @@ Session 12 _*Dated 10/16/24*_
         - Used the magic to alter herself
     - Old PC
     - Trans woman
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
 - Alanio
     - Pixie
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Marcus Menneth\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Marcus Menneth]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth]]
     - ![](/img/user/Reborn Again/Misc Files/Image Attachments/MarcusMenneth.png)
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]]
     - Long black hair that looks like a nebula
@@ -175,7 +175,7 @@ Session 12 _*Dated 10/16/24*_
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 
 - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] goes in the ship and finds Buddy and Marvo
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy]]
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]]
             - 12-15 ft tall
             - Bare Chested
             - Thick as tree Arms
@@ -353,32 +353,7 @@ Full Moon
                 - For 20 hours
             - Can be used 3 times in battle
     - With Marcus
-        - Marcus desc ![](<Attachment 1.png>)
-        -   
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-            .
+        - ![Marcus Description](/img/user/Reborn Again/Misc Files/Image Attachments/MarcusMenneth.png) 
 
 -------------------------------------------------------------------------
 
@@ -456,10 +431,10 @@ Caught him doing this once
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 
-- - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy]] knocking on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s door
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy]] learned the word Interviews!!!! 🎉
+- - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]] knocking on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s door
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]] learned the word Interviews!!!! 🎉
     - @ The Palace
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy]] At [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Deadeye]] Eyeless one
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]] At [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye]] Eyeless one
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]] will discuss [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]] later
         - The Interviews
             - .[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Kalia Sunblessed\|Kalia Sunblessed]].
@@ -540,9 +515,9 @@ Useless out of combat
 
 Replysingle word and a splitting headache,,, _Vengeance_
 
-**[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to Druid Lady**"I know the truth about my dad. He's here in [[Tallon City \|Tallon]] 9-15 days till here. Are you safe? [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]] knows about Summer Court Revolt"
+**[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to Druid Lady**"I know the truth about my dad. He's here in [[Tallon City \|Tallon]] 9-15 days till here. Are you safe? [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]] knows about Summer Court Revolt"
 
-ReplyI am safe, I will enform the conclave, who is [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]] young lady. Hope you are well
+ReplyI am safe, I will enform the conclave, who is [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]] young lady. Hope you are well
 
 ==================================================
 
@@ -558,24 +533,24 @@ ReplyI am safe, I will enform the conclave, who is [[Reborn Again/NPCS,PCS,and O
 - Helix(??) loses themselves in bloodlust
 - Kalia got her name because she worked as an engineer in the Ashen Plain on a cannon detonator. It was going to explode but she channeled the cannon power and shot it in the sky
     - Looked like a ray of sunlight
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy]] learned the word Interviews!!!! 🎉
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]] learned the word Interviews!!!! 🎉
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] for most of her life
     - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] works different than Vengeance
         - Grows with Host
 - Devines can’t interact with everyone so they choose a select few
 - Devines choose people
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Marcus Menneth\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Marcus Menneth]] Died in battle, Devotee to [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]], Ascended
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth]] Died in battle, Devotee to [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]], Ascended
     - Ascended when someone dies a devine may lay claim to the soul before it goes to the afterlife it has in store
     - Ascended beings become celestials not normally on the mortal plane
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]] rights injustice
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] can’t get drunk but [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] can simulate feel it
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina]] Runs the navy
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina]] Runs the navy
     - The navy is basically air force
 - Learn that the a shifter town went dark
 - The Demons rode on bats and had living lightning
     - Blew up left Hydron (Thing that makes [[Reborn Again/Locations Gone to/Other/The Bastion\|The Bastion]] float)
 - Sending Communication spotty (yet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s is not 🤔)
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina]] is a war hero who was called “Liberator of Mal’Ker”
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina]] is a war hero who was called “Liberator of Mal’Ker”
     - During the Sundering
 
 ==================================================
@@ -589,11 +564,11 @@ ReplyI am safe, I will enform the conclave, who is [[Reborn Again/NPCS,PCS,and O
     - Bastion population around 1k
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Gets a Job working night at Foxies
 - Vermin Demons attacked the ship
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Maeve\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Maeve]] copies drawings of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maeve\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maeve]] copies drawings of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]
 - Veteran Company learns triage and medial
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells Alanio about Summer Court falling
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] feels like she's failing her oath
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie]] has a drink that can make Vampires Drunk
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie]] has a drink that can make Vampires Drunk
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]] recognizes the injustice with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] has a sense of Absolute [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]]
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] Chill with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]]
@@ -632,7 +607,7 @@ ReplyI am safe, I will enform the conclave, who is [[Reborn Again/NPCS,PCS,and O
 
 - Hourglass ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]])
     - 20 hours of time
-    - Can make [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Marcus Menneth\|Marcus]] appear in another plane and reappear at will
+    - Can make [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Marcus]] appear in another plane and reappear at will
         - For 20 hours
     - Can be used 3 times in battle
 

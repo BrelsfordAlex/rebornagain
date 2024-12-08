@@ -22,7 +22,7 @@ White Dragon
 #### Notes
 ---
 [[Tallon City \|Tallon City ]]
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]]
+[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]]
 [[Reborn Again/Session Notes/Session 6\|Session 6]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]

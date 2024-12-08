@@ -27,6 +27,6 @@ Awakened Fae Raccoon
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
-[[Reborn Again/Quests for Campaign/Defeat the Changer of Ways \|Defeat the Changer of Ways ]]
+[[Reborn Again/Quests for Campaign/Defeat the Changer of Ways\|Defeat the Changer of Ways]]
 
 

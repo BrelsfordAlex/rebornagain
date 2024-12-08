@@ -26,6 +26,6 @@
 ---
 
 
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] met the hilt ( [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengence]]) in her dreams, freed it and made a pact to get revenge for it and free it from the demons. Only ones who know fully about it is [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]] during [[Reborn Again/Session Notes/Session 5\|Session 5]] in [[Tallon City \|Tallon]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] met the hilt ( [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengence]]) in her dreams, freed it and made a pact to get revenge for it and free it from the demons. Only ones who know fully about it is [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]] during [[Reborn Again/Session Notes/Session 5\|Session 5]] in [[Tallon City \|Tallon]]
 
 [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Allendro Dar'Marvo\|Allendro Dar'Marvo]]

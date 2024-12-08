@@ -27,7 +27,7 @@ Session 17 _*Dated 11/13/24*_
     - Multiple joints
     - Long metal staff with Green and Yellow Light
     - Al’Vento Status Active The Lonely Sentinal”
-- Simulacra [[Al-Adro\|Al-Adro]]
+- Simulacra [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Simulacra- Al-Adro\|Simulacra- Al-Adro]]
     - Short 5 ft 8-5 ft 9
     - Living wood and steel
     - Wooden staff

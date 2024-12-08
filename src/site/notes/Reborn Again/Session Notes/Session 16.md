@@ -24,8 +24,8 @@ Session 16 _*Dated 11/6/24*_
 
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter\|Baxter]]
     - Warforged
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Creed \|Creed ]]
-    - One of [[[Xina\|[Xina]]’s Corsairs
+- [[Creed \|Creed ]]
+    - One of [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina]]’s Corsairs
     - Old fat man
     - Master tactition
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Coal\|Coal]]
@@ -33,7 +33,7 @@ Session 16 _*Dated 11/6/24*_
     - Flaming hair
     - 9 ft tall
     - coal like skin
-- [[[[Elnos\|[[Elnos]] ]]
+- [Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxie]]
 - Candlekeep scribes
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
@@ -60,7 +60,7 @@ Session 16 _*Dated 11/6/24*_
             - Small Antiroom
         - The Foundry
             - Making weapons
-- [[[[Elnos\|[[Elnos]] ]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] 
 - Foxies
 - Candlekeep
 - House of Lament
@@ -134,7 +134,7 @@ When the army is ordered they will comply
 
 Them talks to Creed
 
-[[Creed\|Creed]]
+[[Creed \|Creed ]]
 
 One of [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Xina]]’s Corsairs
 
@@ -258,7 +258,7 @@ If not pulled out target has 0 movement
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] to the wall
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to the healers area
     - Roof of Mizzix opens
-    - [[[[Elnos\|[[Elnos]] ]] removes the gate
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]]  removes the gate
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] comments she wants to learn to do that
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] has a speech
     - A gnaw bomb gets shot

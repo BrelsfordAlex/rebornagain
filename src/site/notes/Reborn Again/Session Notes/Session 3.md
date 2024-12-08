@@ -111,7 +111,7 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
 - Magical ordinance capable of destroying continents
 - the vault carried 4 and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] was the last of defenses
 - those weapons could be out there
-    - "connecting to the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Tau-Weave\|Weave]] net"
+    - "connecting to the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|Weave]] net"
     - "Main chamber unbreached, security is dipping between 10 and 15%
     - Vaults floors 1-4 breached, 7-9 unbreached (9th floor is where weapons are)
     - 7287 designation unbreached
@@ -129,8 +129,8 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
     - Years later
         - gold falls , thunder through the vault then it all goes black
         - before the blackwas "more powerful than all dead sun cores in existance"
-        - there was a sickly green magic wave shatters the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Tau-Weave\|Weave]] around [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
-    - it was like a magical EMP that ATE the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Tau-Weave\|Weave]]
+        - there was a sickly green magic wave shatters the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|Weave]] around [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
+    - it was like a magical EMP that ATE the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|Weave]]
 - only diff b/t [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] is the face
 - Self repairing liquid metal
 - the body is as live as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] is

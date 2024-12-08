@@ -30,7 +30,7 @@ Session 11 _*Dated 10/9/24*_
     - Scar over one eye
     - Other eye is milky white
     - Old easily 200
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]]
     - Simple Platemale (Never Seen without it Can’t really see him)
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]
     - Tall Winged creature with scales and blades
@@ -38,7 +38,7 @@ Session 11 _*Dated 10/9/24*_
     - Knuckle Dusters with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] mist around it?
     - Black bear (like [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]])
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Aldros\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Aldros]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Aldros\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Aldros]]
     - Kor, Tall, Pale yellow [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] skin
     - Leader of the Kor
     - Has 2 Climbing Hooks
@@ -48,7 +48,7 @@ Session 11 _*Dated 10/9/24*_
     - Pinstripe Suit
     - Ram horns
     - Golden Fiddle
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie]]s Owner
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie]]s Owner
     - Woman in a revealing dress
     - 9 tails
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Maddie Valor \|Maddie Valor ]]
@@ -57,12 +57,12 @@ Session 11 _*Dated 10/9/24*_
     - 20s
     - Not a Kaine
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jez Baine\|Jez]]
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Beth Baine\|Beth]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Beth Baine\|Beth]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous]] on a stag
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Radaghast\|Radaghast]]
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] with a cub named Bingo
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Eniox]]
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Faith\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Faith]] the Vex Arbitor
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith]] the Vex Arbitor
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Cassandra\|Cassandra]]
     - Wears black and white Robes
     - Constantly Tired
@@ -74,7 +74,7 @@ Session 11 _*Dated 10/9/24*_
 
 ==================================================
 
-- The Palace ([[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]]’s Place)
+- The Palace ([[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]]’s Place)
 - Baine Territory
 - Mizzix
 - Barracks
@@ -224,7 +224,7 @@ Session 11 _*Dated 10/9/24*_
         - Hana is worried it is her mom who did it and tells her to tell the churches
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] Tells Beth about Samiel (Beth Freaks out)
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] goes to the Samiel Temple
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] meets Maddie Valor
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] meets [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Maddie Valor \|Maddie Valor ]]
             - High priest for Samiel
             - Wolf Shifter
             - 20s
@@ -313,16 +313,16 @@ Session 11 _*Dated 10/9/24*_
             - Constantly Tired
             - Her shadow is independent of her
         - Cassandria Tired
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] gets [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Candor\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Candor]] a Coffee
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] gets [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor]] a Coffee
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] waits around till fight club time
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 
 - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] has a hangover
     - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] plans to keep the stories for a rainy day
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]]
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]]
         - Picks up her gun and it is SICK!!!
-        - She shows [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]] the fiddle
+        - She shows [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] the fiddle
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Talk
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] says she needs to talk to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is not to happy about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] wanting to talk to her
@@ -365,7 +365,7 @@ Session 11 _*Dated 10/9/24*_
 
 - - [[Reborn Again/Locations Gone to/Other/The Bastion\|The Bastion]] arrives smoking
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] goes out to it
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] uses sending to get [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] uses sending to get [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]]
             - Send“Uhsmoking big ship?”
             - “Omw”
         - Everyone’s knowledge of it
@@ -394,7 +394,7 @@ Session 11 _*Dated 10/9/24*_
 - Refugees attacked along the way
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]]’s dad, [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Samiel\|Samiel]] was attacked with a fell blade
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] has a past with Shadowed Reapers
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Eniox]] lost a hand but has a new one made out of light
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox]] lost a hand but has a new one made out of light
 - The Kor have a fucking light cannon
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] hates the idea of children going to war
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] used to be like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
@@ -427,7 +427,7 @@ Session 11 _*Dated 10/9/24*_
     - Spell Save up by 2
     - If ever fight someone in a music battle if they win you must give it to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
     - Cannot play other instruments
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s new [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Elnos]] Armor
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s new [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] Armor
 - 2x Gravity Bombs ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]])
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Gun
     - Thunder Damage

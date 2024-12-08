@@ -32,19 +32,19 @@ Ending Date: Evening of the 26th of Winterdusk 14 days before spring
     - Myria makes Scribbles a blanket and pillow
     - Scribbles needs to Eat
     - 1 pencil
-    - 1/2 an ink vial
+    -/2 an ink vial
     - STOCK UP ON PENCILS AND INK
     - -
-- In the Spring Court (with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]])
+- In the Spring Court (with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]])
     - -
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] Episode :yippe:
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]: "where are we"
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]]: At the Spring Court, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]'s Home
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]]: At the Spring Court, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]'s Home
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] is stuck up ( dontbullyher)
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]]: What is your name?
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]]: What is your name?
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]: I dont know
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]]: A creature without a name is hardly a creature at all (dadberon)
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]] takes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]'s hand and shoots magic through [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]|
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]]: A creature without a name is hardly a creature at all (dadberon)
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]] takes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]'s hand and shoots magic through [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]|
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] regains 3 memories
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] remembers his name
         - Sitting in a room with gadgets tinkering
@@ -57,17 +57,17 @@ Ending Date: Evening of the 26th of Winterdusk 14 days before spring
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]: "I could grow a penis..." (genderdysphoriawho?)
     - In the Tinkers Shop
         - Ran by a artificer with silver skin, long gold hair, silver gloves, 4 feet tall, oldfiller [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] circles
-            - Name: [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Klank\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Klank]],Artificer tag: __K.L.A__
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Klank\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Klank]] makes Gravitational grenades
+            - Name: [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Klank\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Klank]],Artificer tag: __K.L.A__
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Klank\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Klank]] makes Gravitational grenades
             - Dense pocket of gravity that bends reality ( like tits uwu)
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Klank\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Klank]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] a grenade
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Klank\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Klank]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] a grenade
     - -
 - In the Spring Court Training Grounds (with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and Tatiana)
     - -
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] wants to train
     - Tatiana training against guards
     - Real weapons
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] VS [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] VS [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]]
     - T: you are Entertaining
     - Tatiana's eye color guide
         - NormalGreen
@@ -118,14 +118,14 @@ Ending Date: Evening of the 26th of Winterdusk 14 days before spring
     - the group warned about bad weather
     - when they leave they are in a blizzard
     - the group gets lost for 3 hours
-    - them uses good and evil to sense partial fae things 1/2 mile north
+    - them uses good and evil to sense partial fae things/2 mile north
     - The blizzard was magical
     - Maria jumpscared by a talking Raccoon who guides the group to a tree house
     - Maria and them have to crawl inside
     - Cart guarded by a raccoonin a robinhood hat
         - The raccoons are awakened fae
     - They all get hot coco, Myria wants to stay with the raccoons
-    - Myria tries to ask questions but the group learns about a hellborn outside and Myria is then shrouded in a grey cloak. ( [[Reborn Again/Quests for Campaign/Defeat the Changer of Ways \|Defeat the Changer of Ways ]])
+    - Myria tries to ask questions but the group learns about a hellborn outside and Myria is then shrouded in a grey cloak. ( [[Defeat the Changer of Ways \|Defeat the Changer of Ways ]])
     - Viv's eyes go white
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley\|Oakley]] guides the group
     - Oakley likes shiny things(shiny = power)
@@ -170,9 +170,9 @@ Ending Date: Evening of the 26th of Winterdusk 14 days before spring
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] says she is sorry if its a bad memory
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] plays her new song for the group, its a song of sadness, pain and loss
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] notice that the bear is sitching itself up
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oakley\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oakley]] sends [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] off to [[Tallon City \|Tallon]]
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley]] sends [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] off to [[Tallon City \|Tallon]]
     - they search the cart find out one of the kids took 88 knives that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] had
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gives [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oakley\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oakley]] and his wife gems
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gives [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley]] and his wife gems
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] asleep on the cart just dissociating
 
 ### 

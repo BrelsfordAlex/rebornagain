@@ -26,7 +26,7 @@ Todd form changes to an alien grey creature with weird eyes and is demonic in na
 ---
 
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]]
+[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]]
 [[Reborn Again/Session Notes/Session 13\|Session 13]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
 

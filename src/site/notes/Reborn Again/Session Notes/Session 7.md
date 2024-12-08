@@ -39,7 +39,7 @@ Session 7 Dated 9/14/24
             - SHE HAS A FILE?
                 - Viv, Maria, and Marla have Files too.
                 - Myria walks straight into the house meanwhile Viv and Marla meet The Butler
-                - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/House of Hospitality\| The Butler]]
+                - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality\| The Butler]]
 
 No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's robes. Walks in stop motion
 
@@ -77,8 +77,8 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
             - 350 Militia
             - The House of Lament
             - Vet Company currently at 52 with 5 NCO's and 2 CO's
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] met [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Jannix]]
-            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Jannix]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] met [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix]]
+            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix]]
                 - Kor
                 - Pale
                 - Yellow-[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] skin
@@ -86,9 +86,9 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
                 - Tall
                 - Spirit Dancer
 
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Jannix]] about the fight
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix]] about the fight
 
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Jannix]] calls her company to train
+[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix]] calls her company to train
 
 - - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] asks for supplies for the fight
             - Dran Enterprises
@@ -104,7 +104,7 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
 #### Viv
 
 - - - Jaguar pins [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] to ground
-            - Auntie [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Beth Baine\|Beth]]
+            - Auntie [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Beth Baine\|Beth]]
         - Canine and Cat shifters have Rivalry ( uwu rivals)
 	        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s mom knows she died ([[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jez Baine\|Jez Baine]])
             - Extended Family Watching ( <a:Eyes_Emoji:423979481204654080>what is this Alabama?)
@@ -130,7 +130,7 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
             - Dar'Taggon(Wolf shifter)
             - Warforged
         - Waistcoat
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/3N4BL3R\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/3N4BL3R]]
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/3N4BL3R\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/3N4BL3R]]
         - Mizzix Prototype
             - Ghost
             - Half Dryad
@@ -142,9 +142,9 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
 
 - - - Gothic Large, Castlevania/ Strahds Castle Vibes
         - Viv gives Candor Iced Coffee
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Candor\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Candor]] @ Myria
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor]] @ Myria
             - Curious
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Marra\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Marra]]
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marra\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marra]]
             - 5 foot 8 with anime greatsword and blackhair
         - Marra will chuck Myria
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sana, The Deathless Wanderer\|Sana]] learns of Wild hunt and the invasion

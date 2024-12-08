@@ -64,5 +64,5 @@ Flaws:
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Warforged Constructs\|Warforged Constructs]]
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Foxie]]
+[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]]

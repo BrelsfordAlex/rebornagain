@@ -37,7 +37,7 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
 - The dream beginningViv
 - ==================================================
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] feels safest in [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]]'s arms
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] wakes up in a graveyard seeing the graves of her mom, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Buddy]] and other's graves
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] wakes up in a graveyard seeing the graves of her mom, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]] and other's graves
     - creature looking like her mom appears with blue and purple gemstones out of her skin, when the creature grins [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] saw her mom's face and acts like her mom
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] gets hit with insanity
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] ssummons [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]]
@@ -49,7 +49,7 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
 ### The dream beginningMyria
 
 - ==================================================
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] feels safe both in [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/House of Hospitality\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/House of Hospitality]] and in her childhood home
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] feels safe both in [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality]] and in her childhood home
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] wakes up seeing her childhood home burning
     - Sees an undead version of her dad, staring at her drooling and running towards her.
     - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] recognizes it as the [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Fate Stitcher\|Fate Stitcher]]'s work
@@ -92,7 +92,7 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
     - Myriaroll a d4, 1-hospitality, 2-[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Madam Valenica\|Valencia]], 3Viv, 4Titania (rolls a 4)
     - Greydude that could work...
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] manages to burn the ichor away and get the blade out of her dad's hands
-    - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] summons [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania]] herself into the dream and she kills the undead
+    - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] summons [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]] herself into the dream and she kills the undead
     - House back to normal ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] has vengance in her hands)
     - Myriawho hurt you
     - Vengancecult of last days. They bound me to that creature free me
@@ -177,16 +177,16 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] shows everyone the hilt saying "mine had this..."
     - GlintVengence
     - MyriaMine don't touch it
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] notes to herself she needs to talk to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Glint]] ALONE
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells everyone She summoned [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Titania]] in her dream ([[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] impressed, party didn't blink at that)
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] notes to herself she needs to talk to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]] ALONE
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells everyone She summoned [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]] in her dream ([[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] impressed, party didn't blink at that)
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] can possibly fix [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] powersource
     - Atypical defense meeting
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] wants people fixing the walls
     - PErson, Androgynous, skull face dark robes says the ghouls/guilds will answer and that grace corp will fix the walls
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] tells everyone [[Reborn Again/Locations Gone to/Tallan/Markovia\|Markovia]] is gone and they took the [[Reborn Again/Locations Gone to/Tallan/Grey Citidel\|Grey Citidel]]
     - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] acting like a cunt
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]](Sending) -"[[Reborn Again/Locations Gone to/Tallan/Markovia\|Markovia]] gone please help they took the [[Reborn Again/Locations Gone to/Tallan/Grey Citidel\|Grey Citidel]] I'm scared what if we lose? [[Tallon City \|Tallon]] needs help this is [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]], friend of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] dadberon"
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly 1/Oberon]] Response Summer in revolt, [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]] under attack, We cannot assist, Celeste and Eldan have been lost to bloodlust. The [[Reborn Again/Locations Gone to/Tallan/Shaleverge\|Shaleverge]] Fae continue to [[Tallon City \|Tallan]], [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]]. Bitch.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]](Sending) -"[[Reborn Again/Locations Gone to/Tallan/Markovia\|Markovia]] gone please help they took the [[Reborn Again/Locations Gone to/Tallan/Grey Citidel\|Grey Citidel]] I'm scared what if we lose? [[Tallon City \|Tallon]] needs help this is [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]], friend of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] dadberon"
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]] Response Summer in revolt, [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]] under attack, We cannot assist, Celeste and Eldan have been lost to bloodlust. The [[Reborn Again/Locations Gone to/Tallan/Shaleverge\|Shaleverge]] Fae continue to [[Tallon City \|Tallan]], [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]]. Bitch.
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]-detecting something oh no x10 not again
         - Memory of before the shut down plays
     - A knawbomb went off
@@ -195,7 +195,7 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
         - Most magic users dissociating
         - Bomb centered on [[Reborn Again/Locations Gone to/Tallan/Markovia\|Markovia]], goes up to Novska down to [[Reborn Again/Locations Gone to/Tallan/Fallveil\|Fallveil]], to [[Reborn Again/Locations Gone to/Tallan/Grey Citidel\|Grey Citidel]], and left to [[Reborn Again/Locations Gone to/Tallan/Shalebridge\|Shalebridge]]
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] dissociate.exe
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] sends willpower and magic into the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Tau-Weave\|Weave]] and the ends of the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Tau-Weave\|Weave]] that were fraying stop and then passes out
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] sends willpower and magic into the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|Weave]] and the ends of the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|Weave]] that were fraying stop and then passes out
     - AvaMistfiend is experiencing butnout bring to water or he exploads
     - Everyone goes to dunk [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] in water (by the place soldiers are)
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] will be out for a week
