@@ -1,0 +1,161 @@
+---
+{"dg-publish":true,"permalink":"/reborn-again/session-notes/session-3/"}
+---
+
+3️⃣ Session 3
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+# Session 3 Notes (Session on 8/14)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Starting Date: morning of the 20th of Winterdusk, 20 days before Spring
+
+Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
+
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]'s wolf pelt has goggles on the hood
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] cooked Breakfast
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]'s eyes were darker/more absent
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Wanted to talk to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] fought forces like what we just faced in the past and that we would need an army to fight how big this fight could be
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is worried
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] doesn't want anyone to die
+- Next townSmoking
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells stags to go and hide when they get to town
+- MyriaSmells Burning straw
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Switched to Abyssal
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] felt "different"
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Summons hellhound with her necklace
+- If the hound dies the necklace drops where it died, she must find it
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] Smells burning fleshstarts to panic
+- The fight (Fight with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Vermin Lord\|Vermin Lord]])
+    - Hold person ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]) 3 pillars from sky, chains from the pillars wrapping around the person
+        - Chains same vibe to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s sword
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] finds farmer's kid who bonked rat with a frying pan
+        - Gave kid a spear told him to get everyone out
+        - Sent hellhound to protect the kid
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] angry at warchief, and the engineer
+    - Rat Warchief banner
+        - Bring anyone back on his side that died (within reason) ACTS AS A SPAWN POINT
+    - Warchiefpoisonous tail
+        - Magic isn't as effective on him?
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] says "vermin scum" to him in abyssal
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] kill him
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] watch [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] walk up to the warchief and stomp on his head swearing in Abyssalthen switching to a different language
+    - After Warchielf dies [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] goes to Farmer kid, finds a rat ninja (the raninja)
+    - Raninja has serrated knives, throwing stars and can talk
+        - Raninja seems more intelligent than the others
+        - Farmer kid knocks out raninja when it had tried to run.
+- Farmer Kid saved almost everyone in the town
+    - Farmer Kid named [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie Newharvest]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] had a frying pan
+        - Blonde and shadowtouched Fae
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] sends [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Radaghast\|Radaghast]] to warn town she came from that this town was attacked and she is sending those villagers there
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] talks to townspeople
+    - People from the town shadowtouched
+        - when use their ability to much they have this [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] mist
+- people who were touched when the shadowfell and fey realm fell
+- Town's [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hedge Mage\|Hedge Mage]] -druid grandma vibes
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gave her 3 seeds
+    - She gave [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] 5 seeds
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] loots the raninja and ties him up
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s Skeletons carry [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] blanket for her panic attack
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] questions Raninja
+    - who were you after
+        - Everyone
+    - Why?
+        - Orders
+    - Who gave you the orders
+        - My master, the [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Vermin Lord\|Vermin Lord]]
+    - Raninja tells her "You follow a god too"
+- Raninja tries to run
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] yells “I’ll show you bringing a gun to a knife fight you fucking coward” and kills it as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] panics
+- As Raninja dies he says "good luck you will need it" then realizes how he died (radiant damage) and screams
+- Next area
+    - [[Reborn Again/Locations Gone to/Tallan/The wood of Iron Trees\|The wood of Iron Trees]]
+        - Birch Trees with brown lycan on it looking like rust
+    - Signs saying "STAY ON THE PATH"
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] has a sense of familiarity on how [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] was acting and her actions
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] helps [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] cook, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] got advantage
+- Loot
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] got a ton of daggers and throwing stars
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gets 2 vials of posion
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gets jewlery costing 20 gold
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gets glowing green ring
+
+### T.H.E.M’S Session 3 Notes
+
+- -
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] starts unaware of anything happening on the outside
+- circle of light grown 5 ft
+- Figure in the middle, streams of red, no eyes, white in color
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]'s form is more real than the others
+- when [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] enters the circle of light, the figure snaps head up
+- Figure could be the warforged before [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+- Figure knows old elven
+- Who are you Designation [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
+- When [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] tries to leave the light it shocks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] can leave and enter at will
+- "datapoint added"
+- "headstrong, doesnt think before acting"
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] handshakes Eva
+- Memories [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] has in the body are copied
+- "what happened to the world, shattered the magus gone"
+- "What caused you to shut down?"
+- Was programmed to guard vault of the Magus. The vault was sealed and went doemant to save power and after 300 years [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] shut down due to an unknown magical interference
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] theorybecause of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] is why [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] exists
+- "do you remember what you were guarding"
+- Cache of weapons of mass destruction for the Magus
+- Magical ordinance capable of destroying continents
+- the vault carried 4 and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] was the last of defenses
+- those weapons could be out there
+    - "connecting to the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Tau-Weave\|Weave]] net"
+    - "Main chamber unbreached, security is dipping between 10 and 15%
+    - Vaults floors 1-4 breached, 7-9 unbreached (9th floor is where weapons are)
+    - 7287 designation unbreached
+    - "Abyssal entity 7 encountered" [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] explains the demons
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] capable of unlocking the vaults
+    - The old empire gone
+- "why are you in my body?"
+- I was created for this kensai simulacrum (samurai)
+    - the last memory
+    - Timestamp: ???
+    - Walls of black steel with magic and liquid gold
+    - Eva defended proto magus tower
+    - meet [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/High Magus Zeref\|High Magus Zeref]]?
+    - liquid metal katana
+    - Years later
+        - gold falls , thunder through the vault then it all goes black
+        - before the blackwas "more powerful than all dead sun cores in existance"
+        - there was a sickly green magic wave shatters the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Tau-Weave\|Weave]] around [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
+    - it was like a magical EMP that ATE the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Tau-Weave\|Weave]]
+- only diff b/t [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] is the face
+- Self repairing liquid metal
+- the body is as live as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] is
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] can teach [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] how to make the weapon
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]'s body looks more human and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] teaches [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] how to summon the blade
+- the blade has lost the enchantments
+- Core power 20%not operating at full capacity
+    - dead sun core depeated (a large jolt of energy would recharge it)
+- 3117 body designation
+- 95% tech 5% magic
+- Excess energy put in pocket dimension
+- Limit break
+- form change
+- Designation "Angel of Death"
+- Liquid metal wings 2 kneesunhinged jaw
+- sister vaults
+    - 27-A ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]])
+    - 27-B ([[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Kalani\|Kalani]])
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Kalani\|Kalani]]
+    - Fractured Memories
+    - siege breaker warforged
+    - different core
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]Dead red sun core
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Kalani\|Kalani]] dead blue sun core
+- the vault is sentient
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] can navigate vaults
+- Vaults dont exist in real space
+- each room is in a pocket dimension
