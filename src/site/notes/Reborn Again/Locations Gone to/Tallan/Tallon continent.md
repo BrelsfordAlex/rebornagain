@@ -3,9 +3,7 @@
 ---
 
 
-
-![](https://drive.google.com/file/d/1-4DgbmvX5MvNbUAXKg2nUVfCY7hjT0uj/view?usp=drive_link)
-
+![Tallon_Continent.jpg](/img/user/Reborn%20Again/Misc%20Files/Image%20Attachments/Maps/Tallon_Continent.jpg)
 ### Tags
 ---
 [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]]

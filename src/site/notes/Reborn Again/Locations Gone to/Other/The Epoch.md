@@ -4,13 +4,22 @@
 
 # The Epoch
 ---
-**Description:** 
-![](https://drive.google.com/file/d/13j3iXSJf6yLRFaKUvGTfIVoNtW1JYHbR/view?usp=drive_link)
-![](https://drive.google.com/file/d/1hmoGNh3ouLW2m-vMphdWXwyKevcv7hDa/view?usp=drive_link)
-![](https://drive.google.com/file/d/1Ccgnj4n6sT0t-v_f2jkKQrec839VITJr/view?usp=drive_link)
-![](https://drive.google.com/file/d/1ayTPo2lmyiTqaOscuFKOTVVKcMv0V86I/view?usp=drive_link)
-![](https://drive.google.com/file/d/1ok7nnE1k6iW3W7uPvL68fHj8XiJvri2-/view?usp=drive_link)
-![](https://drive.google.com/file/d/1L3d8SywBPNQ54roSvawfIdNG5KZEbNlq/view?usp=sharing)
+###### **Description:**
+![Epoch(2).jpg](/img/user/Reborn%20Again/Misc%20Files/Image%20Attachments/Maps/Epoch(2).jpg)
+![Epoch Grid Top(5).jpg](/img/user/Reborn%20Again/Misc%20Files/Image%20Attachments/Maps/Epoch%20Grid%20Top(5).jpg)
+![Epoch Grid Top(2).jpg](/img/user/Reborn%20Again/Misc%20Files/Image%20Attachments/Maps/Epoch%20Grid%20Top(2).jpg)
+![Epoch Grid Mid Deck(1).jpg](/img/user/Reborn%20Again/Misc%20Files/Image%20Attachments/Maps/Epoch%20Grid%20Mid%20Deck(1).jpg)
+
+![Epoch Lower Deck Grid(1).jpg](/img/user/Reborn%20Again/Misc%20Files/Image%20Attachments/Maps/Epoch%20Lower%20Deck%20Grid(1).jpg)
+
+
+![Epoch Hold Grid(1).jpg](/img/user/Reborn%20Again/Misc%20Files/Image%20Attachments/Maps/Epoch%20Hold%20Grid(1).jpg)
+
+
+
+
+
+
 **Who Went There:** Maria Viv THEM Myria  Alma Dragoncaller Arva Aselia Greenleaf Ashlie Starborn Asperoth's Apostle Bixum Charlie Newharvest Cranium Rat Darric Mar'Vain Epoch Flix Daisywind Gallix CR-529 Kalia Sunblessed Lady M Mamoru Gal’Bak Myria's Skully Quill Ak'Ta Rannus Terra Warforged Constructs Scribbles
 **Places of Interest:** `= this.shopsorplacesofinterest`
 **People Known There** 

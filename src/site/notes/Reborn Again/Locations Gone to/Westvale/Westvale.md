@@ -5,9 +5,9 @@
 # Westvale
 ---
 **Description:** 
-![](https://drive.google.com/file/d/1k-9I04CO0I4secqWSX2UThl7OJbwk1K_/view?usp=drive_link)
+![Westvale1.jpg](/img/user/Reborn%20Again/Misc%20Files/Image%20Attachments/Maps/Westvale1.jpg)
 
-![War Map]()
+![SPOILER_image.png](/img/user/Reborn%20Again/Misc%20Files/Image%20Attachments/Maps/SPOILER_image.png)
 **Who Went There:** Myria
 **Places of Interest:** `= this.shopsorplacesofinterest`
 **People Known There**[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]]
