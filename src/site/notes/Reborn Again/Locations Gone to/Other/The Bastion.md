@@ -13,9 +13,10 @@
 #### Notes
 ---
 Crashed infront of [[Tallon City \|Tallon]] 
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina]]
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Spherior\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Spherior]]
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Velkie\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Velkie]]
+[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Xina]]
+[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior\|Spherior]]
+[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Velkie\|Velkie]]
+
 
 # The Bastion
 ---
@@ -28,6 +29,3 @@ Crashed infront of [[Tallon City \|Tallon]]
 #### Notes
 ---
 Crashed infront of [[Tallon City \|Tallon]] 
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Xina]]
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Spherior\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Spherior]]
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Velkie\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral 1/Velkie]]
