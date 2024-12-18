@@ -15,11 +15,11 @@ Ending Date: 9th of Springdawn  
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-==================================================
+---
 
 # People Met
 
-==================================================
+---
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] - Main character interacting with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], with connections to Amelie and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella Halcot]].
     
@@ -31,7 +31,7 @@ Ending Date: 9th of Springdawn  
     
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Marcus Menneth]]- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]'s past romantic interest, revealed by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] during a conversation.
     
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] - A member of the party, converses with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] about family, past trauma, and Fae.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] - A member of the party, converses with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] about family, past trauma, and Fae.
     
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]] - A non-blood family member of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]], who [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] considers like a grandmother.
     
@@ -78,11 +78,11 @@ Ending Date: 9th of Springdawn  
 
   
 
-==================================================
+---
 
 # Places Gone
 
-==================================================
+---
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s small townhouse located in the shifter complex, 
     
@@ -105,11 +105,11 @@ Ending Date: 9th of Springdawn  
   
   
 
-==================================================
+---
 
 # Session Notes
 
-==================================================
+---
 
 -------------------------------------------------------------------------
 
@@ -254,1098 +254,266 @@ Ending Date: 9th of Springdawn  
     
 
   
-
-============================================
-
 # Session Notes
-
-
----
-## 8th of Springdawn
-### 1. Opening Scene
-
-- Arbitration Interaction with THEM:
-    
-
-- Arbitration appears as time slows and freezes after the final battle.
-    
-- THEM kneels before Arbitration, who praises their performance and acknowledges their imbalance in skills.
-    
-- Arbitration retrieves the hourglass from THEM’s possession, resetting its time and restoring its functionality (24 hours).
-    
-- Marcus's soul, previously traded, is confirmed to now act under Arbitration’s directive, with THEM as his primary contact.
-    
-- Arbitration advises THEM to act justly when confronting the one who broke their scales, urging balance over vengeance.
-    
-
 ---
 
-### 2. Post-Battle Cleanup
 
-- Maria V'mova:  
-      
-    
+### **Key Events and Characters**:
 
-- Helps in cleaning up after the battle, tending to injured troops.
+1. **Battle's Aftermath**:
     
-- Low casualties overall, but significant losses among Awakened Treefolk, Iron Legion, and undead forces.
+    - **Victory and Celebration**:
+        - The battle ends with the defeat of the enemies and the city saved.
+        - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** is kneeling before **Arbitration**, who resets their hourglass, granting them another 24 hours.
+        - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]** informs **THEM** that **Marcus's soul** has been traded and will serve **Arbitration** until balance is restored.
+        - **THEM** is reminded to act with justice when confronting those who broke their scales, avoiding vengeance and focusing on balance.
+2. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] V'mova**:
+    - **Speech to the People**: Maria delivers a heartfelt speech in Talon, honoring the fallen and promoting unity among all the people of [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]]on and across different factions.
+        - **Speech Content**:
+            - Maria speaks of the sacrifice made by the soldiers and citizens of Talon, honoring their courage in battle.
+            - She talks about the importance of unity and how the different factions came together to achieve victory.
+            - Maria urges everyone to remember those who fell and continue to fight for a brighter future, ensuring their sacrifice is never forgotten.
+    - **Memorial for the Fallen Soldiers**:
+        - After the speech, Maria oversees the creation of a memorial to honor the fallen soldiers. The memorial is a large stone structure in the city center, inscribed with the names of the brave individuals who gave their lives during the battle.
+        - The memorial includes a statue representing the unity and strength of the people who fought together, symbolizing the hope for the future and the enduring spirit of Talon.
+    - **Post-Speech Celebrations**: The citizens cheer for **Maria**, raising their glasses in celebration. Drinks are provided free of charge, thanks to **Foxy**'s promise to those who helped in the battle.
+	- **Maria's Arrival and Salute**:
     
-- Suggests creating a memorial for the fallen in the town’s center, featuring polished marble with engraved names of every war casualty.
+	    - **Maria** is formally called to meet **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]]** around midday. She dresses in formal attire, following the instructions to dress in "dress blues" style.
+	    - Upon arrival at **Torak's residence** in the proving grounds, she presents herself with a salute, showing respect to her superior.
+	- **Torak's Praise and Mission**:
     
-- Speech outlines unity and resilience, emphasizing collaboration across species and factions to rebuild and honor sacrifices.
+    - **Torak** expresses his admiration for **Maria's** leadership and tactics during the campaign, praising her work so far.
+    - **Maria** responds humbly, stating that she is only following her training.
+	- **Mission Briefing**:
+	    
+	    - **Torak** informs **Maria** that they have lost all contact with **Westvale**.
+	    - **Maria** suggests that **sending stones** are not working, confirming communication issues.
+	    - **Torak** shares that there has been no contact with the **Summer Court** either and that **Westvale** is presumed to have fallen. However, **Maria** holds out hope that there may still be survivors.
+	    - **Torak** asks **Maria** to undertake a mission to **Westvale** in an official capacity: to scout the area, report, and use her best judgment to assess the situation.
+	- **Maria's Acknowledgment**:
+	    
+	    - **Maria** accepts the mission and assures **Torak** she will see it done.
+	    - **Torak** acknowledges the uncertainty of the situation in **Talon**, with the need to protect home front interests before extending aid elsewhere.
+	- **Recruited Companions**:
+	    
+	    - **Torak** introduces **Maria** to three individuals who will accompany her:
+	        - **Rannis**, a towering figure in silver dragon-scale armor, will act as a bodyguard.
+	        - **Arva**, a strategist, will help assess the situation in **Westvale**.
+	        - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Flix Daisywind\|Flix Daisywind]]**, a pixie, who will represent the **Spring Court** and help handle any potential diplomatic issues with the Fae.
+	- **Maria's Remarks**:
+	    
+	    - **Maria** recognizes **Arva** as one of the war clerics from the previous conflict, particularly the **War of the Iron Wall**.
+	    - She notes that **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Arva\|Arva]]** performed exemplary work and is deserving of commendation for their role.
+	    - **Maria** also remarks to **[[Rannis\|Rannis]]** about the long-standing war and their resilience.
+	- **Final Instructions**:
+	    
+	    - **Torak** emphasizes the importance of protecting **Talon** before sending aid to **Westvale**, but acknowledges the necessity of the mission.
+	    - **Maria** expresses her understanding of the situation and readiness to proceed with the task.
+1. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]]**:
     
-
-- Myria Evergreen:  
-      
+    - **Healing and Music**: After the battle, Myria is busy healing the wounded and managing the injured, ensuring everyone is cared for.
+    - **Performing in Honor of the Fallen**: Myria performs music at the bar, summoning spirits to dance in honor of the fallen. She receives praise and tips for her performances.
+    - **Flirtation and Fun**: After drinking, she gets quite drunk but continues playing music. She dedicates a song to **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]** and performs a final song for the group.
+    - **Reflecting on the War**: **Myria** reflects on the emotional toll of the battle and the loss of friends and comrades. She uses this time to process the consequences of the war and the state of their world.
+    - **Connection with Foxy**: **Myria** bonds with **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxie]]**, sharing moments of flirtation and camaraderie.
+4. **Viv**:
     
-
-- Spends hours healing injured individuals post-battle.
+    - **Recognition and Victory**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]** is formally recognized by **Maria** for their exceptional leadership and bravery. **Maria** presents **Viv** with a golden laurel of victory, honoring their efforts during the battle.
+    - **Celebration**: The citizens of Talon cheer for **Viv**, raising their glasses in celebration. Free drinks are provided to those who helped in the battle.
+    - **Meeting Glint**: **Viv** is busy with paperwork when **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]]** walks into the room. **Glint** mentions that **Viv** has selected three new recruits:
+        - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]]**, a fox shifter with insouled weapons (demon-infused weapons).
+        - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]]**, a blue-skinned Vidalcan with silver armor and a black Onyx blade.
+        - An unnamed recruit who does not speak but carries an intimidating presence.
+    - **Viv's Role**: **Viv** continues managing the logistical aspects of the mission to **Westvale**, handling paperwork and overseeing the preparation of the crew.
+5. **THEM**:
     
-- Interacts with Foxy, a magical creature, offering her a restorative spell to rejuvenate her depleted magic reserves.
+    - **Communication with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]**: **THEM** communicates with **Elder Brian** using a sending stone. Brian provides updates on the **Epoch**'s condition, mentions that people have survived on actual rations due to the Fae’s refusal to leave their current location, and informs **THEM** about a possible mythic outpost in **Westvale**.
+    - **Response to Brian**: **THEM** expresses gratitude for the information, mentions **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter\|Baxter]]'s crown** causing discomfort during the battle, and prepares for the next mission.
+    - **Group Leadership**: As a leader, **THEM** coordinates with everyone, ensuring they are ready for the journey ahead and helps formulate strategies for their mission to **Westvale**.
+6. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Radaghast\|Radaghast]]** (Squirrel Fae):
     
-- Eventually suggests celebrating with drinks, inviting the party to gather at Foxy’s.
+    - **Task from Maria**: **Maria** assigns **Radagast** to help break through magical blockages preventing communication with **Westvale**. **Radagast** is described as a quirky and powerful character trusted with an important task.
+    - **Magical Expertise**: **Radagast**'s skills are vital for overcoming the magical barriers that hinder their progress.
+7. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]]** (Fox Shifter):
     
-
-- Charlie’s Heroics:  
-      
+    - **Demon-Infused Weapons**: **Mamoru** is a fox shifter who carries insouled weapons (demon-infused guns). While powerful, the weapons cause tension and unease among the group, as they are dangerous.
+    - **Introduction and Tension**: **Mamoru**'s presence in the group adds to the complexity of the mission, as there are concerns about the guns' power and the demons bound inside them.
+8. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]]** (Vidalcan, Null Soul):
     
-
-- Demonstrated exceptional combat performance during the battle.
+    - **Null Soul Power**: **Lady M** is a Vidalcan who repels magic, creating a strange and unsettling atmosphere. She carries a black Onyx blade that seems to be linked to her ability to block magical energy.
+    - **THEM’s Observations**: **THEM** notes that **Lady M**’s presence repels magic, making it a powerful yet disconcerting force within the group. Her abilities could be useful but also potentially harmful to their mission.
+9. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Bixum\|Bixum]]** (Dwarf Artificer):
     
-- Confirmed to be shadow-touched and blessed by Malady, the god of glorious combat.
+    - **Mechanical Hand**: **Bixom** is a dwarf artificer with a mechanical hand capable of transforming into various tools and appliances. He is recruited as the ship's chef and provides the crew with much-needed food and comfort during the journey.
+    - **Unique Abilities**: **Bixom**’s mechanical hand is versatile, able to create various items like kitchen tools, making him an essential part of the crew.
+10. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]]** (Vampire):
     
-- Maria and others speculate about his divine connections and potential future importance.
+    - **House of Balance**: **Terra** is a vampire from the House of Balance, introduced carrying a coffin and requesting a dark room for rest. She brings an air of mystery to the group due to her quiet and introspective nature.
+    - **Resting on the Ship**: **Terra** seeks peace and quiet, preferring to remain away from the hustle and bustle of the others during the journey.
+11. **[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Skully\|Skully]]** (Flaming Skull):
     
-
----
-
-### 3. Celebrations at Foxy’s Bar
-
-- Drinking and Camaraderie:  
-      
+    - **NecroCorp Creation**: **Myria** creates **Scully**, a magical flaming skull, through her NecroCorp work. **Scully** adds humor and life to the crew, offering lighthearted banter and acting as a companion to **Myria**.
+12. **[[Reborn Again/Locations Gone to/Other/The Epoch\|The Epoch]] and Journey**:
     
-
-- Evergreen initiates the celebration; everyone, including the party, joins in.
+    - **The Epoch**: The party sets off on the ship, with **Myria** showing **Foxy** the magical tree that allows for travel through trees. This intriguing feature excites **Foxy** and adds to the magic of the journey.
+    - **Group Dynamics**: The group continues to bond, with flirtatious moments and playful interactions. **Foxy** and **Myria** share intimate moments, while **THEM** bonds with the new recruits.
+    - **Myria's Reflection**: **Myria** worries about the situation in **Westvale** and feels a sense of urgency. She reflects on her connections with the **Spring Court** and the looming threats posed by the demons and the **Summer Court**.
+13. **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]] and Sending Blockage**:
     
-- Foxy declares free drinks for those who contributed to healing and fighting.
+    - **Sending Blockage**: **Myria** tries to send messages to **Westvale** but finds that her communications are being blocked. She suspects that powerful magic or cloaking spells are at play, especially after hearing about **Depot 1**, which is mysteriously missing from the maps.
+    - **Myria's Concerns**: **Myria** expresses her worries about the situation, including the rebellion in the **Summer Court** and the demon attack on **Westvale**. She believes her sending blockage is not related to the magical cloaking but is tied to another, more serious threat.
+14. **The War Room and Strategy**:
     
-- THEM and others share banter about battle reports and the stack of paperwork caused by recent promotions and incidents.
+    - **Strategic Meeting**: The group meets in the **war room** to strategize about their mission to **Westvale**. **THEM** provides details about the missing **Depot 1**, a strategic location that could be key to the mission.
+    - **Deployment Plans**: **THEM** discusses landing near **Depot 1**, which is magically cloaked. The group prepares for the risks ahead and begins to plan their next steps.
+    - **New Information**: **Myria** shares her knowledge of the **Summer Court**'s revolt, the demon attack, and the uncertain situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**. **THEM** outlines the next steps and what the group will need to do once they arrive.
+15. **Conclusion and Next Steps**:
     
-
-- Performance by Myria Evergreen:  
-      
-    
-
-- Evergreen performs several songs, blending magic and music. She collaborates with her ghouls to create a memorable atmosphere.
-    
-- Uses her connection with Imagination to summon the spirits of the fallen, who “dance” with the living for one night only.
-    
-- Evergreen earns significant tips (400 gold, equivalent to ~$4,000 in real-world currency) as attendees find alternative ways to celebrate without paying for drinks.
-    
-
-- Recognition and Awards:  
-      
-    
-
-- Maria presents Viv with golden laurels of victory in honor of their leadership and bravery.
-    
-- Commendation marks (military-style medals) are awarded to Hawthorne, Tyrius, Emery, and Marla for their roles in defending Talon.
-    
-- THEM drunkenly suggests further toasts and acknowledges Maria as a leader.
-    
-
-- Foxy and Evergreen Dynamic:  
-      
-    
-
-- Foxy playfully grabs Evergreen’s tongue during a flirtatious interaction.
-    
-- Foxy and Evergreen share a private moment later in the night, culminating in a fade-to-black scene.
-    
-
-- Hawthorne’s Drunken Antics:  
-      
-    
-
-- Drunkenly flirts with Maria, complimenting her eyes and comparing them to a forest.
-    
-- Eventually falls asleep leaning on Maria’s shoulder.
-    
-
----
-## 9th of Springdawn
-### 4. Aftermath
-
-- Morning Hangovers:  
-      
-    
-
-- Constitution checks determine varying levels of hangovers:
-    
-
-- THEM: Struggles with their condition, leaning on Maria for support.
-    
-- Evergreen: Drunken but functional.
-    
-- Maria: Retains composure despite tipsiness.
-    
-
-- Interactions with Elder Brian:  
-      
-    
-
-- THEM wakes up to a conversation with Elder Brian, who comments on their hangover and offers assistance.
-    
-- THEM receives a sending stone for direct communication with Brian once per day.
-    
-
-- Ship Discussions:  
-      
-    
-
-- A cannon swap between the Epoch and Bastion solidifies their connection as sister ships.
-    
-- Discussion about the "chode cannon," a rejected oversized ship cannon design, provides comedic relief.
-    
+    - The group prepares to head to **Westvale** to investigate the situation and provide aid. There are still many unknowns, but the party is determined to help and uncover the truth behind the magical blockages, the **Summer Court**'s revolt, and the looming threats to the world.
 
 ---
-
-### 5. Maria’s Meeting with General Torak
-
-- Commendation:  
-      
-    
-
-- Torak officially commends Maria for her exemplary leadership and tactical skills during the campaign.
-    
-
-- Mission to Westvale:  
-      
-    
-
-- Torak briefs Maria on the loss of all contact with Westvale, including failed communication with the Summer Court.
-    
-- Maria is officially assigned to investigate and scout Westvale, assess the situation, and report back.
-    
-
-- Reinforcements Introduced:  
-      
-    
-
-- Maria is introduced to three allies who will accompany her:
-    
-
-1. Rannis of the Silver Scale: A towering warrior clad in silver dragon-scale armor, wielding a large shield and maul.
-    
-2. Arva: A strategist and Asimar with a halo, known for their prowess on the battlefield.
-    
-3. Flix Daisywind: A pixie from the Spring Court, sent by Oberon for diplomacy.
-    
-
-- Radagast, another ally, is humorously revealed sitting unnoticed on Rannis’s shield.
-    
-
-- Preparations:  
-      
-    
-
-- The group acknowledges their roles and begins preparations for the journey to Westvale, with Maria establishing rapport with her new companions.
-    
-
----
-
-### 6. Additional Notable Events
-
-- Imagination’s Role:  
-      
-    
-
-- Evergreen continues to leverage her bond with Imagination, using it creatively for her performances and magical displays.
-    
-
-- Foxy’s Bar Dynamics:  
-      
-    
-
-- Evergreen nominates Jason, an up-and-coming musician, for employment at Foxy’s, despite him not being present.
-    
-
-- Paperwork Chaos:  
-      
-    
-
-- The aftermath of the battle leaves many characters, especially Viv and Hawthorne, dealing with the bureaucratic aftermath of their promotions and incidents.
-    
-
----
-
-Here’s an extremely detailed, expanded summary of Session 19, Part 2, capturing every interaction, detail, and nuance:
-
----
-
-### 1. Maria and Radagast’s Mission Planning
-
-- Maria V’mova briefs Radagast, the fae ally, on a critical task:
-    
-
-- Mission Objective: Establish a connection from Westvale to the rest of the Coalition.
-    
-- Issue: Magical interference is blocking signals and hails from reaching Westvale.
-    
-- Maria entrusts Radagast, calling him uniquely suited for this mission due to his magical expertise and trustworthiness.
-    
-- Radagast salutes her formally but is humorously dismissed by Maria, who treats him as an old friend.
-    
-- Maria speculates that powerful magic, potentially demon-related, is responsible for the signal disruption.
-    
-
----
-
-### 2. Growing Reputation
-
-- The group discusses their rising fame:  
-      
-    
-
-- THEM notes that they’ve become “folk heroes” in Talon City, with their exploits spreading across the Coalition.
-    
-- Maria acknowledges that even nearby regions are vaguely aware of their deeds, largely thanks to the Ravens’ Guild’s communication efforts.
-    
-
-- Maria’s Humor:  
-      
-    
-
-- Maria jokes about having more HP than Rannis, a towering warrior, which leads to a GM explanation:
-    
-
-- The group has crossed the threshold into being legendary figures, vastly more powerful than ordinary mortals.
-    
-
----
-
-### 3. Arrival of New Crew Members
-
-#### Vivian’s Recruits:
-
-1. Mamoru Galbeck (Fox Shifter):  
-      
-    
-
-- Wields ensouled demon weapons that are both powerful and unsettling.
-    
-- Her weapons, a pair of pistols, contain bound demons as power sources, and one pistol (“the black one”) is notably temperamental.
-    
-- She smacks the gun when it speaks, drawing quips and reactions from the group.
-    
-- THEM reacts warily to her aura and weapons, questioning their safety.
-    
-
-3. Lady M (Null Soul Vedalken):  
-      
-    
-
-- A blue-skinned Vedalken wearing dulled silver armor and wielding a massive onyx blade.
-    
-- Null Soul Trait: Her presence repels magic, causing physical discomfort to those sensitive to the Weave.
-    
-- THEM and others feel a clawing sensation in their minds when she approaches, which dissipates when she focuses on controlling her aura.
-    
-- Communicates using sign language and remains stoic, causing unease among the group.
-    
-
-5. Alma Dragonkol (Cleric-like Figure):  
-      
-    
-
-- A slender, tattooed individual with a golden cloak of light and an air of calm authority.
-    
-- Stands out with their aura of balance and control, contrasting the chaos of other recruits.
-    
-
-#### Evergreen’s Recruits:
-
-1. Skully (Animated Flaming Skull):  
-      
-    
-
-- Gifted by the Necro Corp as a permanent, sentient flaming bomb.
-    
-- Cheerfully declares itself Evergreen’s friend and bounces along enthusiastically.
-    
-- Causes minor panic due to its constant heat but is directed to the engine room to avoid accidental fires.
-    
-
-3. Bixom (Dwarf Chef):  
-      
-    
-
-- A cheerful, squat dwarf with a mechanical hand that transforms into kitchen tools.
-    
-- Instantly bonds with THEM over shared curiosity about his hand, which operates using a mysterious combination of artificer technology and imagination.
-    
-- Declares his role as the ship’s chef and heads straight to the kitchen to establish his domain.
-    
-
-5. Terra (Vampire):  
-      
-    
-
-- A vampire with ties to the House of Balance, carrying a coffin and wielding a parasol for sunlight protection.
-    
-- Exudes a calm and eerie presence, likened to Arbitration but less aggressive.
-    
-- Secures a windowless room in the hold for her coffin and expresses her preference for solitude.
-    
-
----
-
-### 4. Preparations for Westvale
-
-- Magical Blockade: Maria, Evergreen, and THEM discuss the challenges posed by magical interference:  
-      
-    
-
-- Evergreen speculates it could be due to cloaking magic over Depot 1.
-    
-- THEM confirms from Arbitration that Depot 1 is still intact but hidden under powerful illusions, which also impact magical communication.
-    
-
-- Westvale's Dire State:  
-      
-    
-
-- Demon Attacks: Shadowed Reapers have devastated the region, targeting its defenseless farming communities.
-    
-- Summer Court Revolt: The Summer Court has rebelled, creating chaos in the northern regions of Westvale.
-    
-- Spring Court Struggles: Evergreen reveals that the Spring Court has delayed reinforcements due to their own demon incursions.
-    
-
-- Strategy Discussion:  
-      
-    
-
-- Depot 1 is identified as the best landing point for the party to regroup, assess the situation, and begin aid efforts.
-    
-- Radagast’s role in overcoming magical interference is highlighted.
-    
-
----
-
-### 5. Life on the Epoch
-
-- Accommodations:  
-      
-    
-
-- Scully is stationed in the engine room to avoid setting the ship aflame.
-    
-- Terra secures a dark, coffin-friendly room in the hold.
-    
-- Bixom claims a hammock in the kitchen, choosing to sleep near his workspace.
-    
-- Lady M is given a private area due to her null magic aura affecting nearby constructs and magical entities.
-    
-
-- Evergreen’s Interactions:  
-      
-    
-
-- Braids Foxy’s tails while walking, casually chatting about Westvale and their plans.
-    
-- Introduces her recruits enthusiastically, calling them all her friends.
-    
-- Describes her excitement over Scully and playfully interacts with the sentient skull.
-    
-
----
-
-### 6. Strategic Meeting
-
-- Key Participants:  
-      
-    
-
-- THEM, Maria, Evergreen, Lady M, Terra, Mamoru, Alma Dragonkol, and Arva (an angelic strategist).
-    
-- Evergreen and THEM present maps, outlining the situation in Westvale.
-    
-
-- Evergreen’s Intel:  
-      
-    
-
-- Details the Shadowed Reapers’ attacks on Westvale’s farmers.
-    
-- Explains her inability to use sending spells to communicate with the region, despite previous success.
-    
-- Notes her connection to Westvale through Baba, a grandmother figure who rescued a survivor in poor condition.
-    
-
-- THEM’s Insights:  
-      
-    
-
-- Shares information from Arbitration:
-    
-
-- Depot 1 is cloaked by powerful magic but remains operational.
-    
-- Suggests it as the landing point for the party to avoid immediate conflict.
-    
-
----
-
-### 7. Evergreen’s Concerns
-
-- Vault Conditions:  
-      
-    
-
-- Evergreen reluctantly agrees to enter a magical vault if necessary but vows to leave if time runs out, regardless of others’ positions.
-    
-
-- Emotional Stakes:  
-      
-    
-
-- Expresses deep worry about friends and family in Westvale, especially in light of the Summer Court rebellion.
-    
-
----
-
-### 8. Foreshadowing and Unease
-
-- Lady M’s Blade:  
-      
-    
-
-- THEM examines the runes on Lady M’s onyx blade, which repel magic and induce physical sickness when observed.
-    
-- Struggles to write down the runes but insists on studying them for their potential utility.
-    
-
-- Scully’s Quirks:  
-      
-    
-
-- Scully’s cheerful personality contrasts with its ominous appearance, creating a blend of humor and foreboding.
-    
-
----
-
-### 9. Departure Preparations
-
-- The group makes final preparations for their journey:
-    
-
-- Evergreen stocks up on magical ingredients and barrels of blood for her own needs.
-    
-- THEM ensures that sending stones are available for communication.
-    
-
-  
-  
-  
-  
-  
-
-==================================================
-
-# Myria Sendings
-
-==================================================
-
-- To : 
-    
-
-- Reply: 
-    
-
-- To : 
-    
-
-- Reply: 
-    
-
--   
-    
-
-  
-
-==================================================
 
 # Lore 
 
-==================================================
-
-Here’s a breakdown of all the lore/story points from the detailed events you've shared:
-
-### Tyrius and Viv
-
-1. Initial Interaction Between Viv and Tyrius:  
-      
-    
-
-- Viv greets Tyrius but is confused about whom they’re speaking to. She expresses unease about the war and her clan's safety.
-    
-- Tyrius relates to Viv’s feelings by mentioning their own family and the concern for them, leading to a moment of trust.
-    
-- Viv offers to meet Tyrius's family.
-    
-
-3. Tyrius Reveals Family:  
-      
-    
-
-- Tyrius shares that their sister, Amelie, and niece, Ella, are alive, even after 70 years since Tyrius’s last time in this body.
-    
-- Viv expresses hesitation in meeting Tyrius’s family, unsure of how they would be perceived.
-    
-
-5. Introduction to Tyrius's Family:  
-      
-    
-
-- Viv removes her shoes as a sign of respect when entering Amelie’s quaint home.
-    
-- Amelie welcomes them warmly, demonstrating openness despite her age.
-    
-- Viv, initially cautious, becomes comfortable and removes her interrogator’s equipment, nearly collapsing from exhaustion.
-    
-
-7. Family Connections and Shared Moments:  
-      
-    
-
-- Amelie offers comforting advice and a gentle gesture to Viv, easing their emotional discomfort.
-    
-- Ella, with a baby boy, plays with Viv’s tail, leading to a humorous and endearing moment where Viv shifts into leopard form.
-    
-
-9. Meal and Personal Connections:  
-      
-    
-
-- Amelie prepares a hearty meal that ties Tyrius back to their roots in Tallinn.
-    
-- Viv teases Tyrius about their dislike of soup, and Tyrius admits to having had a past relationship with someone named Marcus.
-    
-- Viv responds supportively to Tyrius’s confession.
-    
-
-11. The Upcoming Battle and Bonding Ritual:  
-      
-    
-
-- Tyrius and Viv engage in a tradition of braiding each other’s hair before a battle, with Tyrius presenting Viv with a bead as a token.
-    
-- This act symbolizes their bond and mutual support for the upcoming conflict.
-    
-
-13. Viv’s Vulnerability and Support from Tyrius:  
-      
-    
-
-- Viv expresses vulnerability and gratitude toward Tyrius for respecting their gender identity.
-    
-- Tyrius reassures Viv that they would never disrespect them and would stand up for them if others did.
-    
-
-15. Departure and Future Resolve:  
-      
-    
-
-- Viv decides to stay with Tyrius's family for the night.
-    
-- Tyrius reassures Viv of their belief in them, though Viv remains cautious about the future.
-    
-
-17. Viv’s Reflection and the Braided Token:  
-      
-    
-
-- Viv keeps the braid intact as a symbol of their bond with Tyrius and readiness for the Vex Arbiter exam.
-    
-
 ---
 
-### Myria and Viv
-
-1. Setting and the House:  
-      
+- **Battle's Aftermath**:
     
-
-- The conversation takes place in Viv's modest townhouse in the shifter complex, which is sparsely decorated.
+    - The battle ends with the defeat of the enemies and the city saved.
+    - **THEM**'s hourglass is reset by **Arbitration**, granting them another 24 hours.
+    - **Arbitration** informs **THEM** that **Marcus's soul** has been traded to serve **Arbitration** until balance is restored.
+    - **THEM** is reminded to act with justice, not vengeance, when confronting those who broke the scales.
+- **Maria’s Speech and Memorial**:
     
-
-3. The Drawing:  
-      
+    - **Maria** delivers a powerful speech in Talon, honoring the fallen soldiers and promoting unity among the people.
+    - A **memorial** is created for the fallen soldiers, a large stone structure in the city center inscribed with the names of those who died in battle.
+    - The memorial symbolizes the unity and strength of the people and marks the sacrifice made for the victory.
+- **THEM's Talk with Elder Brian**:
     
-
-- Myria gives Viv a drawing of Viv playing in the snow, symbolizing their past adventures.
+    - **Elder Brian** updates **THEM** about the **Epoch**’s condition, mentioning it has been provisioned and did not suffer significant damage.
+    - Brian mentions **Depot 1** in **Westvale** as a potential mythic outpost and shares concerns about powerful magic blocking communication with **Westvale**.
+    - **THEM** is informed that the Fae have been surviving on actual rations due to the refusal of leaving their current location.
+- **Westvale Sending Blockage**:
     
-
-5. Viv’s Past:  
-      
+    - **Myria** attempts to send messages to **Westvale** but is unable to due to magical blockages, possibly caused by cloaking spells or powerful magic.
+    - **Depot 1** is mentioned as being mysteriously missing from maps, which may be connected to the magical blockage.
+- **The Epoch and Magical Travel**:
     
-
-- Viv shares that they were rescued from the White Spears at the age of 15-16, explaining the absence of childhood photos.
+    - The ship, **The Epoch**, is used for travel, and **Foxy** demonstrates how it can travel through trees using magical portals.
+    - **Foxy** becomes intrigued by the tree portal's magic, which plays a role in the journey to **Westvale**.
+- **The Summer Court's Revolt**:
     
-
-7. Conversation About Family:  
-      
+    - **Myria** shares that the **Summer Court** has experienced a revolt, creating chaos that impacts communication and the situation in **Westvale**.
+    - **Spring Court** is also under attack by demons, and **Myria**'s connections within the **Spring Court** provide some insight into the situation.
+- **Depot 1 and Magical Cloaking**:
     
-
-- Myria shares her concept of “family” outside of blood ties, which Viv finds confusing, especially regarding Fae.
+    - **Depot 1**, a strategic location in **Westvale**, is missing from maps, and **THEM** speculates that it may be cloaked by powerful magic, preventing it from being located.
+    - The blockage of communication with **Westvale** is tied to this mystery, with **Depot 1** being a key point of interest.
+- **Magic and Demons in Westvale**:
     
-- Viv was trained to distrust the Fae, contrasting Myria’s innocent view.
+    - **Westvale** is under threat from demons, and **Myria** notes that the attack is significant enough to disrupt communication with the area.
+    - The **Summer Court**'s involvement in the rebellion and the subsequent attack on **Westvale** by demons could be part of a larger ongoing conflict.
+- **Lady M’s Null Soul Power**:
     
-
-9. Viv’s Experiences with Fae:  
-      
+    - **Lady M**, a Vidalcan, possesses a **Null Soul** ability that repels magic, which causes unease within the group.
+    - Her black Onyx blade and power could play a significant role in dealing with magic-based threats during the mission to **Westvale**.
+- **Mamoru Galbeck and Insouled Weapons**:
     
-
-- Viv explains how Fae acts of kindness come with hidden costs, creating tension with Myria’s naive view.
+    - **Mamoru Galbeck**, a fox shifter, carries **Insouled weapons**, which are demon-infused guns that could have a significant impact on the mission.
+    - These weapons, while powerful, carry risks, as the demons within them could be dangerous.
+- **Radagast and Magical Expertise**:
     
-
-11. Emotional Vulnerability:  
-      
+    - **Radagast**, a squirrel Fae, is tasked with helping break through magical blockages in **Westvale**, signaling their importance to the mission ahead.
+- **The War Room Strategy**:
     
-
-- Myria attempts to comfort Viv with a hug, but Viv reacts awkwardly, revealing past trauma. Myria apologizes for the misunderstanding.
+    - The group meets in the **war room** to discuss the mission to **Westvale** and the strategies for dealing with **Depot 1** and the magical threats blocking their communication.
+    - Plans are made to travel to **Depot 1**, which is shrouded in magical cloaking, signaling its importance.
+- **Maria's Role and Leadership**:
     
-
-13. The White Spears and Trauma:  
-      
+    - **Maria** is recognized for her leadership and tactical expertise during the campaign.
+    - **Torak** praises **Maria's** actions and decisions, showing her growing influence and trust in **Talon**'s leadership.
+- **Communication Loss with Westvale**:
     
-
-- Viv opens up about their traumatic past with the White Spears, but Myria struggles to fully comprehend.
+    - **Torak** informs **Maria** that there has been no communication with **Westvale** and that the area is presumed lost.
+    - The loss of communication with **Westvale** is a significant plot point, indicating the area might have fallen or been cut off by magical or physical means.
+- **Mission to Westvale**:
     
-
-15. The Wild Hunt:  
-      
+    - **Torak** assigns **Maria** the task of going to **Westvale** to investigate the situation, scout the area, and report back on the condition of the region.
+    - The mission to **Westvale** is crucial to the storyline, as it signifies a major objective for **Maria** and the group.
+- **Strategic Importance**:
     
-
-- Myria reveals the Wild Hunt began because of her confiding in Titania, while Viv is more focused on their trauma regarding the Fae.
+    - **Maria**’s mission is not only to assess **Westvale** but also to ensure the safety of the region and report on the status of potential survivors, showing the high stakes of the mission.
+    - **Torak** emphasizes the need to protect **Talon** before offering aid to **Westvale**, highlighting **Talon's** strategic importance and internal priorities.
+- **The Recruitment of Allies**:
     
-
-17. Myria’s Family Background:  
-      
+    - **Torak** introduces **Maria** to key companions who will aid her mission:
+        - **Rannis**, a skilled warrior, and bodyguard.
+        - **Arva**, a strategist with experience from previous conflicts, particularly the **War of the Iron Wall**.
+        - **Flix Daisywind**, a pixie representative of the **Spring Court**, who will handle diplomatic matters with the Fae.
+    - These companions are important for the mission, with **Arva** and **Rannis** bringing military and combat expertise, while **Flix** serves as a diplomat for the **Spring Court** and the Fae.
+- **The Fae Connection**:
     
-
-- Myria shares that her mother was once involved with the House of Flesh, which shocks Viv as the House is responsible for his trauma.
+    - **Flix** represents the **Spring Court**, a faction of the Fae, suggesting that the **Spring Court** might play a role in the events in **Westvale** or have influence in the area.
+    - The mention of **Flix** hints at ongoing tensions with the **Summer Court** (from earlier notes) and the importance of Fae relations in the current context.
+- **Ongoing Uncertainty in Talon**:
     
-
-19. Myria’s Support:  
-      
-    
-
-- Myria reassures Viv of their worth and importance, even as Viv sarcastically expresses hopelessness about their future.
-    
-
----
-
-### Session Notes
-
-1. Opening Scene:  
-      
-    
-
-- Arbitration interacts with THEM, praising their performance and resetting the hourglass.
-    
-- Marcus’s soul, now under Arbitration’s direction, is confirmed to be in contact with THEM.
-    
-
-3. Post-Battle Cleanup:  
-      
-    
-
-- Maria V'mova tends to the injured and suggests creating a memorial for fallen soldiers.
-    
-- Maria delivers a speech on unity and resilience.
-    
-- Myria Evergreen helps heal and suggests celebrating afterward.
-    
-
-5. Celebrations at Foxy’s Bar:  
-      
-    
-
-- Evergreen performs, and the spirits of the fallen “dance” with the living.
-    
-- Viv receives a golden laurel, and commendations are awarded to others.
-    
-
-7. Aftermath:  
-      
-    
-
-- Hangovers lead to various humorous interactions.
-    
-- THEME receives a sending stone from Elder Brian for daily communication.
-    
-
-9. Maria’s Meeting with General Torak:  
-      
-    
-
-- Torak commends Maria for her leadership and assigns her to investigate Westvale.
-    
-
-11. Additional Notable Events:  
-      
-    
-
-- Recruits join the party, including Mamoru Galbeck, Lady M, Alma Dragonkol, Skully, Bixom, and Terra.
-    
-
-13. Preparations for Westvale:  
-      
-    
-
-- The group discusses magical interference and preparations for the journey.
-    
-
-15. Life on the Epoch:  
-      
-    
-
-- Characters settle into roles on the ship and interact with new recruits.
-    
-
-17. Strategic Meeting:  
-      
-    
-
-- A strategic meeting occurs regarding the mission to Westvale, with insights about magical interference and the Shadowed Reapers’ attacks.
-    
-
-19. Evergreen’s Concerns:  
-      
-    
-
-- Evergreen expresses worry about friends and family in Westvale.
-    
-
-21. Departure Preparations:  
-      
-    
-
-- The group makes final preparations for the journey to Westvale.
-    
-
--   
-    
-
-  
-
-==================================================
-
+    - **Torak** acknowledges the uncertainty of the situation and the need for **Talon** to focus on internal defense before offering assistance to **Westvale**.
+    - This reflects the larger theme of balancing external and internal threats and the importance of **Talon**'s survival and stability in the face of unknown dangers.
 # Things of Importance
 
-==================================================
-
-Here is a list of key points from the detailed session notes:
-
-### Tyrius and Viv
-
-1. Initial Interaction:  
-      
-    
-
-- Viv greets Tyrius, expressing unease about the war and her clan’s safety.
-    
-- Tyrius relates to Viv’s concerns, mentioning their own family.
-    
-- Viv offers to meet Tyrius’s family, leading to Tyrius mentioning Amelie (sister) and Ella (niece).
-    
-
-3. Family Details:  
-      
-    
-
-- Tyrius reveals Amelie is alive and their family remains connected despite Tyrius’s long absence.
-    
-- Viv shows hesitation in meeting the family, fearing rejection, but Tyrius reassures her.
-    
-
-5. Introduction to Tyrius's Family:  
-      
-    
-
-- They arrive at Amelie’s quaint home, and Viv shows respect by removing shoes.
-    
-- Amelie greets them warmly, understanding Viv’s hesitance and offering comfort.
-    
-- Viv feels safe enough to remove her interrogator's equipment and relax.
-    
-
-7. Family Connections:  
-      
-    
-
-- Amelie provides advice on mismatched internal and external selves, comforting Viv.
-    
-- Ella and her baby interact with Viv’s leopard form, which lightens the mood.
-    
-- Viv entertains the baby while the family enjoys the scene.
-    
-
-9. Meal and Personal Revelations:  
-      
-    
-
-- A meal is shared, and Tyrius expresses nostalgia for home cooking.
-    
-- Tyrius humorously discusses past relationships, particularly with Marcus.
-    
-- Viv offers supportive comments about Tyrius's past relationship.
-    
-
-11. Pre-Battle Tradition:  
-      
-    
-
-- Tyrius shares a tradition of braiding hair before battle, presenting Viv with a meaningful bead.
-    
-- Tyrius braids Viv’s hair, symbolizing camaraderie and mutual support.
-    
-
-13. Viv’s Vulnerability:  
-      
-    
-
-- Viv expresses gratitude for Tyrius respecting their gender identity, leading to an emotional exchange.
-    
-- Tyrius reassures Viv of their unwavering support.
-    
-
-15. Departure and Reflection:  
-      
-    
-
-- Viv decides to stay the night at Tyrius’s home as a sign of respect.
-    
-- Tyrius expresses confidence in Viv’s survival, while Viv remains cautious.
-    
-- Viv reflects on the braid and its significance before leaving.
-    
-
 ---
 
-### Myria and Viv
-
-1. Setting:  
-      
+- **THEM’s Hourglass**:
     
-
-- The conversation occurs at Viv’s small townhouse in the shifter complex.
+    - **THEM**’s hourglass is a tool that tracks their time and actions, and it is reset by **Arbitration**, granting them another 24 hours to act. It is tied to their ongoing mission and responsibilities.
+- **Arbitration**:
     
-- Viv shares the master bedroom with Hana, and the house is sparsely decorated.
+    - **Arbitration** is a mysterious figure who guides **THEM** and resets their hourglass. They also manage **Marcus's soul** and ensure balance is maintained.
+- **Depot 1**:
     
-
-3. Drawing:  
-      
+    - **Depot 1** is a location in **Westvale** that is crucial to the mission but is missing from maps and possibly cloaked by powerful magic.
+- **The Summer Court's Rebellion**:
     
-
-- Myria gifts Viv a drawing she made of Viv playing in the snow, filling a gap in Viv’s past.
+    - A revolt within the **Summer Court** is ongoing, and it significantly impacts the balance of power and communication, particularly affecting the situation in **Westvale**.
+- **The Magical Blockages in Westvale**:
     
-
-5. Viv’s Past:  
-      
+    - The communication blockage with **Westvale** suggests powerful magic or cloaking spells are in place, hiding locations like **Depot 1** and preventing easy contact.
+- **Fae Involvement**:
     
-
-- Viv reveals they were rescued from the White Spears around age 15-16 and have no pictures from their childhood.
+    - **Radagast**, a squirrel Fae, is instrumental in dealing with the magical blockages. The **Fae** are key players in the mission but also present challenges with their own internal struggles.
+- **Maria’s Leadership and Praise**:
     
-
-7. Discussion on Family:  
-      
+    - **Torak** expresses his appreciation for **Maria**'s leadership during the battle, praising her tactical acumen and effectiveness.
+    - **Maria** responds humbly, acknowledging the team effort and her training, but Torak emphasizes her pivotal role in the success.
+- **Mission Assignment to Westvale**:
     
-
-- Myria discusses her non-blood family connections, including Baba and Titania.
+    - **Torak** informs **Maria** about the lack of communication with **Westvale**, and he believes the area is either under attack or has fallen.
+    - **Maria** is tasked with scouting **Westvale**, assessing the situation, and providing a report on the region's condition, specifically looking for survivors or any threats.
+- **Strategic Importance of Westvale**:
     
-- Viv struggles to understand the concept of family outside of blood ties, especially regarding the Fae.
+    - **Torak** acknowledges the potential strategic importance of **Westvale**, but **Maria** is also reminded of the need to ensure **Talon**'s safety before sending any aid.
+    - This task involves both scouting and making decisions based on the severity of the situation in **Westvale**.
+- **Companions Assigned to Maria**:
     
-
-9. Fae Distrust:  
-      
+    - **Torak** introduces **Maria** to three companions who will accompany her on the mission:
+        - **Rannis**, a powerful silver-scaled warrior, who will serve as **Maria**'s bodyguard.
+        - **Arva**, an Asimar strategist, skilled in military tactics, to help plan and evaluate the mission.
+        - **Flix Daisywind**, a pixie from the **Spring Court**, who will assist in diplomatic matters and possibly address Fae relations.
+    - These companions are assigned to ensure that **Maria** has the support she needs, both tactically and diplomatically.
+- **Maria’s Recognition of Arva**:
     
-
-- Viv explains his training to distrust the Fae, contrasting with Myria’s naive view of them.
+    - **Maria** acknowledges **Arva**, having worked with them during the **War of the Iron Wall**, and praises their strategic mind. This establishes a mutual respect between **Maria** and **Arva**, enhancing their working relationship.
+- **Internal Focus for Talon**:
     
-- Tension arises between their differing views on Fae.
+    - While **Torak** stresses the need for **Maria** to complete the mission to **Westvale**, there is also a focus on **Talon**'s internal stability. The balance between external threats and internal defenses is emphasized.
+    - **Maria** understands the gravity of the mission but knows that **Talon**’s safety must be prioritized before further aid is extended.
+- **Maria’s Readiness**:
     
-
-11. Emotional Vulnerability:  
-      
-    
-
-- Myria attempts to comfort Viv with a hug, but Viv reacts awkwardly due to past trauma.
-    
-- Myria apologizes for the unintended touch.
-    
-
-13. The White Spears and Trauma:  
-      
-    
-
-- Viv opens up about the trauma of being taken by the White Spears.
-    
-- Myria tries to empathize but struggles to fully understand Viv’s experiences.
-    
-
-15. The Wild Hunt:  
-      
-    
-
-- Myria reveals that her confiding in Titania led to the Wild Hunt’s initiation.
-    
-- Viv remains focused on his own trauma and distrust toward the Fae.
-    
-
-17. Myria’s Family Revelation:  
-      
-    
-
-- Myria shares that her mother was once involved with the House of Flesh, a faction responsible for Viv’s trauma.
-    
-- This revelation shocks Viv.
-    
-
-19. Myria’s Support:  
-      
-    
-
-- Myria reassures Viv that he is not a bad person and insists that she sees him as family.
-    
-- Viv sarcastically refers to his "suicide plans," reflecting his low self-worth.
-    
-
-21. Closing:  
-      
-    
-
-- Myria reaffirms her friendship with Viv, despite their differing views.
-    
+    - **Maria** expresses her readiness to accept the mission, promising to follow through and make the best decision for **Talon** and **Westvale**.
+    - **Torak** shows confidence in her abilities, affirming that the situation calls for **Maria**'s leadership and judgment.
 
 ---
-
-### Session Notes Summary
-
-1. Opening Scene:  
-      
-    
-
-- Arbitration interacts with THEM, acknowledging their performance and imbalance in skills.
-    
-- Arbitration advises THEM to act justly when confronting the one who broke their scales.
-    
-- Marcus’s soul acts under Arbitration’s directive.
-    
-
-3. Post-Battle Cleanup:  
-      
-    
-
-- Maria helps with battle cleanup and suggests creating a memorial for fallen soldiers.
-    
-- Myria heals the injured and proposes a celebration.
-    
-
-5. Celebrations at Foxy’s Bar:  
-      
-    
-
-- The party celebrates at Foxy’s, with Myria performing and Evergreen summoning spirits of the fallen.
-    
-- Viv receives golden laurels, and medals are awarded to several characters.
-    
-- Foxy and Evergreen share a private moment.
-    
-
-7. Aftermath:  
-      
-    
-
-- Characters deal with hangovers, and Maria discusses the situation with Elder Brian.
-    
-- The group prepares for a mission to Westvale.
-    
-
-9. Maria’s Meeting with General Torak:  
-      
-    
-
-- Maria is tasked with investigating Westvale after losing contact with the region.
-    
-- Maria is introduced to new allies for the mission.
-    
-
-11. New Crew Members:  
-      
-    
-
-- New recruits are introduced, including Mamoru Galbeck, Lady M, and Alma Dragonkol.
-    
-
-13. Preparations for Westvale:  
-      
-    
-
-- Magical interference in Westvale complicates communication.
-    
-- Demon attacks and a Summer Court revolt threaten the region.
-    
-
-15. Life on the Epoch:  
-      
-    
-
-- Crew accommodations are discussed, with new recruits settling in.
-    
-- Evergreen bonds with new recruits and discusses plans for Westvale.
-    
-
-17. Strategic Meeting:  
-      
-    
-
-- The group discusses strategies for approaching Westvale and dealing with magical interference.
-    
-
-19. Foreshadowing:  
-      
-    
-
-- Unease is caused by Lady M’s blade and Scully’s quirky behavior.
-    
-
-21. Departure Preparations:  
-      
-    
-
-- The group makes final preparations for the journey, ensuring they are ready for the challenges ahead.
-    
-
--   
-    
-
-  
-
-==================================================
-
-# Loot
-
-==================================================
-
--   
-    
-
-  
-
-==================================================
 
 # Party Reputation: 6
 
@@ -1353,5 +521,4 @@ know as heros throughout Tallon, vaguely known or surrounding Coalition Continen
 
 *Note: Party Rep goes from -10(Cult of Days End) to 20(Mistfiend)*
 
-==================================================
-[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]][[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]][[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]][[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]][[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]][[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]][[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]][[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]
+---

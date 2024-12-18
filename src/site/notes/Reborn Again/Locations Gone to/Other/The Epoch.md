@@ -21,9 +21,7 @@
 
 
 **Who Went There:** Maria Viv THEM Myria  Alma Dragoncaller Arva Aselia Greenleaf Ashlie Starborn Asperoth's Apostle Bixum Charlie Newharvest Cranium Rat Darric Mar'Vain Epoch Flix Daisywind Gallix CR-529 Kalia Sunblessed Lady M Mamoru Gal’Bak Myria's Skully Quill Ak'Ta Rannus Terra Warforged Constructs Scribbles
-**Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** 
-**Continent:** `= this.continent`
+
 
 #### Notes
 ---

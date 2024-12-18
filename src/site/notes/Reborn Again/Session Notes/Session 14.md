@@ -319,7 +319,7 @@ Every longrest they can choose what to have resistance to
 
 ==================================================
 
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] Donation of a shield ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]])
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Elnos]] Donation of a shield ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]])
     - Enchanted
         - Every long rest they can choose what to have resistance to
     - +1 AC
