@@ -82,7 +82,7 @@ Session 12 _*Dated 10/16/24*_
     - Pixie
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth]]
-    - ![](/img/user/Reborn Again/Misc Files/Image Attachments/MarcusMenneth.png)
+    - ![](/img/user/Reborn Again/Misc Files/Image Attachments/People/MarcusMenneth.png)
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]]
     - Long black hair that looks like a nebula
     - Stars on her face
@@ -276,7 +276,7 @@ Used the magic to alter herself
 - - With T.h.e.m they both see in the sky a small dark winged shape watching with something on its back about 1 mile out
         - Spherior takes bow out fucking giant lady from steven universe style and
 
-![](/img/user/Reborn Again/Misc Files/Image Attachments/Attachment.jpeg)
+![](/img/user/Reborn Again/Misc Files/Image Attachments/People/Attachment.jpeg)
 
 - - - - Bat takes 2 shots to die
     - Xina -[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
@@ -353,7 +353,7 @@ Full Moon
                 - For 20 hours
             - Can be used 3 times in battle
     - With Marcus
-        - ![Marcus Description](/img/user/Reborn Again/Misc Files/Image Attachments/MarcusMenneth.png) 
+        - ![Marcus Description](/img/user/Reborn Again/Misc Files/Image Attachments/People/MarcusMenneth.png) 
 
 -------------------------------------------------------------------------
 

@@ -2,6 +2,64 @@
 {"dg-publish":true,"permalink":"/reborn-again/npcs-pcs-and-other/player-characters/pc-s/myria/"}
 ---
 
+
+# Spells
+
+| Combat Support                                     | Single Damage                      | Damage AOE | Healing                                | Non-Combat                           |              |
+| -------------------------------------------------- | ---------------------------------- | ---------- | -------------------------------------- | ------------------------------------ | ------------ |
+| Spare the Dying                                    | Starry Wisp<br><br>Vicious Mockery |            |                                        | Guidance                             | Cantrip      |
+| Tasha's Hideous Laughter                           |                                    |            | Healing word<br><br>Cure Wounds        | Sending <br><br>Detect Magic<br><br> | 1st level    |
+| Hold Person<br><br><br>Lesser Restoration          | Phantasmal Force                   | Shatter    |                                        |                                      | 2nd level    |
+|                                                    |                                    |            | Revivify <br><br>Mass healing word<br> | <br>Speak with Dead                  | 3rd<br>level |
+| Greater Invisibility<br><br><br>Embody Extraplanar | Phastasmal Killer                  |            |                                        | Identify                             | 4th level    |
+|                                                    |                                    |            |                                        | Teleportation Circle<br>             | 5th level    |
+| Counterspell                                       |                                    |            |                                        |                                      | 6th level    |
+### Spell Slots and Tails
+
+| Spell Slot Level |     |     |     |     |
+| ---------------- | --- | --- | --- | --- |
+| Cantrip          | --  | --  | --  | --  |
+| 1st              | X   |     |     |     |
+| 2nd              | X   |     |     | --  |
+| 3rd              | X   | X   | X   | --  |
+| 4th              | X   | X   | X   | --  |
+| 5th              |     | --  | --  | --  |
+| 6th              |     |     | --  | --  |
+
+| Tails | Used |
+| ----- | ---- |
+| 1     | X    |
+| 2     | X    |
+| 3     |      |
+| 4     |      |
+
+### Familiars
+
+| Other Familiars | Current HP | Total HP |
+| --------------- | ---------- | -------- |
+| Winter the Wolf | 0          | 45       |
+| Scribbles       | 15         | 15       |
+
+| Ghouls        | Current HP | Total HP |
+| ------------- | ---------- | -------- |
+| Ghoul (Daily) | 0          | 35       |
+| Ghoul (Daily) | 0          | 35       |
+| Ghoul (Daily) | 0          | 35       |
+| Ghoul (Daily) | 0          | 35       |
+| Ghoul         | 0          | 35       |
+| Ghoul         | 0          | 35       |
+| Ghoul         | 35         | 35       |
+| Ghoul         | 35         | 35       |
+| Ghoul         | --         | 35       |
+| Ghoul         | --         | 35       |
+| Ghoul         | --         | 35       |
+| Ghoul         | --         | 35       |
+| Ghoul         | --         | 35       |
+| Ghoul         | --         | 35       |
+
+
+---
+
 Halfling 
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
