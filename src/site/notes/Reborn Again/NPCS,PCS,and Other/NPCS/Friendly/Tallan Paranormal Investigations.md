@@ -7,9 +7,9 @@
 ---
 Where They Live: Tallon City 
 Are They Friendly: Friendly 
-Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Myria Viv THEM
-When Did Myria Viv THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 7
-Session Myria Viv THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 7
+Who Met them: Myria Viv THEM
+When Did Myria Viv THEM meet them: Session 7
+Session Myria Viv THEM heard about them: Session 7
 Did Tallan Paranormal Investigations give any quests: No
 	If yes what quest: `= this.quests`
 

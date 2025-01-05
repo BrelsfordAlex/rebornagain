@@ -7,9 +7,9 @@
 ---
 Where They Live: Tallon City 
 Are They Friendly: No
-Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Myria
-When Did Myria meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 13
-Session Myria heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 13
+Who Met them: Myria
+When Did Myria meet them: Session 13
+Session Myria heard about them: Session 13
 Did Todd Toddson give any quests: No
 	If yes what quest: `= this.quests`
 

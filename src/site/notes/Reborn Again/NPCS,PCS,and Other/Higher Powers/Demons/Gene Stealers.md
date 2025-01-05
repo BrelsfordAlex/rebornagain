@@ -8,7 +8,7 @@
 ### About Gene Stealers 
 ---
 **Are They Friendly:** No
-**Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+**Who Met them:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
 **When Did** Maria Myria Viv THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: [[Reborn Again/Session Notes/Session 20\|Session 20]]
 **Session** Maria Myria Viv THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 20 
 WORKS UNDER [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/It That Hungers\|It That Hungers]]

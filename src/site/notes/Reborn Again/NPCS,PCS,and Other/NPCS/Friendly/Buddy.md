@@ -7,9 +7,9 @@
 ---
 Where They Live: Tallon City 
 Are They Friendly: Friendly?
-Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-When Did [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: `= this.whenmet`
-Session [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: `= this.sessionheardabout`
+Who Met them: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
+When Did [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] meet them: `= this.whenmet`
+Session [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] heard about them: `= this.sessionheardabout`
 Did Buddy give any quests: No
 	If yes what quest: `= this.quests`
 

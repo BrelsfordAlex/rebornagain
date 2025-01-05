@@ -7,9 +7,9 @@
 ---
 Where They Live: Shaleverge
 Are They Friendly: Unknown
-Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-When Did [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: N/A
-Session [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: N/A
+Who Met them: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+When Did [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] meet them: N/A
+Session [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] heard about them: N/A
 Did Mayor give any quests: No
 	If yes what quest: `= this.quests`
 

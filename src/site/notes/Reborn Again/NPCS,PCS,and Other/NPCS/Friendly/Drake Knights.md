@@ -7,9 +7,9 @@
 ---
 Where They Live: Tallon City 
 Are They Friendly: Unknown
-Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: `= this.whomet`
-When Did `= this.whomet` meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 13
-Session `= this.whomet` heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 13
+Who Met them: `= this.whomet`
+When Did `= this.whomet` meet them: Session 13
+Session `= this.whomet` heard about them: Session 13
 Did Drake Knights give any quests: No
 	If yes what quest: `= this.quests`
 

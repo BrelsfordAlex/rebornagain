@@ -7,9 +7,9 @@
 ---
 Where They Live: Tallon City 
 Are They Friendly: Neutral
-Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-When Did [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 14
-Session [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 14
+Who Met them: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+When Did [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] meet them: Session 14
+Session [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] heard about them: Session 14
 Did Ella-Kar Marrow give any quests: No
 	If yes what quest: `= this.quests`
 

@@ -7,9 +7,9 @@
 ---
 Where They Live: `= this.location`
 Are They Friendly: Unknown
-Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: T.h.e.m
-When Did T.h.e.m meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 3
-Session T.h.e.m heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 3
+Who Met them: T.h.e.m
+When Did T.h.e.m meet them: Session 3
+Session T.h.e.m heard about them: Session 3
 Did Ava give any quests: No
 	If yes what quest: `= this.quests`
 
@@ -60,9 +60,9 @@ Only people to talk to Ava is [[Reborn Again/NPCS,PCS,and Other/Player Character
 ---
 Where They Live: `= this.location`
 Are They Friendly: Unknown
-Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: T.h.e.m
-When Did T.h.e.m meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 3
-Session T.h.e.m heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 3
+Who Met them: T.h.e.m
+When Did T.h.e.m meet them: Session 3
+Session T.h.e.m heard about them: Session 3
 Did Ava give any quests: No
 	If yes what quest: `= this.quests`
 

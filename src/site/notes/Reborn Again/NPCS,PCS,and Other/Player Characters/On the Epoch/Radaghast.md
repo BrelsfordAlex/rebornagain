@@ -7,9 +7,9 @@
 ---
 Where They Live: Shalevorge
 Are They Friendly: Friendly 
-Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Viv Myria Maria THEM
-When Did Viv Myria Maria THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 1
-Session Viv Myria Maria THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 1
+Who Met them: Viv Myria Maria THEM
+When Did Viv Myria Maria THEM meet them: Session 1
+Session Viv Myria Maria THEM heard about them: Session 1
 Did Radaghast give any quests: No
 	If yes what quest: `= this.quests`
 another ally, is humorously revealed sitting unnoticed on [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannis]]’s shield.

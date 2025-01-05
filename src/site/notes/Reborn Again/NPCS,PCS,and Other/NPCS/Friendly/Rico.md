@@ -7,9 +7,9 @@
 ---
 Where They Live: Tallon City 
 Are They Friendly: Friendly?
-Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Viv Myria Maria THEM
-When Did Viv Myria Maria THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 6
-Session Viv Myria Maria THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 6
+Who Met them: Viv Myria Maria THEM
+When Did Viv Myria Maria THEM meet them: Session 6
+Session Viv Myria Maria THEM heard about them: Session 6
 Did Rico give any quests: No
 	If yes what quest: `= this.quests`
 

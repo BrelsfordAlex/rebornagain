@@ -7,9 +7,9 @@
 ---
 Where They Live: `= this.location`
 Are They Friendly: `= this.friendlyornot`
-Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Viv, Myria, Maria, THEM
-When Did Viv, Myria, Maria, THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: `= this.whenmet`
-Session Viv, Myria, Maria, THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: `= this.sessionheardabout`
+Who Met them: Viv, Myria, Maria, THEM
+When Did Viv, Myria, Maria, THEM meet them: `= this.whenmet`
+Session Viv, Myria, Maria, THEM heard about them: `= this.sessionheardabout`
 Did Vengence give any quests: Yes
 	If yes what quest: Revenge on the Cult of Last Days
 
