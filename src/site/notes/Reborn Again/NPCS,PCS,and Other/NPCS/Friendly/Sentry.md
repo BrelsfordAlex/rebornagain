@@ -7,9 +7,9 @@
 ---
 Where They Live: Tallon City 
 Are They Friendly: Friendly 
-Who Met Them: Myria Viv
-When Did Myria Viv meet them: Session 13
-Session Myria Viv heard about them: Session 13
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Myria Viv
+When Did Myria Viv meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 13
+Session Myria Viv heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 13
 Did Sentry give any quests: No
 	If yes what quest: `= this.quests`
 

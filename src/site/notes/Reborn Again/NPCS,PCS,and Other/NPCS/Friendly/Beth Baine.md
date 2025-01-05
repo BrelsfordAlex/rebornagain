@@ -7,9 +7,9 @@
 ---
 Where They Live: `= this.location`
 Are They Friendly: `= this.friendlyornot`
-Who Met Them: Viv, Myria
-When Did Viv, Myria meet them: Session 7
-Session Viv, Myria heard about them: Session 7
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Viv, Myria
+When Did Viv, Myria meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 7
+Session Viv, Myria heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 7
 Did Beth Baine give any quests: No
 	If yes what quest: `= this.quests`
 

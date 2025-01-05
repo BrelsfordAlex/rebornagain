@@ -7,7 +7,7 @@
 **Description:** 
 **Who Went There:** Viv Maria Myria THEM
 **Places of Interest:** Evie's Shop, Bakery
-**People Known There** Mayor, Faith, [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]], Eniox, Evie Falker, Graham
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Mayor\|Mayor]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith\|Faith]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Eniox]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie Falker]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Graham\|Graham]]
 
 
 #### Notes
@@ -29,7 +29,7 @@
 **Description:** 
 **Who Went There:** Viv Maria Myria THEM
 **Places of Interest:** Evie's Shop, Bakery
-**People Known There** Mayor, Faith, [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]], Eniox, Evie Falker, Graham
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Mayor\|Mayor]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith\|Faith]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Eniox]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie Falker]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Graham\|Graham]]
 
 
 #### Notes

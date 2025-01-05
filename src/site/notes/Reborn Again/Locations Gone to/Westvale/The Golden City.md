@@ -7,7 +7,7 @@
 **Description:** 
 **Who Went There:** `= this.whowasthere`
 **Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** Ava
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
 
 
 #### Notes
@@ -21,7 +21,7 @@ on [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]
 **Description:** 
 **Who Went There:** `= this.whowasthere`
 **Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** Ava
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
 
 
 #### Notes

@@ -7,7 +7,7 @@
 **Description:** 
 **Who Went There:** Viv Maria Myria THEM
 **Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** Xina, Spherior, Velkie
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Xina]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior\|Spherior]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Velkie\|Velkie]]
 
 
 #### Notes
@@ -23,7 +23,7 @@ Crashed infront of [[Tallon City \|Tallon]]
 **Description:** 
 **Who Went There:** Viv Maria Myria THEM
 **Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** Xina, Spherior, Velkie
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Xina]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior\|Spherior]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Velkie\|Velkie]]
 
 
 #### Notes

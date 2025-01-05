@@ -4,7 +4,7 @@
 
 ### Information about Arbitration
 **Description:** Tall Winged creature with scales and blades
-**Who Met Them** Myria THEM
+**Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]** Myria THEM
 **What Are They:** Eidolon
 **When Were They Met:** N/A
 **When Were They Heard About:** Session 2

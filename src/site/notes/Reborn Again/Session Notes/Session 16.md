@@ -301,11 +301,11 @@ Illithid takes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|M
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sana, The Deathless Wanderer\|Sana]] carries her to the farm house (she is using major image to disguise [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]])
                 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] sees this undead man with a sword on his arm and saying how there is atleast 200 cultists
 
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] knows [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] as the White spears
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] knows them as [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|The White Spears]]
 
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] freezes as it looks at her. She tells the party and [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/The Canis\|Cannis]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sana, The Deathless Wanderer\|Sana]] about that person being her stepfather
 
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sana, The Deathless Wanderer\|Sana]] she feels like shes being torn in two her gut is screaming save Vengeance and kill it but also she knows she cant and its like her body is being torn scared
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sana, The Deathless Wanderer\|Sana]] she feels like shes being torn in two her gut is screaming save [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] and kill it but also she knows she cant and its like her body is being torn scared
 
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sana, The Deathless Wanderer\|Sana]] drags her away from the group
 

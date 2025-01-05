@@ -7,9 +7,9 @@
 ---
 Where They Live: Necropolise
 Are They Friendly: Unknown
-Who Met Them: `= this.whomet`
-When Did `= this.whomet` meet them: `= this.whenmet`
-Session `= this.whomet` heard about them: `= this.sessionheardabout`
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: `= this.whomet`
+When Did `= this.whomet` meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: `= this.whenmet`
+Session `= this.whomet` heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: `= this.sessionheardabout`
 Did High Magus Zeref give any quests: No
 	If yes what quest: `= this.quests`
 

@@ -92,9 +92,9 @@
 -----
 
 
-know as heros throughout Tallon, vaguely known or surrounding Coalition Continents
+know as heros throughout [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon]], vaguely known or surrounding Coalition Continents
 
-*Note: Party Rep goes from -10(Cult of Days End) to 20(Mistfiend)*
+*Note: Party Rep goes from -10(Cult of Days End) to 20([[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]])*
 
 # Tags
 -----

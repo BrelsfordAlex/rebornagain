@@ -7,7 +7,7 @@
 **Description:** 
 **Who Went There:** Viv Maria Myria THEM
 **Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** Oakley
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley\|Oakley]]
 
 
 **First Mentioned in:** [[Reborn Again/Session Notes/Session 5\|Session 5]]
@@ -26,7 +26,7 @@
 **Description:** 
 **Who Went There:** Viv Maria Myria THEM
 **Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** Oakley
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley\|Oakley]]
 
 
 **First Mentioned in:** [[Reborn Again/Session Notes/Session 5\|Session 5]]

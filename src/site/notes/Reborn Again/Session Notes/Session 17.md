@@ -71,21 +71,21 @@ Session 17 _*Dated 11/13/24*_
 
 -------------------------------------------------------------------------
 
-### Them
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]
 
 - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]
         - Sees a Simulacra
             - SimulacraAl’Vento
-                - 8 ½ ft tall (Taller than Ava)
+                - 8 ½ ft tall (Taller than [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]])
                 - Multiple joints
                 - Long metal staff with Green and Yellow Light
                 - Al’Vento Status Active The Lonely Sentinal”
-            - Simulacra“Designation Ava Vault 27-A Alleise. Serve it well”
+            - Simulacra“Designation [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] Vault 27-A Alleise. Serve it well”
             - Simulacra serves the vault over the city of Dune-Lay
             - The Simulacra kills and kills after the people of its vault is corrupted
         - Al’Vento Status Active The Lonely Sentinal”
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]
-        - Female Simulacra Al-Adro
+        - Female Simulacra [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Simulacra- Al-Adro\|Al-Adro]]
             - Short 5 ft 8-5 ft 9
             - Living wood and steel
             - Wooden staff
@@ -98,7 +98,7 @@ Session 17 _*Dated 11/13/24*_
         - Al’Adro First of her kindstatus lost
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]
         - SimulacraGallentStatus Deceased
-            - Looks like Tyrius as a warforged
+            - Looks like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] as a warforged
             - 7ft tall
             - Blue
             - Sword
@@ -115,9 +115,9 @@ Session 17 _*Dated 11/13/24*_
             - Not a person
             - Echo of Creator
             - Made in the image of Balance
-        - Someone got into the weave net
-        - Weave knows of all of the demon lords
-            - Goes down the list and Marla asks about the Vermin Lord
+        - Someone got into the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|weave]] net
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|Weave]] knows of all of the demon lords
+            - Goes down the list and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]] asks about the [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Vermin Lord\|Vermin Lord]]
                 - The Vermin Lords weapons
 
 Unstable
@@ -146,23 +146,23 @@ Warbringer Strength
 
 Pox BringerUnknown
 
-- - - “Kalani”Status Active
+- - - “[[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Kalani\|Kalani]]”Status Active
 
 ### Myria
 
-- - Wakes up to see a Grey Misty Owl
-        - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Owl of knowladge\|Knowladge]] Shard of the Grey Knowledge
+- - Wakes up to see a [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|Grey]] Misty Owl
+        - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Owl of knowladge\|Knowladge]] Shard of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|the Grey]] Knowledge
         - Owl read Myria’s Journal
         - Owl agrees to be Myria’s friend
         - Myria learns the old tongue from the Owl
         - Myria agrees to help the owl if it helps her in return
         - Myria taken to the witch of winter
     - Witch of Winter
-        - Sees a grey cat (Curiosity, [[Cat of Curiosity \|Cat of Curiosity ]]), an Elk (Arcanum, [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Elk of Arcanum\|Elk of Arcanum]]), and a snake (Psionics, [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Snake of Psionics\|Snake of Psionics]])
+        - Sees a [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|grey]] cat (Curiosity, [[Cat of Curiosity \|Cat of Curiosity ]]), an Elk (Arcanum, [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Elk of Arcanum\|Elk of Arcanum]]), and a snake (Psionics, [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Snake of Psionics\|Snake of Psionics]])
         - Myria tries to pick up the cat and gets scolded and then talks the cat into letting her pick it up once
-        - Myria agrees to help them and the illithid uses levitate to have Myria touch the statue
+        - Myria agrees to help [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] and the illithid uses levitate to have Myria touch the statue
             - When she touches it Myria falls over and the Illithid says “fuck”
-            - Illithid not linked to Elder brian
+            - Illithid not linked to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder brian]]
         - The statue feels like a lot of mental strain
 
 ### The fight with the Avatars
@@ -178,23 +178,23 @@ Pox BringerUnknown
     - Myria almost cant leave the statue
     - She pulls out of it and wakes up in House of Balance and then passes the fuck out
 
-### Maria
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 
-- - Maria and [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Ella-Kar Marrow\|Ella-Kar Marrow]] go scouting and find some cultists hiding in the woods farther north
-    - Maria asks Elder Brian to link her to Callous
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]] Declines so Maria talks to his Lieutenant Lt. Brint
-        - Maria tells Brint of the cultists
-            - Brint kills them with the power of the Spring Court (prob about 1k of them)
-        - Elder Brian Informs them of the troops and says that the R&D team could take them
+- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Ella-Kar Marrow\|Ella-Kar Marrow]] go scouting and find some cultists hiding in the woods farther north
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] asks [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] to link her to Callous
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]] Declines so [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] talks to his Lieutenant Lt. Brint
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells Brint of the cultists
+            - Brint kills [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] with the power of the Spring Court (prob about 1k of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]])
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] Informs [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] of the troops and says that the R&D team could take [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]
 
-### Maria and Them
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]
 
-- - Them calls the Epoch and the Mizzix R&D team with Maria and Ella-Kar do all halo drop on the cultists and get those numbers down a TON
-    - As them is retreating Tyrius Summons Marcus who appears in a beam of moonlight and goes ham.
+- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]] calls the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] and the Mizzix R&D team with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar do all halo drop on the cultists and get those numbers down a TON
+    - As [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] is retreating [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] Summons [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Marcus]] who appears in a beam of moonlight and goes ham.
 
-### Viv
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 
-- - Viv leaves her cloak with Mistfiend and asks the shifters to move him
+- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] leaves her cloak with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] and asks the shifters to move him
 
 -------------------------------------------------------------------------
 
@@ -204,7 +204,7 @@ Pox BringerUnknown
 
 ### Myria
 
-- - Wakes up in a library with a grey spectral owl infront of her
+- - Wakes up in a library with a [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|grey]] spectral owl infront of her
     - The owl is friends with Myria
     - Owl says that they are proud of Myria
     - Owl tells Myria about the quest
@@ -217,17 +217,17 @@ Pox BringerUnknown
 
 -------------------------------------------------------------------------
 
-### Myria, them, Maria
+### Myria, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 
 - - Figure out that the demons are wanting to wait us out
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tries to use sending but they fail
 
-### Maria
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 
 - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] goes out to scout the farm with [[Ella Halcot \|Ella]]-Kar again
     - She spots a rotting corpse with its arm missing below the elbow and its arm is replaced with a sword
 
-### Viv Myria and Them
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] Myria and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]
 
 - - All get connected to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] through [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] Mind link
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] get sending of the words “Well if it isnt the wayward children meet me or your friend dies”
@@ -249,7 +249,7 @@ Pox BringerUnknown
 - - There is a fight between the Elite troops, shifters, and the mizzix group and the cultists
     - The cultists are children no more than 17
 
-### Maria
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 
 - - The corpse stares at [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
     - Corpse tells that the demons are a means of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengence]]

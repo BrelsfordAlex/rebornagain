@@ -4,7 +4,7 @@
 
 ### Information about Esher
 **Description:** God of Death
-**Who Met Them** Myria Viv
+**Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]** Myria Viv
 **What Are They:** 'God'
 **When Were They Met:** Session 1
 **When Were They Heard About:** Session 1

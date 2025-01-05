@@ -6,7 +6,7 @@ Flix Daisywind Fairy Representative
 Flix (Pixie Advisor)
 
 
-Flix Daisywind: A pixie from the Spring Court, sent by Oberon for diplomacy.
+Flix Daisywind: A pixie from the Spring Court, sent by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Oberon]] for diplomacy.
 ----
 Hp 25/25 AC:20 Movement: 15ft Resitances: N/A               Flying: 60ft Immunities: Frightened, Charmed
 

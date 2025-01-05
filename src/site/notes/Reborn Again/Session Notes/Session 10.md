@@ -111,7 +111,7 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
     - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengence]], it is broken and to make it whole one must die
 - ==================================================
 
-### Them
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]
 
 - ==================================================
     - Goes to meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]' Family
@@ -125,7 +125,7 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
         - Spa/holy site for [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]]
 - ==================================================
 
-### Viv
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 
 - ==================================================
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]] talks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] into seeing Jurian
@@ -135,7 +135,7 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
     - Juran bricked up on a tuesday
 - ==================================================
 
-### Maria
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 
 - ==================================================
     - Bolstering City
@@ -199,9 +199,9 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
     - AvaMistfiend is experiencing butnout bring to water or he exploads
     - Everyone goes to dunk [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] in water (by the place soldiers are)
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] will be out for a week
-    - Sent last sending to Dad I got one word back "vengeance" felt piercing (icepick through temples style)
+    - Sent last sending to Dad I got one word back "[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]]" felt piercing (icepick through temples style)
     - Yep fuck me
-    - Think Dad once held vengeance and the dream corrupted it
+    - Think Dad once held [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] and the dream corrupted it
 - ==================================================
 - Party Reputation: 2
 - Known positively Locally

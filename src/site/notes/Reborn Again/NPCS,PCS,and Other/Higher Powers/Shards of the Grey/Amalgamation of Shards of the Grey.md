@@ -7,15 +7,15 @@
 ---
 Where They Live: Tallon City 
 Are They Friendly: Neutral
-Who Met Them: Myria
-When Did Myria meet them: Session 13
-Session Myria heard about them: Session 13
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Myria
+When Did Myria meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 13
+Session Myria heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 13
 Did amalgamation of shards of the Gray give any quests: Yes
 	If yes what quest: Information never learned 
 
 
 #### Description
-Shards of the grey 
+Shards of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|the grey]] 
 
 ---
 
@@ -27,7 +27,7 @@ Shards of the grey
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 
 ### Information about amalgamation of shards of the Gray
-**Description:** Shards fo the grey
+**Description:** Shards fo [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|the grey]]
 **What Are They:** God Shard
 **When Were They Met:** Session 13
 **When Were They Heard About:** Session 13

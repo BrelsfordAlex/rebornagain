@@ -7,9 +7,9 @@
 ---
 Where They Live: The wood of Iron Trees
 Are They Friendly: Friendly 
-Who Met Them: Viv Myria Maria THEM
-When Did Viv Myria Maria THEM meet them: Session 5
-Session Viv Myria Maria THEM heard about them: N/A
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Viv Myria Maria THEM
+When Did Viv Myria Maria THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 5
+Session Viv Myria Maria THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: N/A
 Did Oakley give any quests: Yes
 	If yes what quest: Defeat the Changer of Ways 
 

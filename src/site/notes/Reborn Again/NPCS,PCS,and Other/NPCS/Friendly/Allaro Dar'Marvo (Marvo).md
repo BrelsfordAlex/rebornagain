@@ -7,9 +7,9 @@
 ---
 Where They Live: Tallon City 
 Are They Friendly: Friendly?
-Who Met Them: Viv Myria Maria THEM
-When Did Viv Myria Maria THEM meet them: Session 12
-Session Viv Myria Maria THEM heard about them: Session 12
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Viv Myria Maria THEM
+When Did Viv Myria Maria THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 12
+Session Viv Myria Maria THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 12
 Did Allaro Dar'Marvo (Marvo) give any quests: No
 	If yes what quest: `= this.quests`
 
@@ -19,8 +19,8 @@ Middle Aged
 Silver Hair 
 Chiseled Jaw
 5 ft 8
-Stark Grey Robes 
-Gold Arbitration necklace (Arbiter based in Tallan city) 
+Stark [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|Grey]] Robes 
+Gold [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]] necklace ([[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbiter]] based in [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallan]] city) 
 Has a great club and wand 
 Mass sending
 

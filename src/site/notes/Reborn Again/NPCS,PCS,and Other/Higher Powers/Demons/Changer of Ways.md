@@ -4,7 +4,7 @@
 
 ### Information about Changer of Ways 
 **Description:** Bird Demon
-**Who Met Them** Maria Myria Viv THEM
+**Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]** Maria Myria Viv THEM
 **What Are They:** Demon God
 **When Were They Met:** Session 5
 **When Were They Heard About:** Session 5

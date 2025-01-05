@@ -7,7 +7,7 @@
 **Description:** 
 **Who Went There:** Viv Maria Myria THEM
 **Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** Kalani
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Kalani\|Kalani]]
 
 
 #### Notes
@@ -21,7 +21,7 @@
 **Description:** 
 **Who Went There:** Viv Maria Myria THEM
 **Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** Kalani
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Kalani\|Kalani]]
 
 
 #### Notes

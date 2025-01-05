@@ -7,9 +7,9 @@
 ---
 Where They Live: The Bastion
 Are They Friendly: Neutral
-Who Met Them: Viv Myria Maria THEM
-When Did Viv Myria Maria THEM meet them: Session 12
-Session Viv Myria Maria THEM heard about them: Session 12
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Viv Myria Maria THEM
+When Did Viv Myria Maria THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 12
+Session Viv Myria Maria THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 12
 Did Velkie give any quests: No
 	If yes what quest: `= this.quests`
 
@@ -21,7 +21,7 @@ Fox
 Small
 Red 
 Adaptable
-Made by the Grey 
+Made by [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|the Grey]] 
 
 ---
 

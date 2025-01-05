@@ -7,15 +7,15 @@
 ---
 Where They Live: The Spring Fae Court
 Are They Friendly: Friendly 
-Who Met Them: T.h.e.m
-When Did T.h.e.m meet them: Session 5
-Session T.h.e.m heard about them: N/A
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: T.h.e.m
+When Did T.h.e.m meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 5
+Session T.h.e.m heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: N/A
 Did Klank give any quests: No
 	If yes what quest: `= this.quests`
 
 
 #### Description
-silver skin, long gold hair, silver gloves, 4 feet tall, oldfiller grey circles
+silver skin, long gold hair, silver gloves, 4 feet tall, oldfiller [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|grey]] circles
 
 ---
 

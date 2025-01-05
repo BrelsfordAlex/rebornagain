@@ -7,9 +7,9 @@
 ---
 Where They Live: Shaleverge
 Are They Friendly: Neutral
-Who Met Them: Viv Maria
-When Did Viv Maria meet them: Session 1
-Session Viv Maria heard about them: N/A
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Viv Maria
+When Did Viv Maria meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 1
+Session Viv Maria heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: N/A
 Did Faith give any quests: No
 	If yes what quest: `= this.quests`
 

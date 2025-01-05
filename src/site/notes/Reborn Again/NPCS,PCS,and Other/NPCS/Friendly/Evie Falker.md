@@ -7,9 +7,9 @@
 ---
 Where They Live: Shaleverge
 Are They Friendly: Friendly 
-Who Met Them: Viv Myria Maria THEM
-When Did Viv Myria Maria THEM meet them: Session 2
-Session Viv Myria Maria THEM heard about them: Session 1
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Viv Myria Maria THEM
+When Did Viv Myria Maria THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 2
+Session Viv Myria Maria THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 1
 Did Evie Falker give any quests: Yes
 	If yes what quest: Evie's Magical Hyperfixation
 

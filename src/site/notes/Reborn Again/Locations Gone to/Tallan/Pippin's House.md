@@ -7,7 +7,7 @@
 **Description:** 
 **Who Went There:** Viv Maria Myria THEM
 **Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** Pippin Falker
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Pippin Falker\|Pippin Falker]]
 
 
 #### Notes
@@ -26,7 +26,7 @@
 **Description:** 
 **Who Went There:** Viv Maria Myria THEM
 **Places of Interest:** `= this.shopsorplacesofinterest`
-**People Known There** Pippin Falker
+**People Known There** [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Pippin Falker\|Pippin Falker]]
 
 
 #### Notes

@@ -7,9 +7,9 @@
 ---
 Where They Live: The wood of Iron Trees
 Are They Friendly: Friendly?
-Who Met Them: Viv, Myria, Maria, THEM
-When Did Viv, Myria, Maria, THEM meet them: Session 4
-Session Viv, Myria, Maria, THEM heard about them: Session 4
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Viv, Myria, Maria, THEM
+When Did Viv, Myria, Maria, THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 4
+Session Viv, Myria, Maria, THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 4
 Did Pan give any quests: No
 	If yes what quest: `= this.quests`
 

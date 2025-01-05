@@ -7,9 +7,9 @@
 ---
 Where They Live: `= this.location`
 Are They Friendly: No
-Who Met Them: Myria Viv Them Maria
-When Did Myria Viv Them Maria meet them: N/A
-Session Myria Viv Them Maria heard about them: Session 13
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Myria Viv Them Maria
+When Did Myria Viv Them Maria meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: N/A
+Session Myria Viv Them Maria heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 13
 Did Allendro Dar'Marvo give any quests: No
 	If yes what quest: `= this.quests`
 
@@ -21,7 +21,7 @@ Undead monster that had a sword for an arm
 
 #### Notes
 ---
-Leader of the White Spears 
+Leader of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|The White Spears]] 
 [[Reborn Again/Quests for Campaign/Demons to Tallon\|Demons to Tallon]]
 [[Reborn Again/Quests for Campaign/Revenge on the Cult of Last Days\|Revenge on the Cult of Last Days]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]

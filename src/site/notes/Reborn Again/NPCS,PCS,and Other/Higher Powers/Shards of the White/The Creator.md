@@ -10,7 +10,7 @@
 
 #### Notes
 ---
-[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]],Vengeance= Worst Part
+[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]],[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengence]]= Worst Part
 [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]]
 [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengence]]
 [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Death (Shard of the White)\|Death (Shard of the White)]]

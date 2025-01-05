@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reborn-again/npcs-pcs-and-other/player-characters/on-the-epoch/rannus/"}
 ---
 
-[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]] guard (Half-Stone Giant)
+Honor guard (Half-Stone Giant)
 Rannus of the Silver Scale (Stone-Giant)
 
 1. Rannus of the Silver Scale: A towering warrior clad in silver dragon-scale armor, wielding a large shield and maul.

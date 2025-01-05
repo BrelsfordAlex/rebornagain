@@ -85,7 +85,7 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gets jewlery costing 20 gold
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gets glowing green ring
 
-### T.H.E.M’S Session 3 Notes
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.H.E.M]]’S Session 3 Notes
 
 - -
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] starts unaware of anything happening on the outside

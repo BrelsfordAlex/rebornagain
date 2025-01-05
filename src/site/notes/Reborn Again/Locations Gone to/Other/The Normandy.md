@@ -41,7 +41,7 @@
     - Corpses of Talon crew members littered the ship, many showing signs of acid burns, claw wounds, and other injuries inflicted during the bio-demons’ rampage.
 - **Captain’s Quarters:**
     
-    - A locked safe in the captain’s quarters contained valuable loot, including potential magical items and information, accessed with assistance from Viv.
+    - A locked safe in the captain’s quarters contained valuable loot, including potential magical items and information, accessed with assistance from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]].
 
 ---
 
@@ -62,7 +62,7 @@
 
 - **Dragon-like Demon:**
     
-    - A massive acid-spitting creature tied to "It That Hungers" was encountered near the Normandy.
+    - A massive acid-spitting creature tied to "[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/It That Hungers\|It That Hungers]]" was encountered near the Normandy.
     - This creature appeared territorial and predatory, guarding the ship from intruders.
 - **Bio-Demons:**
     
@@ -75,7 +75,7 @@
 
 - **Detection and Approach:**
     
-    - THEM and the Epoch parties detected the Normandy as a potential site for exploration.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] parties detected the Normandy as a potential site for exploration.
     - Concerns about structural instability and remaining threats were raised before boarding.
 - **Exploration and Findings:**
     
@@ -93,7 +93,7 @@
 - **Connection to Talon:**
     
     - The Normandy serves as a critical piece of evidence in understanding Talon’s dangerous experiments and their potential misuse of bio-demons.
-    - Its failure underscores the risks of experimenting with entities tied to "It That Hungers."
+    - Its failure underscores the risks of experimenting with entities tied to "[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/It That Hungers\|It That Hungers]]."
 - **Ongoing Threats:**
     
     - The dragon-like demon and remaining bio-demons aboard the ship pose a continuing danger to those exploring its remains.

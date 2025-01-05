@@ -74,15 +74,15 @@ Session 14 _*Dated 10/27/24*_
             - Sweetberry
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Grizz Drann\|Grizz Drann]]
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana, Temportal Disacossiate]]
-        - Marvo congratulated [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] on her exam
-        - Buddy hugs
-        - Glint [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] talk
-            - Glint would normally assign [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] to a village but because of current situations [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is assigned to Tallon City
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]] congratulated [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] on her exam
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Buddy]] hugs
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] talk
+            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]] would normally assign [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] to a village but because of current situations [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is assigned to [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]]
                 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] 80 gold raise
-            - Glint goes over what changes in her position
-                - Glint has to pay [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s Interrogator's way
+            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]] goes over what changes in her position
+                - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]] has to pay [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s Interrogator's way
         - Kalia is building a sniper
-        - Marvo is being sent on a small scouting mission so [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is the highest local interrogator
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]] is being sent on a small scouting mission so [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is the highest local interrogator
             - They are going 2-3 days north
             - Older dragons are waking
     - Baine Clan
@@ -103,10 +103,10 @@ By the progenitor
 - - Work
         - People commenting on [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Todd Toddson\|Todd Toddson]] being gone
 
-### T.h.e.m
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
 
 - - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
-        - Wants to talk to THEM about project Aegis, Star and something else?
+        - Wants to talk to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] about project Aegis, Star and something else?
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] wandering
         - Main town Main gate
             - Refugees at gate
@@ -130,35 +130,35 @@ Wearing v neck flowing dress
 
 Scale freckles
 
-Nebula bird on shoulder (part of the true end)
+Nebula bird on shoulder (part of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|the true end]])
 
-Marrow is the common name for Vel’Vrow
+Marrow is the common name for [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Vel\|Vel]]’Vrow
 
-- - - - - Ella-kar not allowed into city?
+- - - - - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar not allowed into city?
 
-She needs to talk to mistfiend
+She needs to talk to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|mistfiend]]
 
 She knows hes indisposed of?!?!
 
-- - - - - T.h.e.m brings Ella-Kar to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+- - - - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] brings [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 
 - - Green room
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] greets Ella-kar
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] greets [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] knows most dragons sleep alot
-        - Ella-kar asks if another war is coming
-            - Ella-kar wants to help
-        - Ella-Kar tells of forces of cultists near the lonely mountains
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar asks if another war is coming
+            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar wants to help
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar tells of forces of cultists near the lonely mountains
             - But dragons were not the target
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] fought with a dragon similar to Ella-kar
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] fought with a dragon similar to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar
         - The war will have ramifications across all species
-        - Ella-kar has to many teeth
-        - Ella-Kar strong and warm
-        - Ella-Kar comments that the sky is riddled with bats
-        - Ella-Kar joins vet company
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] watches the events with Charlie
-        - Charlie got 2 beers ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] took them lol)
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar has to many teeth
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar strong and warm
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar comments that the sky is riddled with bats
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar joins vet company
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] watches the events with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] got 2 beers ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] took [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] lol)
         - Fantasy Popcorn
         - Bingo sleeping on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s foot
 
@@ -168,13 +168,13 @@ She knows hes indisposed of?!?!
 
 ## -------------------------------------------------------------------------
 
-### T.h.e.m
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
 
-- - It is not them, bur their body fighting
+- - It is not [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]], bur their body fighting
         - Fighting horrors and demons and monsters
-        - All hit with grey mist and atomised
-        - Person looking like them with shield and long sword that glows blue and freezed people
-            - Smiles at THEM
+        - All hit with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|grey]] mist and atomised
+        - Person looking like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] with shield and long sword that glows blue and freezed people
+            - Smiles at [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
         - Endless horror fighting
         - At the end there was nothing left so both go back to their vaults
         - Green energy pulses and then they wake up
@@ -233,7 +233,7 @@ Magic Magic and more Magic
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] about what [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]] told her, [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Todd Toddson\|Todd Toddson]],
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] isnt Mad but is _mad_
 
-### T.h.e.m
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
 
 - - Competition
         - Present

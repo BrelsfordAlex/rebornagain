@@ -24,7 +24,7 @@
 #### **Encounters in the Files:**
 
 - **Dragon-Like Demon:**
-    - A large acid-spitting creature tied to It That Hungers was encountered near the Normandy.
+    - A large acid-spitting creature tied to It That Hungers was encountered near [[Reborn Again/Locations Gone to/Other/The Normandy\|The Normandy]].
     - Described as territorial and predatory, it guarded the area fiercely but displayed limited intelligence.
 - **Demons Associated with It That Hungers**
 	- [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|Gene Stealers]]

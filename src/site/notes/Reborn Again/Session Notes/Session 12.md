@@ -511,7 +511,7 @@ Useless out of combat
 
 ### Sendings:
 
-**[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to her father** "I know the truth. You are no father of mine. You will not hurt Vengeance ever again. I will do what is right and just."
+**[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to her father** "I know the truth. You are no father of mine. You will not hurt [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] ever again. I will do what is right and just."
 
 Replysingle word and a splitting headache,,, _Vengeance_
 
@@ -535,7 +535,7 @@ ReplyI am safe, I will enform the conclave, who is [[Reborn Again/NPCS,PCS,and O
     - Looked like a ray of sunlight
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]] learned the word Interviews!!!! 🎉
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] for most of her life
-    - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] works different than Vengeance
+    - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] works different than [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]]
         - Grows with Host
 - Devines can’t interact with everyone so they choose a select few
 - Devines choose people

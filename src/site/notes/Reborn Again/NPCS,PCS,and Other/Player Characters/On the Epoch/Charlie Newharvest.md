@@ -7,9 +7,9 @@
 ---
 Where They Live: Shaleverge
 Are They Friendly: Friendly 
-Who Met Them: Maria Myria Viv THEM
-When Did Maria Myria Viv THEM meet them: Session 3
-Session Maria Myria Viv THEM heard about them: Session 3
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Maria Myria Viv THEM
+When Did Maria Myria Viv THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 3
+Session Maria Myria Viv THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 3
 Did Charlie Newharvest give any quests: No
 	If yes what quest: `= this.quests`
 
@@ -17,7 +17,7 @@ Did Charlie Newharvest give any quests: No
 #### Description
 Charlie had a frying pan
 Blonde and shadowtouched Fae
-	Maria's hanger on
+	[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]'s hanger on
 	
 
 ---

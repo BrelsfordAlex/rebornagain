@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reborn-again/npcs-pcs-and-other/player-characters/on-the-epoch/quill-ak-ta/"}
 ---
 
-Lookout: Quill Ak'Ta (Raven's Guild, Shifter)
+ Lookout: Quill Ak'Ta (Raven's Guild, Shifter)
 Quill Ak’Ta
 
 Hp 30/30 AC: 16 Movement: 30ft Resistances:

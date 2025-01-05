@@ -7,9 +7,9 @@
 ---
 Where They Live: `= this.location`
 Are They Friendly: Friendly 
-Who Met Them: Viv Myria Maria THEM
-When Did Viv Myria Maria THEM meet them: Session 7
-Session Viv Myria Maria THEM heard about them: `= this.sessionheardabout`
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Viv Myria Maria THEM
+When Did Viv Myria Maria THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 7
+Session Viv Myria Maria THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: `= this.sessionheardabout`
 Did Spark give any quests: No
 	If yes what quest: `= this.quests`
 
@@ -60,9 +60,9 @@ Liquid Metal bird controlled by [[Reborn Again/NPCS,PCS,and Other/Player Charact
 ---
 Where They Live: `= this.location`
 Are They Friendly: Friendly 
-Who Met Them: Viv Myria Maria THEM
-When Did Viv Myria Maria THEM meet them: Session 7
-Session Viv Myria Maria THEM heard about them: `= this.sessionheardabout`
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Viv Myria Maria THEM
+When Did Viv Myria Maria THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 7
+Session Viv Myria Maria THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: `= this.sessionheardabout`
 Did Spark give any quests: No
 	If yes what quest: `= this.quests`
 

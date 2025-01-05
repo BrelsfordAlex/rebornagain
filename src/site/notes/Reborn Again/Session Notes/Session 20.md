@@ -13,15 +13,15 @@
 ---
 # People Met
 ---
-#### **Aboard the Epoch**
+#### **Aboard the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]**
 
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Aselia Greenleaf\|Aselia Greenleaf]]:**
     
     - Half-dryad healer aboard the ship.
-    - Provided Maria with advice on long-term recovery, emphasizing self-care beyond magical healing.
+    - Provided [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] with advice on long-term recovery, emphasizing self-care beyond magical healing.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]]:**
     
-    - Experienced gunslinger and key combatant aboard the Epoch.
+    - Experienced gunslinger and key combatant aboard the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]].
     - Played a major role in the investigation and fight aboard the derelict ship, using firearms to target demons and coordinating tactics.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Ashlie Starborn\|Ashlie Starborn]]:**
     
@@ -29,16 +29,16 @@
     - Briefly interacted with Myria to explain her Core-augmented weaponry.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]]:**
     
-    - A calm, observant member of the Epoch.
+    - A calm, observant member of the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]].
     - Provided analytical commentary and logistical support during the exploration of the derelict ship, avoiding direct combat.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]]:**
     
-    - Frontline defender and protector aboard the Epoch.
+    - Frontline defender and protector aboard the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]].
     - Took on a critical combat role during the ambush, shielding allies and delivering decisive blows to bio-demons.
 - **Khan ([[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]]):**
     
-    - A highly skilled but unconventional engineer aboard the Epoch.
-    - Rigged a teleportation circle by directly feeding power from the ship’s engines, enabling rapid transportation back to the Normandy.
+    - A highly skilled but unconventional engineer aboard the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]].
+    - Rigged a teleportation circle by directly feeding power from the ship’s engines, enabling rapid transportation back to [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]].
     - Known for his jury-rigging abilities, though his methods often cause complications.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Quill Ak'Ta\|Quill Ak'Ta]]:**
     
@@ -64,7 +64,7 @@
 
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria V’mova]]:**
     
-    - A key figure in the investigation, providing analysis of the bio-demon attacks and leading in combat alongside Viv.
+    - A key figure in the investigation, providing analysis of the bio-demon attacks and leading in combat alongside [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]].
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]]:**
     
     - Summoner and strategist, responsible for uncovering details about the ship’s fate and directing undead support in battle.
@@ -75,13 +75,13 @@
 
 	- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]:**
 	    
-	    - Leader figure, focused on coordinating the team’s efforts and ensuring safety during the Normandy exploration.
+	    - Leader figure, focused on coordinating the team’s efforts and ensuring safety during [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]] exploration.
 	- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]:**
 	    
-	    - Provided analytical insight into the demon’s behavior and assessed potential threats within the Normandy.
+	    - Provided analytical insight into the demon’s behavior and assessed potential threats within [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]].
 	- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]:**
 	    
-	    - Led reconnaissance efforts aboard the Normandy, focusing on uncovering hazards and critical data.
+	    - Led reconnaissance efforts aboard [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]], focusing on uncovering hazards and critical data.
 	- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]]:**
 	    
 	    - Played a logistical and supportive role, assisting in mitigating hazards like acid and aiding in data recovery.
@@ -183,7 +183,7 @@
     - **Combat Philosophy:**
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]] encouraged [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] to focus on decisiveness and efficiency, sharing strategies for maintaining an edge in close-range combat.
     - **Personal Insights:**
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]] revealed snippets of her past, including her struggles as an arbiter, deepening [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s respect for her.
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]] revealed snippets of her past, including her struggles as an [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|arbiter]], deepening [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s respect for her.
 - **Reflection:**
     
     - The conversation left [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] with a renewed sense of focus and strategies for managing volatile tools in combat .
@@ -204,7 +204,7 @@
 - **Team Decision:**
     
     - The group agreed to investigate the derelict ship, bringing along [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] as key contributors to the mission.
-    - Epoch remained nearby, monitoring the situation for external threats and standing by for emergency extraction.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] remained nearby, monitoring the situation for external threats and standing by for emergency extraction.
 
 ---
 
@@ -277,7 +277,7 @@
     - Despite being grappled and injured, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] resisted the demon’s attempts to paralyze her, readying herself for retaliation.
 - **Emergence of Additional Demons:**
     
-    - Two more bio-demons emerged from the main deck’s doors, targeting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s undead minions and quickly dispatching them.
+    - Two more bio-demons emerged from the main deck’s doors, targeting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s undead minions and quickly dispatching [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]].
     - A third demon climbed up from below deck, attempting to isolate [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]] while cutting off [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]] from the group.
 
 ---
@@ -291,7 +291,7 @@
     - Using _Heroism_, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] granted [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] temporary hit points and immunity to fear, bolstering her confidence to fight back.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Evergreen:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] summoned additional undead minions to reinforce the group, using them to create barriers against the advancing demons.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] summoned additional undead minions to reinforce the group, using [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] to create barriers against the advancing demons.
     - Her companion dog unleashed its fire breath, dealing heavy damage to one demon and halting its advance toward [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]].
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] managed the battlefield by directing her summons to shield [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]] while coordinating her offensive efforts.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]:**
@@ -306,7 +306,7 @@
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]]:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]] maintained a strategic position, using her firearms to target demons attempting to flank the group.
-    - Her precise shots disrupted the demons’ movements, preventing them from regrouping effectively.
+    - Her precise shots disrupted the demons’ movements, preventing [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] from regrouping effectively.
     - She called out warnings to the team, using her knowledge of bio-demon behavior to anticipate their tactics and keep the group coordinated.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]]:**
     
@@ -321,7 +321,7 @@
 - **Bio-Demons’ Tactics:**
     
     - The demons demonstrated hive-like coordination, retreating when injured and regrouping for counterattacks.
-    - Their agility and ability to exploit confined spaces made them especially dangerous.
+    - Their agility and ability to exploit confined spaces made [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] especially dangerous.
 - **Patriarch-Class Demon:**
     
     - The group concluded that the patriarch-class demon was directing the ambush, using the derelict ship’s layout to its advantage.
@@ -329,15 +329,15 @@
 
 ---
 ### With [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
-#### **Arrival at the Normandy**
+#### **Arrival at [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]]**
 
-- **Discovery of the Normandy:**
+- **Discovery of [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]]:**
     
-    - THEM detected the Normandy, a damaged Talon war vessel, adrift with visible smoke and structural instability.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] detected [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]], a damaged Talon war vessel, adrift with visible smoke and structural instability.
     - The ship was flagged as a potential site of critical information related to Talon’s experiments.
 - **Cautious Approach:**
     
-    - THEM deliberated on the risks of approaching the Normandy, aware of its potential as a trap or the presence of dangerous entities.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] deliberated on the risks of approaching [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]], aware of its potential as a trap or the presence of dangerous entities.
     - Hawthorne expressed concerns about the crew’s safety, emphasizing the need for a well-structured entry plan.
 
 ---
@@ -347,7 +347,7 @@
 - **Assessment of Risks:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] highlighted the likelihood of bio-demons or Talon experiments causing the damage, suggesting defensive measures be prioritized.
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] proposed utilizing scouts to survey the area before a full-scale investigation, supported by Marla’s strategic planning.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] proposed utilizing scouts to survey the area before a full-scale investigation, supported by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]]’s strategic planning.
 - **Dividing Responsibilities:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] decided on roles:
@@ -362,7 +362,7 @@
 - **Appearance of the Dragon-like Demon:**
     
     - A massive acid-spitting creature emerged, described as territorial and fiercely aggressive.
-    - It exhibited territorial behavior, attempting to repel [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] from the Normandy.
+    - It exhibited territorial behavior, attempting to repel [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] from [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]].
 - **Engagement and Response:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] attempted to assess the creature’s intelligence, noting its predatory movements but lack of sophisticated strategy.
@@ -374,14 +374,14 @@
 
 ---
 
-#### **Exploration of the Normandy**
+#### **Exploration of [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]]**
 
 - **Re-entry Plan:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] regrouped and used alternative methods to board the Normandy, circumventing the demon’s watchful presence.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] regrouped and used alternative methods to board [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]], circumventing the demon’s watchful presence.
 - **Initial Observations:**
     
-    - The interior of the Normandy was extensively damaged, with acid burns, claw marks, and signs of a failed containment effort.
+    - The interior of [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]] was extensively damaged, with acid burns, claw marks, and signs of a failed containment effort.
     - Dead Talon crew members were scattered throughout, their injuries suggesting violent deaths inflicted by escaped entities.
 - **Scouting and Findings:**
     
@@ -408,7 +408,7 @@
 
 - **The Dragon-like Demon:**
     
-    - The demon outside the Normandy remained a looming threat, circling the area and periodically attempting to reassert territorial dominance.
+    - The demon outside [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]] remained a looming threat, circling the area and periodically attempting to reassert territorial dominance.
 - **Internal Dangers:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] identified acid pools and structural instability as immediate hazards.
@@ -422,7 +422,7 @@
     - These entities display hive-like coordination, directed by a patriarch-class demon capable of synaptic control.
 2. **Patriarch-Class Demon:**
     
-    - A hive-class entity identified as the most significant threat aboard the derelict ship and the Normandy.
+    - A hive-class entity identified as the most significant threat aboard the derelict ship and [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]].
     - Its ability to coordinate and control lesser demons makes it a critical danger.
 3. **Dragon-like Demon:**
     
@@ -430,11 +430,11 @@
     - Likened to a wolf guarding its kill, it displayed predatory instincts but limited intelligence.
 5. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] Crew and Innovations:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]] demonstrated creative engineering by powering a teleportation circle using the Epoch’s engines, highlighting the crew’s resourcefulness.
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Aselia Greenleaf\|Aselia Greenleaf]] the half-dryad healer, and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]]’s history with demon-bound weapons showcase the diversity and depth of the Epoch’s crew.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]] demonstrated creative engineering by powering a teleportation circle using the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]’s engines, highlighting the crew’s resourcefulness.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Aselia Greenleaf\|Aselia Greenleaf]] the half-dryad healer, and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]]’s history with demon-bound weapons showcase the diversity and depth of the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]’s crew.
 6. **Ship’s Conditions:**
     
-    - The Normandy’s interior bore extensive acid burns, claw marks, and evidence of failed containment efforts.
+    - [[Reborn Again/Locations Gone to/Other/The Normandy\|The Normandy]]’s interior bore extensive acid burns, claw marks, and evidence of failed containment efforts.
 	- Its structural instability posed significant risks to exploration teams.
     
 
@@ -451,7 +451,7 @@
     - Both groups utilized defensive measures like [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]]’ shielding and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]]’s logistical support to mitigate threats.
 - **Data and Logs:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]] recovered partial Talon logs aboard the Normandy, hinting at a catastrophic containment failure. However, much of the data was corrupted.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]] recovered partial Talon logs aboard [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]], hinting at a catastrophic containment failure. However, much of the data was corrupted.
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s interrogation of a scientist’s corpse confirmed the ship’s mission to deliver bio-demons to Mizzix.
 - **Ambush Tactics:**
     
@@ -464,18 +464,18 @@
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]] provided strategic observations, identifying structural weaknesses and enemy patterns.
 - **External Threats:**
     
-    - The dragon-like demon circling the Normandy remained a persistent danger, forcing [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] parties to retreat and replan.
+    - The dragon-like demon circling [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]] remained a persistent danger, forcing [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] parties to retreat and replan.
 
 # Loot
 ---
 1. **Ritual Items and Spell Components:**
-	1. Books and journals related to Cultist experiments were found, potentially containing valuable insight into the bio-demons​ (40 of them)
+	1. Books and journals related to Cultist experiments were found, potentially containing valuable insight into the bio-demons​ (40 of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]])
 2. **Survival Supplies:**
 	1. Large stockpiles of basic equipment (planks, nails, tools) were available in the storage decks​
 3. **Mystery and Intrigue:**
 	1. A locked safe in the captain’s quarters was opened with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s help, yielding additional treasures and a porcelain elephant that when said with the word "**Pancakes**" creates a real elephant for 24 hours
 4. **8th Level Spell Scroll** containing the spell **Holy Aura**​
-5. 8 Arcane Cannonballs with shifting elemental properties. The Epoch crew planned to add a cannon from the derelict ship to their vessel
+5. 8 Arcane Cannonballs with shifting elemental properties. The [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] crew planned to add a cannon from the derelict ship to their vessel
 6. **4 Explosive Barrels** identified and collected for later use​
 7. Basic supplies such as chains, ropes, crowbars, and arrows were collected from the ship's stores​
 8. 4 Slug Shot and 6 Scattershot ammunition obtained for firearms​
@@ -493,7 +493,7 @@
 
 know as heroes throughout [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon]], vaguely known or surrounding Coalition Continents
 
-*Note: Party Rep goes from -10(Cult of Days End) to 20(Mistfiend)*
+*Note: Party Rep goes from -10(Cult of Days End) to 20([[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]])*
 
 # Tags
 -----

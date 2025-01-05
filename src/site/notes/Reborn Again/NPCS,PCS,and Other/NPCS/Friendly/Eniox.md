@@ -7,9 +7,9 @@
 ---
 Where They Live: Shaleverge
 Are They Friendly: Friendly 
-Who Met Them: Myria
-When Did Myria meet them: Session 2
-Session Myria heard about them: Session 1
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Myria
+When Did Myria meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 2
+Session Myria heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 1
 Did Eniox give any quests: No
 	If yes what quest: `= this.quests`
 

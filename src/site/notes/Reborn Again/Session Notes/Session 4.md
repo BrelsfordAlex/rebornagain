@@ -35,7 +35,7 @@ Ending Date: evening of the 25th of Winterdusk 15 days before spring
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] knows the proto magus vault
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Pan (Fae)\|Pan (Fae)]] says creatures of the black came through
 
-### Dreams the first night in the Wood of iron trees
+### Dreams the first night in [[Reborn Again/Locations Gone to/Tallan/The wood of Iron Trees\|the Wood of iron trees]]
 
 - -
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] dreams of playing panflute with the bear under an autumn tree
@@ -59,14 +59,14 @@ Ending Date: evening of the 25th of Winterdusk 15 days before spring
     - nothing happened of importance
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] says she’ll let [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] meet her mom
 
-### Dreams the next night in the Wood of iron trees
+### Dreams the next night in [[Reborn Again/Locations Gone to/Tallan/The wood of Iron Trees\|the Wood of iron trees]]
 
 - - -
-    - Maria relaxing in the forest
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] relaxing in the forest
     - theminternal arguing
-    - Viv-catching snowflakes
-    - Myria
-        - Sea of stars with a grey mist infront of them with 2 black eyes
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]-catching snowflakes
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+        - Sea of stars with a [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|grey]] mist infront of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] with 2 black eyes
         - bear comes out of the mist and Myria holds it
         - "hello child i apologize for the last town"
         - "why were you angry"

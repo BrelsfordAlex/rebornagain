@@ -77,7 +77,7 @@ Session 13 _*Dated 10/23/24*_
     - Riding Gemstone Dragons
     - Gith
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Allendro Dar'Marvo\|Allendro]] Dar’[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]]
-    - Leader of the White Spears
+    - Leader of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|the White Spears]]
 - Elderly Rabbit Shifter
     - Priest Robes
     - In Temple
@@ -309,8 +309,8 @@ This basically means she has protection from the Fae
             - Alaxandra
                 - Scribe
                 - Scholarly robes
-            - Alaxandra takes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to the section on Cult of the Last Days
-        - Cult of the Last Days research
+            - Alaxandra takes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to the section on [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|Cult of the Last Days]]
+        - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|Cult of the Last Days]] research
             - History
                 - History as recorded time
                 - Paper history written on is old scrolls
@@ -580,7 +580,7 @@ Glint calls all arbiters to get the people
         - They want Something that has never been learned by anyone 'ever'. Something completely new
     - “Be yourself and we might join”
         - They don’t understand what they mean
-- Cult of the Last Days research
+- [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|Cult of the last days]] research
     - History
         - History as recorded time
         - Paper history written on is old scrolls
@@ -618,7 +618,7 @@ Glint calls all arbiters to get the people
         - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Pestilence\|Plague]] (Held by the Cult of the Last Day)
         - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Famine\|Famine]] (Held by the Cult of the Last Day)
         - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Deception\|Deception]] (Held by the Cult of the Last Day)
-        - Vengeance (Held by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s dad in the Cult of the Last Day)
+        - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] (Held by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s dad in the Cult of the Last Day)
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Raina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Raina]] has a binding spell
 - When [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] activates her rage she hears “Good” in her head
 - What do you know about [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Allendro Dar'Marvo\|Allendro]] Dar’[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]]

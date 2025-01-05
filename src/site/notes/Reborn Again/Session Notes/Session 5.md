@@ -18,11 +18,11 @@ Ending Date: Evening of the 26th of Winterdusk 14 days before spring
 
 -
 
-### In the Spring Court Sleeping quarters (with Myria and Viv)
+### In the Spring Court Sleeping quarters (with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and Viv)
 
 - - -
     - Viv is sleeping stone cold
-    - Myria draws on Viv in ink
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] draws on Viv in ink
     - first page of Myria's journal is a bad drawing of her parents
     - Myria Crosses out mom's eyes
         - Feeling right about this

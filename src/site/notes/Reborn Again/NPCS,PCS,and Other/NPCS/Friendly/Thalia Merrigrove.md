@@ -7,9 +7,9 @@
 ---
 Where They Live: Tallon City 
 Are They Friendly: Friendly 
-Who Met Them: T.h.e.m, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-When Did T.h.e.m, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] meet them: Session 15
-Session T.h.e.m, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] heard about them: Session 15
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: T.h.e.m, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+When Did T.h.e.m, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 15
+Session T.h.e.m, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 15
 Did Thalia Merrigrove give any quests: No
 	If yes what quest: `= this.quests`
 

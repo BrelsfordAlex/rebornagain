@@ -7,9 +7,9 @@
 ---
 Where They Live: The Spring Fae Court
 Are They Friendly: Friendly 
-Who Met Them: Myria
-When Did Myria meet them: Session 4
-Session Myria heard about them: N/A
+Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]: Myria
+When Did Myria meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 4
+Session Myria heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: N/A
 Did Princess give any quests: No
 	If yes what quest: `= this.quests`
 

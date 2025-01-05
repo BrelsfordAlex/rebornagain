@@ -33,7 +33,7 @@ I will call the Ur-Spirit again.
 
 Bonds:  I live to serve [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]].
 
-Flaws:   I cannot Fathom lies or Deception.
+Flaws:   I cannot Fathom lies or [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Deception\|Deception]].
 
 ---
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]

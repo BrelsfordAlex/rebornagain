@@ -21,7 +21,7 @@ Weapon. Null Blade: Range 5ft, +9 to hit, 15 Slashing damage.
 
 Str: 16 (+3), Dex: 14 (+2), Con:14 (+2), Wis:16 (+3), Int:12 (+1), Cha:8 (-1)         Save Proficiencies: Wis: +7, Str: +7
 
-Proficiencies: Deception: +7, Arcana +9, Athletics +7, History +7
+Proficiencies: [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Deception\|Deception]]: +7, Arcana +9, Athletics +7, History +7
 
   
 

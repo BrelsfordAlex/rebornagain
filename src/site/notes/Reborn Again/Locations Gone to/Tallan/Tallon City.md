@@ -23,10 +23,10 @@
 9. 9 The Warrens
 10.0 The Ravens Guild
 11.1 Baine Territory
-12.2 The church of Samiel
+12.2 The church of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Samiel\|Samiel]]
 13.3 The Church of Maz
-14.4 The Church of Solos and Luna
-15.5 The Church Varra and Esher
+14.4 The Church of Solos and [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]]
+15.5 The Church Varra and [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Esher\|Esher]]
 16.6 The Church of Lothos
 17.7 The Church of Syvilss
 18.8 The Church of Maledy
@@ -37,7 +37,7 @@
 23. 23 Costa Coven
 24. 24 The Moonlight Inn
 25. 25 Foxies
-26. ? Elnos's
+26. ? [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Elnos]]'s
 27. 26 Stella Stag coven
 28. 27 The House
 29. 28 The Devils Dance
@@ -53,7 +53,7 @@
 39. 38 The Home of the Deathless Order
 40. 39 The Dockyard Foundry 
 41. 40 Warehouses 
-42. 41 The Lighthouse of Luna
+42. 41 The Lighthouse of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]]
 43. 42 The Rock
 44. 43 Soldier of Spring
 45. 44 Sorcerer of Summer
