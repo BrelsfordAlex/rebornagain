@@ -10,7 +10,7 @@ Mamoru Gal’Bak (Fox Shifter)
     
 - She smacks the gun when it speaks, drawing quips and reactions from the group.
     
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] reacts warily to her aura and weapons, questioning their safety.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] reacts warily to her aura and weapons, questioning their safety.
 
 Statblock
 ---
@@ -52,7 +52,7 @@ Flaws:   I fear I could become compromised, if that happens I fear what I might
 
 ---
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Alma Dragoncaller\|Alma Dragoncaller]]

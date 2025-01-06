@@ -25,7 +25,7 @@ Leader of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White
 [[Reborn Again/Quests for Campaign/Demons to Tallon\|Demons to Tallon]]
 [[Reborn Again/Quests for Campaign/Revenge on the Cult of Last Days\|Revenge on the Cult of Last Days]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/Session Notes/Session 13\|Session 13]]

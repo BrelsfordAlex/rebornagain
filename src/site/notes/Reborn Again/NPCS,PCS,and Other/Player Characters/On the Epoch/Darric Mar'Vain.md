@@ -28,7 +28,7 @@ At will: Shocking grasp (2d8), Mending, Druidcraft
 
 Weather-wright: As the effects of control weather Darric may channel it to create favourable travel weather once per 10 day.
 
-Ideals:   I will map the eddies of Aether and time, one day I will travel [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] both
+Ideals:   I will map the eddies of Aether and time, one day I will travel [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] both
 
 I love to learn of old magic and of old and power creatures.
 
@@ -38,7 +38,7 @@ Flaws:   I enjoy my craft, maybe too much.
 
 ---
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Alma Dragoncaller\|Alma Dragoncaller]]

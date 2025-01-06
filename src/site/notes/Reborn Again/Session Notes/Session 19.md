@@ -37,7 +37,7 @@ Ending Date: 9th of Springdawn  
     
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] - A Fae, considered by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to be like an aunt.
     
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxie]]- Owner of Foxy’s Bar, involved in celebrations and playful interactions.
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxie]]- Owner of [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]’s Bar, involved in celebrations and playful interactions.
     
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] - A leader who participates in the post-battle cleanup and festivities.
     
@@ -47,7 +47,7 @@ Ending Date: 9th of Springdawn  
     
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]] - Another party member awarded a military commendation.
     
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] - Provides assistance to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] after a hangover.
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] - Provides assistance to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] after a hangover.
     
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Radaghast\|Radaghast]] - A fae ally assigned to investigate magical interference in [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]].
     
@@ -90,7 +90,7 @@ Ending Date: 9th of Springdawn  
     
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s Townhouse - Located in the shifter complex, with two floors and minimal personal items.
     
-- Foxy’s Bar - A celebratory venue where the group gathers after the battle.
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]’s Bar - A celebratory venue where the group gathers after the battle.
     
 - Depot 1 - Mentioned as a hidden location that will be used for landing and regrouping during the mission to [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]].
     
@@ -123,11 +123,11 @@ Ending Date: 9th of Springdawn  
       
     
 
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], still adjusting to the situation, greets [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]). There's some confusion as to who [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is speaking to, which leads to a conversation where [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] expresses her unease about the war and the safety of her clan.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], still adjusting to the situation, greets [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]). There's some confusion as to who [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is speaking to, which leads to a conversation where [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] expresses his unease about the war and the safety of his clan.
     
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] acknowledges the worry, relating to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s feelings by mentioning their own family and the concern for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]. This leads to a moment of trust, where [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] offers to meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]'s family if possible.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] acknowledges the worry, relating to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s feelings by mentioning their own family and the concern for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]]. This leads to a moment of trust, where [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] offers to meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]'s family if possible.
     
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] mentions their sister, Amelie, and niece, [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]], emphasizing that their family would not be scared of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], even though [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] seems worried about how she might be perceived.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] mentions their sister, Amelie, and niece, [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]], emphasizing that their family would not be scared of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], even though [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] seems worried about how he might be perceived.
     
 
 - ## [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] Reveals Family:  
@@ -136,7 +136,7 @@ Ending Date: 9th of Springdawn  
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] explains that their sister, Amelie, is still alive and living in the family home. Despite the passage of time (70 years since [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]’s last time in this body), their family remains a part of their life. They also mention that they are surprised their family is still around.
     
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], still unsure of how to interact with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]’s family, expresses a desire to meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] but also shows hesitation, fearing the reaction to her appearance and complex nature.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], still unsure of how to interact with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]’s family, expresses a desire to meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] but also shows hesitation, fearing the reaction to his appearance and complex nature.
     
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] reassures [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], explaining that their family is understanding, even though there’s still a deep sense of apprehension from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]].
     
@@ -149,9 +149,9 @@ Ending Date: 9th of Springdawn  
     
 - Amelie, though an older woman, greets [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] with a warm hug, showing affection despite her age. She introduces herself as the head of the household, mentioning that her family has had interrogators before, and expresses openness to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]].
     
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], cautious due to her past experiences, is initially unsure of how to engage but is quickly soothed by Amelie’s tenderness and understanding nature.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], cautious due to his past experiences, is initially unsure of how to engage but is quickly soothed by Amelie’s tenderness and understanding nature.
     
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], after some interaction, feels comfortable enough to remove her interrogator’s equipment and almost collapses in a mix of emotional exhaustion and physical weariness.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], after some interaction, feels comfortable enough to remove his interrogator’s equipment and almost collapses in a mix of emotional exhaustion and physical weariness.
     
 
 - ## Family Connections and Shared Moments:  
@@ -160,7 +160,7 @@ Ending Date: 9th of Springdawn  
 
 -  Amelie, a perceptive woman, notices [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s state of mind and gently pats [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s head while giving advice about the mismatched internal and external selves. This gesture brings comfort to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], though it is emotionally charged.
     
-- A younger woman, [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]], enters with a baby boy, who immediately reaches out to grab [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s tail, drawing a light-hearted response from the family. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], shifting into her leopard form, humorously interacts with the baby, letting the child play with her fur.
+- A younger woman, [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]], enters with a baby boy, who immediately reaches out to grab [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s tail, drawing a light-hearted response from the family. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], shifting into his leopard form, humorously interacts with the baby, letting the child play with her fur.
     
 - The scene continues with a lighthearted and endearing moment where [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], still in leopard form, tries to keep the baby entertained, while [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]] and Amelie find the interaction amusing.
     
@@ -191,7 +191,7 @@ Ending Date: 9th of Springdawn  
       
     
 
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] experiences a moment of vulnerability, crying and expressing gratitude toward [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] for respecting their gender identity. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]], with unwavering support, reassures [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], saying they would never disrespect [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] and would stand up for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] if others did.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] experiences a moment of vulnerability, crying and expressing gratitude toward [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] for respecting their gender identity. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]], with unwavering support, reassures [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], saying they would never disrespect [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] and would stand up for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] if others did.
     
 - This emotional exchange strengthens the connection between [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]], as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] feels understood and supported by someone they deeply trust.
     
@@ -200,11 +200,11 @@ Ending Date: 9th of Springdawn  
       
     
 
-- As the evening progresses, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] decides to stay with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]'s family for the night as a sign of respect and gratitude. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] promises to convey [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s appreciation to the family and reassures [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] that they will stand together in the coming battles.
+- As the evening progresses, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] decides to stay with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]'s family for the night as a sign of respect and gratitude. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] promises to convey [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s appreciation to the family and reassures [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] that they will stand together in the coming battles.
     
 - Before leaving, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] expresses confidence that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] will survive the war, and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] responds with a more cautious outlook, expressing discomfort with excessive hope.
     
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] offers final words of encouragement, reminding [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] that they believe in [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] leaves, determined but cautious about the future.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] offers final words of encouragement, reminding [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] that they believe in [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] leaves, determined but cautious about the future.
     
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s Reflection and the Braided Token:  
@@ -214,42 +214,42 @@ Ending Date: 9th of Springdawn  
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] takes note of the braid, which remains intact despite the emotional and physical toll of the day. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] makes sure that no one interferes with the braid, especially not Hannah, and ensures that it stays crisp, symbolizing both their bond with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] and their readiness for the Vex [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbiter]] exam.
     
 
-## Myria and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
+## [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 
-- Setting: The conversation takes place in [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s small townhouse located in the shifter complex, which has two floors with a master bedroom and a smaller bedroom. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] normally shares the master bedroom with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]]. There are few personal items in the house, such as a clock and a pull-up bed for guests. Myria notices the lack of photos of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] growing up, leading to a discussion about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s past.  
+- Setting: The conversation takes place in [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s small townhouse located in the shifter complex, which has two floors with a master bedroom and a smaller bedroom. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] normally shares the master bedroom with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]]. There are few personal items in the house, such as a clock and a pull-up bed for guests. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] notices the lack of photos of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] growing up, leading to a discussion about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s past.  
       
     
-- The Drawing: Myria gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] a drawing of her playing in the snow, which she had made during their adventures before they met the rest of the party. She hopes it will serve as a picture of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], even though [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] has no pictures of herself in the house.  
+- The Drawing: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] a drawing of her playing in the snow, which she had made during their adventures before they met the rest of the party. She hopes it will serve as a picture of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], even though [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] has no pictures of himself in the house.  
       
     
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s Past: Myria presses for more details about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s past. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] reveals that she was rescued from [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|the White Spears]] when she was around 15-16, and this trauma prevents her from having any pictures of her childhood.  
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s Past: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] presses for more details about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s past. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] reveals that he was rescued from [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|the White Spears]] when he was around 15-16, and this trauma prevents him from having any pictures of his childhood.  
       
     
-- Conversation About Family: Myria shares details about her own family, explaining that she considers Baba (a non-blood family member) to be like a grandmother, and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] like an aunt. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] finds this concept of “family” outside of blood ties confusing, especially as it pertains to Fae, as he was trained not to trust [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]].  
+- Conversation About Family: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] shares details about her own family, explaining that she considers Baba (a non-blood family member) to be like a grandmother, and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] like an aunt. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] finds this concept of “family” outside of blood ties confusing, especially as it pertains to Fae, as he was trained not to trust them  
       
     
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s Experiences with Fae: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] explains that he was trained to distrust the Fae, recalling how every act of kindness from the Fae is tied to a hidden deal. Myria, however, is oblivious to the Fae’s manipulative nature and sees [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] as friendly, particularly her own connections to Fae like the Spring Court [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|princess]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]], and her pet, [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]].  
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s Experiences with Fae: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] explains that he was trained to distrust the Fae, recalling how every act of kindness from the Fae is tied to a hidden deal. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]], however, is oblivious to the Fae’s manipulative nature and sees them as friendly, particularly her own connections to Fae like the Spring Court [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|princess]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]], and her pet, [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]].  
       
     
-- Myria’s Struggles with Understanding [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] expresses frustration with Myria’s naive view of the Fae, pointing out that they can ask for anything in return for help, including dangerous tasks. Myria doesn’t understand the issue, and their differing views create tension.  
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s Struggles with Understanding [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] expresses frustration with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s naive view of the Fae, pointing out that they can ask for anything in return for help, including dangerous tasks. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] doesn’t understand the issue, and their differing views create tension.  
       
     
-- Emotional Vulnerability: At one point, Myria tries to comfort [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] with a hug, but [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] reacts awkwardly, reflecting past trauma from his time with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|the White Spears]]. Afterward, Myria apologizes for trying to touch him without consent, emphasizing that she values their friendship deeply.  
+- Emotional Vulnerability: At one point, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tries to comfort [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] with a hug, but [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] reacts awkwardly, reflecting past trauma from his time with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|the White Spears]]. Afterward, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] apologizes for trying to touch him without consent, emphasizing that she values their friendship deeply.  
       
     
-- [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|The White Spears]] and Trauma: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] opens up about his traumatic past, mentioning [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|the White Spears]] and how they took him from his parents. Myria tries to empathize but doesn’t fully understand [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s experiences.  
+- [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|The White Spears]] and Trauma: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] opens up about his traumatic past, mentioning [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/The White Spears\|the White Spears]] and how they took him from his parents. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tries to empathize but doesn’t fully understand [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s experiences.  
       
     
-- The Wild Hunt: Myria reveals that the Wild Hunt began because she confided in [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] about her past, and this led to the hunt being called. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], however, is more focused on his own trauma, particularly his disdain for the Fae, and Myria’s innocence about their manipulative behavior creates a barrier in their conversation.  
+- The Wild Hunt: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] reveals that the Wild Hunt began because she confided in [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] about her past, and this led to the hunt being called. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], however, is more focused on his own trauma, particularly his disdain for the Fae, and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s innocence about their manipulative behavior creates a barrier in their conversation.  
       
     
-- Myria’s Family Background: Myria also shares that her mother was once involved with the House of Flesh, a faction that had a significant impact on her life. This revelation is shocking to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], as the House of Flesh is responsible for the trauma [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] endured.  
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s Family Background: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] also shares that her mother was once involved with the House of Flesh, a faction that had a significant impact on her life. This revelation is shocking to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], as the House of Flesh is responsible for the trauma [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] endured.  
       
     
-- Myria’s Support: Myria insists that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is not a bad person, despite his self-blame, and reassures him that she sees him as family. This leads to a tense moment where [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] sarcastically refers to his "suicide plans," joking about his sense of worth.  
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s Support: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] insists that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is not a bad person, despite his self-blame, and reassures him that she sees him as family. This leads to a tense moment where [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] sarcastically refers to his "suicide plans," joking about his sense of worth.  
       
     
-- Closing Thoughts: The conversation ends with Myria reassuring [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] that she values their friendship and will always be there for him, reinforcing her commitment to their bond despite their differing views.  
+- Closing Thoughts: The conversation ends with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] reassuring [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] that she values their friendship and will always be there for him, reinforcing her commitment to their bond despite their differing views.  
       
     
 
@@ -264,9 +264,9 @@ Ending Date: 9th of Springdawn  
     
     - **Victory and Celebration**:
         - The battle ends with the defeat of the enemies and the city saved.
-        - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** is kneeling before **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]**, who resets their hourglass, granting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] another 24 hours.
-        - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]** informs **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** that **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Marcus]]'s soul** has been traded and will serve **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]** until balance is restored.
-        - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** is reminded to act with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|justice]] when confronting those who broke their scales, avoiding [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] and focusing on balance.
+        - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]** is kneeling before **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]**, who resets their hourglass, granting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] another 24 hours.
+        - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]** informs **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** that **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Marcus]]'s soul** has been traded and will serve **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]** until balance is restored.
+        - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** is reminded to act with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|justice]] when confronting those who broke their scales, avoiding [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] and focusing on balance.
 2. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] V'mova**:
     - **Speech to the People**: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] delivers a heartfelt speech in Talon, honoring the fallen and promoting unity among all the people of [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]]on and across different factions.
         - **Speech Content**:
@@ -276,7 +276,7 @@ Ending Date: 9th of Springdawn  
     - **Memorial for the Fallen Soldiers**:
         - After the speech, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] oversees the creation of a memorial to [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|honor]] the fallen soldiers. The memorial is a large stone structure in the city center, inscribed with the names of the brave individuals who gave their lives during the battle.
         - The memorial includes a statue representing the unity and strength of the people who fought together, symbolizing the hope for the future and the enduring spirit of Talon.
-    - **Post-Speech Celebrations**: The citizens cheer for **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]**, raising their glasses in celebration. Drinks are provided free of charge, thanks to **Foxy**'s promise to those who helped in the battle.
+    - **Post-Speech Celebrations**: The citizens cheer for **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]**, raising their glasses in celebration. Drinks are provided free of charge, thanks to **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]**'s promise to those who helped in the battle.
 	- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]'s Arrival and Salute**:
     
 	    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** is formally called to meet **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]]** around midday. She dresses in formal attire, following the instructions to dress in "dress blues" style.
@@ -312,11 +312,11 @@ Ending Date: 9th of Springdawn  
 	    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** expresses her understanding of the situation and readiness to proceed with the task.
 1. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]]**:
     
-    - **Healing and Music**: After the battle, Myria is busy healing the wounded and managing the injured, ensuring everyone is cared for.
-    - **Performing in [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]] of the Fallen**: Myria performs music at the bar, summoning spirits to dance in [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|honor]] of the fallen. She receives praise and tips for her performances.
+    - **Healing and Music**: After the battle, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] is busy healing the wounded and managing the injured, ensuring everyone is cared for.
+    - **Performing in [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]] of the Fallen**: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] performs music at the bar, summoning spirits to dance in [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|honor]] of the fallen. She receives praise and tips for her performances.
     - **Flirtation and Fun**: After drinking, she gets quite drunk but continues playing music. She dedicates a song to **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]** and performs a final song for the group.
-    - **Reflecting on the War**: **Myria** reflects on the emotional toll of the battle and the loss of friends and comrades. She uses this time to process the consequences of the war and the state of their world.
-    - **Connection with Foxy**: **Myria** bonds with **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxie]]**, sharing moments of flirtation and camaraderie.
+    - **Reflecting on the War**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** reflects on the emotional toll of the battle and the loss of friends and comrades. She uses this time to process the consequences of the war and the state of their world.
+    - **Connection with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** bonds with **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxie]]**, sharing moments of flirtation and camaraderie.
 4. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]**:
     
     - **Recognition and Victory**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]** is formally recognized by **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** for their exceptional leadership and bravery. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** presents **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]** with a golden laurel of victory, honoring their efforts during the battle.
@@ -326,11 +326,11 @@ Ending Date: 9th of Springdawn  
         - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]]**, a blue-skinned Vidalcan with silver armor and a black Onyx blade.
         - An unnamed recruit who does not speak but carries an intimidating presence.
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s Role**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]** continues managing the logistical aspects of the mission to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**, handling paperwork and overseeing the preparation of the crew.
-5. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]**:
+5. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]**:
     
-    - **Communication with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** communicates with **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]** using a sending stone. Brian provides updates on the **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]**'s condition, mentions that people have survived on actual rations due to the Fae’s refusal to leave their current location, and informs **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** about a possible mythic outpost in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
-    - **Response to Brian**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** expresses gratitude for the information, mentions **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter\|Baxter]]'s crown** causing discomfort during the battle, and prepares for the next mission.
-    - **Group Leadership**: As a leader, **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** coordinates with everyone, ensuring they are ready for the journey ahead and helps formulate strategies for their mission to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
+    - **Communication with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** communicates with **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]** using a sending stone. Brian provides updates on the **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]**'s condition, mentions that people have survived on actual rations due to the Fae’s refusal to leave their current location, and informs **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** about a possible mythic outpost in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
+    - **Response to Brian**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** expresses gratitude for the information, mentions **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter\|Baxter]]'s crown** causing discomfort during the battle, and prepares for the next mission.
+    - **Group Leadership**: As a leader, **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** coordinates with everyone, ensuring they are ready for the journey ahead and helps formulate strategies for their mission to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
 6. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Radaghast\|Radaghast]]** (Squirrel Fae):
     
     - **Task from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** assigns **Radagast** to help break through magical blockages preventing communication with **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**. **Radagast** is described as a quirky and powerful character trusted with an important task.
@@ -338,11 +338,11 @@ Ending Date: 9th of Springdawn  
 7. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]]** (Fox Shifter):
     
     - **Demon-Infused Weapons**: **Mamoru** is a fox shifter who carries insouled weapons (demon-infused guns). While powerful, the weapons cause tension and unease among the group, as they are dangerous.
-    - **Introduction and Tension**: **Mamoru**'s presence in the group adds to the complexity of the mission, as there are concerns about the guns' power and the demons bound inside [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]].
+    - **Introduction and Tension**: **Mamoru**'s presence in the group adds to the complexity of the mission, as there are concerns about the guns' power and the demons bound inside [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]].
 8. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]]** (Vidalcan, Null Soul):
     
     - **Null Soul Power**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]]** is a Vidalcan who repels magic, creating a strange and unsettling atmosphere. She carries a black Onyx blade that seems to be linked to her ability to block magical energy.
-    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]’s Observations**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** notes that **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]]**’s presence repels magic, making it a powerful yet disconcerting force within the group. Her abilities could be useful but also potentially harmful to their mission.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]’s Observations**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** notes that **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]]**’s presence repels magic, making it a powerful yet disconcerting force within the group. Her abilities could be useful but also potentially harmful to their mission.
 9. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Bixum\|Bixum]]** (Dwarf Artificer):
     
     - **Mechanical Hand**: **Bixom** is a dwarf artificer with a mechanical hand capable of transforming into various tools and appliances. He is recruited as the ship's chef and provides the crew with much-needed food and comfort during the journey.
@@ -353,21 +353,21 @@ Ending Date: 9th of Springdawn  
     - **Resting on the Ship**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]]** seeks peace and quiet, preferring to remain away from the hustle and bustle of the others during the journey.
 11. **[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Skully\|Skully]]** (Flaming Skull):
     
-    - **NecroCorp Creation**: **Myria** creates **Scully**, a magical flaming skull, through her NecroCorp work. **Scully** adds humor and life to the crew, offering lighthearted banter and acting as a companion to **Myria**.
+    - **NecroCorp Creation**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** creates **[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Skully\|Skully]]**, a magical flaming skull, through her NecroCorp work. **Scully** adds humor and life to the crew, offering lighthearted banter and acting as a companion to **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]**.
 12. **[[Reborn Again/Locations Gone to/Other/The Epoch\|The Epoch]] and Journey**:
     
-    - **The [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]**: The party sets off on the ship, with **Myria** showing **Foxy** the magical tree that allows for travel through trees. This intriguing feature excites **Foxy** and adds to the magic of the journey.
-    - **Group Dynamics**: The group continues to bond, with flirtatious moments and playful interactions. **Foxy** and **Myria** share intimate moments, while **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** bonds with the new recruits.
-    - **Myria's Reflection**: **Myria** worries about the situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** and feels a sense of urgency. She reflects on her connections with the **Spring Court** and the looming threats posed by the demons and the **Summer Court**.
+    - **The [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]**: The party sets off on the ship, with **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** showing **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]** the magical tree that allows for travel through trees. This intriguing feature excites **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]** and adds to the magic of the journey.
+    - **Group Dynamics**: The group continues to bond, with flirtatious moments and playful interactions. **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]** and **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** share intimate moments, while **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** bonds with the new recruits.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s Reflection**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** worries about the situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** and feels a sense of urgency. She reflects on her connections with the **Spring Court** and the looming threats posed by the demons and the **Summer Court**.
 13. **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]] and Sending Blockage**:
     
-    - **Sending Blockage**: **Myria** tries to send messages to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** but finds that her communications are being blocked. She suspects that powerful magic or cloaking spells are at play, especially after hearing about **Depot 1**, which is mysteriously missing from the maps.
-    - **Myria's Concerns**: **Myria** expresses her worries about the situation, including the rebellion in the **Summer Court** and the demon attack on **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**. She believes her sending blockage is not related to the magical cloaking but is tied to another, more serious threat.
+    - **Sending Blockage**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** tries to send messages to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** but finds that her communications are being blocked. She suspects that powerful magic or cloaking spells are at play, especially after hearing about **Depot 1**, which is mysteriously missing from the maps.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s Concerns**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** expresses her worries about the situation, including the rebellion in the **Summer Court** and the demon attack on **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**. She believes her sending blockage is not related to the magical cloaking but is tied to another, more serious threat.
 14. **The War Room and Strategy**:
     
-    - **Strategic Meeting**: The group meets in the **war room** to strategize about their mission to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** provides details about the missing **Depot 1**, a strategic location that could be key to the mission.
-    - **Deployment Plans**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** discusses landing near **Depot 1**, which is magically cloaked. The group prepares for the risks ahead and begins to plan their next steps.
-    - **New Information**: **Myria** shares her knowledge of the **Summer Court**'s revolt, the demon attack, and the uncertain situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** outlines the next steps and what the group will need to do once they arrive.
+    - **Strategic Meeting**: The group meets in the **war room** to strategize about their mission to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** provides details about the missing **Depot 1**, a strategic location that could be key to the mission.
+    - **Deployment Plans**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** discusses landing near **Depot 1**, which is magically cloaked. The group prepares for the risks ahead and begins to plan their next steps.
+    - **New Information**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** shares her knowledge of the **Summer Court**'s revolt, the demon attack, and the uncertain situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** outlines the next steps and what the group will need to do once they arrive.
 15. **Conclusion and Next Steps**:
     
     - The group prepares to head to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** to investigate the situation and provide aid. There are still many unknowns, but the party is determined to help and uncover the truth behind the magical blockages, the **Summer Court**'s revolt, and the looming threats to the world.
@@ -381,38 +381,38 @@ Ending Date: 9th of Springdawn  
 - **Battle's Aftermath**:
     
     - The battle ends with the defeat of the enemies and the city saved.
-    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]**'s hourglass is reset by **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]**, granting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] another 24 hours.
-    - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]** informs **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** that **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Marcus]]'s soul** has been traded to serve **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]** until balance is restored.
-    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** is reminded to act with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|justice]], not [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]], when confronting those who broke the scales.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]**'s hourglass is reset by **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]**, granting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] another 24 hours.
+    - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]** informs **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** that **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Marcus]]'s soul** has been traded to serve **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]** until balance is restored.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** is reminded to act with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|justice]], not [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]], when confronting those who broke the scales.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s Speech and Memorial**:
     
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** delivers a powerful speech in Talon, honoring the fallen soldiers and promoting unity among the people.
     - A **memorial** is created for the fallen soldiers, a large stone structure in the city center inscribed with the names of those who died in battle.
     - The memorial symbolizes the unity and strength of the people and marks the sacrifice made for the victory.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]'s Talk with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]**:
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]'s Talk with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]**:
     
-    - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]** updates **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** about the **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]**’s condition, mentioning it has been provisioned and did not suffer significant damage.
+    - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]** updates **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** about the **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]**’s condition, mentioning it has been provisioned and did not suffer significant damage.
     - Brian mentions **Depot 1** in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** as a potential mythic outpost and shares concerns about powerful magic blocking communication with **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
-    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** is informed that the Fae have been surviving on actual rations due to the refusal of leaving their current location.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** is informed that the Fae have been surviving on actual rations due to the refusal of leaving their current location.
 - **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]] Sending Blockage**:
     
-    - **Myria** attempts to send messages to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** but is unable to due to magical blockages, possibly caused by cloaking spells or powerful magic.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** attempts to send messages to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** but is unable to due to magical blockages, possibly caused by cloaking spells or powerful magic.
     - **Depot 1** is mentioned as being mysteriously missing from maps, which may be connected to the magical blockage.
 - **The [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] and Magical Travel**:
     
-    - The ship, **The [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]**, is used for travel, and **Foxy** demonstrates how it can travel through trees using magical portals.
-    - **Foxy** becomes intrigued by the tree portal's magic, which plays a role in the journey to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
+    - The ship, **The [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]**, is used for travel, and **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]** demonstrates how it can travel through trees using magical portals.
+    - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]** becomes intrigued by the tree portal's magic, which plays a role in the journey to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
 - **The Summer Court's Revolt**:
     
-    - **Myria** shares that the **Summer Court** has experienced a revolt, creating chaos that impacts communication and the situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
-    - **Spring Court** is also under attack by demons, and **Myria**'s connections within the **Spring Court** provide some insight into the situation.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** shares that the **Summer Court** has experienced a revolt, creating chaos that impacts communication and the situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
+    - **Spring Court** is also under attack by demons, and **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]**'s connections within the **Spring Court** provide some insight into the situation.
 - **Depot 1 and Magical Cloaking**:
     
-    - **Depot 1**, a strategic location in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**, is missing from maps, and **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** speculates that it may be cloaked by powerful magic, preventing it from being located.
+    - **Depot 1**, a strategic location in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**, is missing from maps, and **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** speculates that it may be cloaked by powerful magic, preventing it from being located.
     - The blockage of communication with **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** is tied to this mystery, with **Depot 1** being a key point of interest.
 - **Magic and Demons in [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**:
     
-    - **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** is under threat from demons, and **Myria** notes that the attack is significant enough to disrupt communication with the area.
+    - **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** is under threat from demons, and **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** notes that the attack is significant enough to disrupt communication with the area.
     - The **Summer Court**'s involvement in the rebellion and the subsequent attack on **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** by demons could be part of a larger ongoing conflict.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Lady M\|Lady M]]’s Null Soul Power**:
     
@@ -421,7 +421,7 @@ Ending Date: 9th of Springdawn  
 - **Mamoru Galbeck and Insouled Weapons**:
     
     - **Mamoru Galbeck**, a fox shifter, carries **Insouled weapons**, which are demon-infused guns that could have a significant impact on the mission.
-    - These weapons, while powerful, carry risks, as the demons within [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] could be dangerous.
+    - These weapons, while powerful, carry risks, as the demons within [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] could be dangerous.
 - **Radagast and Magical Expertise**:
     
     - **Radagast**, a squirrel Fae, is tasked with helping break through magical blockages in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**, signaling their importance to the mission ahead.
@@ -464,12 +464,12 @@ Ending Date: 9th of Springdawn  
 
 ---
 
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]’s Hourglass**:
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]’s Hourglass**:
     
-    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]**’s hourglass is a tool that tracks their time and actions, and it is reset by **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]**, granting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] another 24 hours to act. It is tied to their ongoing mission and responsibilities.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]**’s hourglass is a tool that tracks their time and actions, and it is reset by **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]**, granting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] another 24 hours to act. It is tied to their ongoing mission and responsibilities.
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]**:
     
-    - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]** is a mysterious figure who guides **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** and resets their hourglass. They also manage **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Marcus]]'s soul** and ensure balance is maintained.
+    - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]** is a mysterious figure who guides **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** and resets their hourglass. They also manage **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Marcus]]'s soul** and ensure balance is maintained.
 - **Depot 1**:
     
     - **Depot 1** is a location in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** that is crucial to the mission but is missing from maps and possibly cloaked by powerful magic.
@@ -503,7 +503,7 @@ Ending Date: 9th of Springdawn  
     - These companions are assigned to ensure that **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** has the support she needs, both tactically and diplomatically.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s Recognition of [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Arva\|Arva]]**:
     
-    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** acknowledges **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Arva\|Arva]]**, having worked with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] during the **War of the Iron Wall**, and praises their strategic mind. This establishes a mutual respect between **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** and **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Arva\|Arva]]**, enhancing their working relationship.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** acknowledges **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Arva\|Arva]]**, having worked with them during the **War of the Iron Wall**, and praises their strategic mind. This establishes a mutual respect between **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** and **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Arva\|Arva]]**, enhancing their working relationship.
 - **Internal Focus for Talon**:
     
     - While **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]]** stresses the need for **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** to complete the mission to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**, there is also a focus on **Talon**'s internal stability. The balance between external threats and internal defenses is emphasized.

@@ -37,7 +37,7 @@ Cantrip (at will): [mage hand](https://www.dndbeyond.com/spells/2173-mage-hand)
   
 Regeneration: If the flameskull is destroyed, it regains all its hit points in 1 hour unless [holy water](https://www.dndbeyond.com/equipment/50-holy-water-flask) is sprinkled on its remains
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Alma Dragoncaller\|Alma Dragoncaller]]

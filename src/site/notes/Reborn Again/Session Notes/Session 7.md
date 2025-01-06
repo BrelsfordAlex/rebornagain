@@ -21,52 +21,52 @@ Session 7 Dated 9/14/24
     - Everyone got their stuff back, Ghouls gone
     - Violin restringed and oiled with a note "Told you we would keep it safe -D" (who is d? Deezenuts? [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'Taggon]]? <:think:797473694145314847>)
     - Palace has an antimagic barrier around it
-    - Deadeye and Maria staying in the proving grounds
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Deadeye]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] staying in the proving grounds
 
-#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 
 - - - Temple of Morgrath
             - Fae Presence
         - Grove of the silvered moons
             - Dryads
         - Tin Street
-            - House of Hospitality
+            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality\|House of Hospitality]]
                 - Red brick house
                 - old
-                - Ava recognizes it
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] recognizes it
             - AvaIdelonic Entity, Hospitality
-                - Myria asks how Torak knew her last name
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] asks how [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]] knew her last name
             - SHE HAS A FILE?
-                - Viv, Maria, and Marla have Files too.
-                - Myria walks straight into the house meanwhile Viv and Marla meet The Butler
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]] have Files too.
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] walks straight into the house meanwhile [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]] meet The Butler
                 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality\| The Butler]]
 
 No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's robes. Walks in stop motion
 
-- - - - - Myria called Lady Evergreen ( cries in not a lady just a farmer.png)
+- - - - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] called Lady [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] ( cries in not a lady just a farmer.png)
                 - Butler to themBeen a long time since hosted Simulacrum
             - Them looks familiar
-            - Madam Ava
+            - Madam [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
                 - Each room tailored to each person (even each personality in them)
-                - Myria's room
-            - Books with language Myria doesn't know
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s room
+            - Books with language [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] doesn't know
             - Works are in Deep speech about demons, demon summoningand Modern Rekkor.
             - walls covered in drawings from when she was here last
-            - pool of ink for scribbles
+            - pool of ink for [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|scribbles]]
             - roof is a night sky
             - forest greens
-            - bed is massive even if Maria were to lay on it
-            - basically Myria looks like a child in it
+            - bed is massive even if [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] were to lay on it
+            - basically [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] looks like a child in it
                 - Them's room
             - full of notebooks
             - cooler and it feels nice
-                - Viv Dar'Taggon (Female Wolf Shifter)
-            - VivDid you Die again? (Viv acting like a dissapointed mom lmao arms crossed and tapping her foot vibes)
-            - Dar'Taggon <:SadgeCry:1201998451236405248>yes
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'Taggon]] (Female Wolf Shifter)
+            - VivDid you Die again? ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] acting like a dissapointed mom lmao arms crossed and tapping her foot vibes)
+            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'Taggon]] <:SadgeCry:1201998451236405248>yes
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] Traitors in red robes, Jurian did not hear
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'Taggon]] sends out paranormal folk
 
-#### Maria
+#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 
 - - - At the Proving Grounds
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] checks current strength
@@ -101,7 +101,7 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
             - Jurian
             - other people I can't remember rn
 
-#### Viv
+#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 
 - - - Jaguar pins [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] to ground
             - Auntie [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Beth Baine\|Beth]]
@@ -109,12 +109,12 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
 	        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s mom knows she died ([[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jez Baine\|Jez Baine]])
             - Extended Family Watching ( <a:Eyes_Emoji:423979481204654080>what is this Alabama?)
             - It is a family event (YAY JUST LIKE MY TRAUMA)
-        - Viv's Momangry and has purple crystals coming out of her skin
-            - Viv's mom and Beth know about Ashen Conflux
-            - Viv's mom learns about wild hunt and calms down
-            - Viv's mom puts on a silver mask with purple green and yellow gems, it sends out a wave of power ~~(uwu power me like this mommy)~~
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s Momangry and has purple crystals coming out of her skin
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s mom and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Beth Baine\|Beth]] know about Ashen Conflux
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s mom learns about wild hunt and calms down
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s mom puts on a silver mask with purple green and yellow gems, it sends out a wave of power ~~(uwu power me like this mommy)~~
             - fighting age 18-120
-        - Viv trains(choo choo 🚉 )
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] trains(choo choo 🚉 )
     - NO DREAMS TODAY
 - ==================================================
 
@@ -122,43 +122,43 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
 
 - ==================================================
 
-#### Myria and Them
+#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and Them
 
 - - - Breakfast
         - People
             - Meet Paranormal Folk
-            - Dar'Taggon(Wolf shifter)
+            - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'Taggon]](Wolf shifter)
             - Warforged
         - Waistcoat
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/3N4BL3R\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/3N4BL3R]]
         - Mizzix Prototype
             - Ghost
             - Half Dryad
-        - Ava 2 Entititties in 1( @ Dar'Taggon)
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] 2 Entititties in 1( @ [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'Taggon]])
             - Primordial Phoenix
         - Them Summoned to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] (uwu brain daddy called me home)
 
-#### Lament (Viv and Myria)
+#### Lament ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]])
 
 - - - Gothic Large, Castlevania/ Strahds Castle Vibes
-        - Viv gives Candor Iced Coffee
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor]] @ Myria
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] gives [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor\|Candor]] Iced Coffee
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor]] @ [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
             - Curious
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marra\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marra]]
             - 5 foot 8 with anime greatsword and blackhair
-        - Marra will chuck Myria
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marra\|Marra]] will chuck [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sana, The Deathless Wanderer\|Sana]] learns of Wild hunt and the invasion
-        - Sana has God Slayer (Honor and Grey say at same time )
-        - Sana tells Myria shes a Dhampier (like what this made her upset PEOPLE KNEW?)
-        - Hana and Viv (totally platonic)
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sana, The Deathless Wanderer\|Sana]] has God Slayer ([[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]] and Grey say at same time )
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sana, The Deathless Wanderer\|Sana]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] shes a Dhampier (like what this made her upset PEOPLE KNEW?)
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] (totally platonic)
         - HanaTall asian Vampire 6 ft
         - HYou died on me! (sad.png)
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana, Temportal Disacossiate]]remembers Myria
-        - Myria will go feral by 30
-        - Myria and Viv make an appt to see Madam Valencia
-        - Myria'S MOM WAS A VAMPIRE
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana, Temportal Disacossiate]]remembers [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] will go feral by 30
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] make an appt to see [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Madam Valenica\|Madam Valencia]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'S MOM WAS A VAMPIRE
 
-#### Them and Elder Brian
+#### Them and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
 
 - - - Them has no idea where the fuck to go
         - Them asks a warforged at the docks where Mizzix is
@@ -166,10 +166,10 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
         - Steampunk chaos
         - 12-13 stories
         - Lobby desk is Mindflayer and Human
-        - Mindflayer guides Them to see Elder Brian
-        - Elder Brian's room is covered in experiments and in the center is a massive brain ( <:109_bigbrain:1139517873799307354> )
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] just HAAAAAAAAAAD to meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] and the Spirits inside of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+        - Mindflayer guides Them to see [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]'s room is covered in experiments and in the center is a massive brain ( <:109_bigbrain:1139517873799307354> )
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] just HAAAAAAAAAAD to meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] and the Spirits inside of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/No/The Wizard (Magnus the Mad)\|Magnus]]
             - Mind Transfer is a mix of Necromancy and Psyonics
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]/ [[Reborn Again/NPCS,PCS,and Other/NPCS/No/The Wizard (Magnus the Mad)\|Magnus]] the Mad
@@ -181,7 +181,7 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
 
 ### 
 
-#### Maria and the war room
+#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and the war room
 
 - - - People There (gonna be honest I didn't write any of this down)
             - Jurian
@@ -204,17 +204,17 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
         - Present
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'Taggon]]
             - Butler
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] grumbling about being lied to by everyone about how they knew she was a vampire's child
         - Internally [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] was trying to reason with her it wasn't lying it was that everyone thougth she knew
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] show up
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] asks whats wrong
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] show up
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] asks whats wrong
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] explains the House of Lament stuff
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] Explains what happened at [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]'s place
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] Explains what happened at [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]'s place
     - Mariasilently eating
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] meet [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] meet [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]]
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] does a bad job at explaining things
     - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] gets yelled at for being on the table
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]

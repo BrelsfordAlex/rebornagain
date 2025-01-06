@@ -23,7 +23,7 @@ Fire Genasi
 #### Notes
 ---
 Parent to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]]
-From "The Brass City" (Only [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]  knows)
+From "The Brass City" (Only [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]  knows)
  [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] flashes sickly green and then white and starts glitching
 Forger's Mark- 'PF'
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]]

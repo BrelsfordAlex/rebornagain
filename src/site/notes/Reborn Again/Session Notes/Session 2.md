@@ -22,10 +22,10 @@
         - An old/ ancient book
         - An old face almost forgotten, eastern asian (woman) 2 long fangs (Later known as [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sana, The Deathless Wanderer\|Sana, The Deathless Wanderer]])
         - "find"
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] has white light in their head?!?!
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] has white light in their head?!?!
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s Friend can help when in times of danger
 - "Someones moving you" old man guard grandpa( [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox]])
-    - Carried her to guard house (soldiers praise [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] & [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]])
+    - Carried her to guard house (soldiers praise [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] & [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]])
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox]] lets [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] sleep in his bed saying shes safe
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] got big deer butchered
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] pull to things?
@@ -66,12 +66,12 @@
     - might make you die ring
         - Copy off of someone
         - Won’t work if you already died
-        - Confirmed wont work on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] or [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
+        - Confirmed wont work on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] or [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] promises [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie Falker]] to get her something magical and cool
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] give [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie Falker]] soft blanket
     - Wolf head necklace warring gods?
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] -Archeotech?
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] almost got a new hand
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] -Archeotech?
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] almost got a new hand
         - pots and pans, nicely made?, signature EAF (trademark symbol)
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie Falker]] says they have a dead SUN?
 
@@ -84,7 +84,7 @@
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] catching snowflakes
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] knows how to cook (cooked dinner)
     - Scout [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-    - Navigator [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
+    - Navigator [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
     - Quartermaster [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
     - DriverMaria
 - Dreams

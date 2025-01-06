@@ -23,7 +23,7 @@ silver skin, long gold hair, silver gloves, 4 feet tall, oldfiller [[Reborn Agai
 ---
 Artificer tag: __K.L.A__ 
 makes Gravitational grenades 
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/Locations Gone to/Tallan/The Spring Fae Court\|The Spring Fae Court]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oberon]]
 [[Reborn Again/Session Notes/Session 5\|Session 5]]

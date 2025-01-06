@@ -61,13 +61,12 @@ Ending Date: evening of the 25th of Winterdusk 15 days before spring
 
 ### Dreams the next night in [[Reborn Again/Locations Gone to/Tallan/The wood of Iron Trees\|the Wood of iron trees]]
 
-- - -
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] relaxing in the forest
+-  [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] relaxing in the forest
     - theminternal arguing
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]-catching snowflakes
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-        - Sea of stars with a [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|grey]] mist infront of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] with 2 black eyes
-        - bear comes out of the mist and Myria holds it
+        - Sea of stars with a [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|grey]] mist infront of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] with 2 black eyes
+        - bear comes out of the mist and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] holds it
         - "hello child i apologize for the last town"
         - "why were you angry"
             - the demon god urks me
@@ -110,7 +109,7 @@ Ending Date: evening of the 25th of Winterdusk 15 days before spring
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] a paper dragon egg
             - anything said is written on the egg
             - egg is the [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]]'s dragons egg
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]] told [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] her name Rose
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]] told [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] her name [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Rose]]
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells her name to the [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]]
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to princessi wanna go home...
 

@@ -16,7 +16,7 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]'s wolf pelt has goggles on the hood
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] cooked Breakfast
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]'s eyes were darker/more absent
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]'s eyes were darker/more absent
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Wanted to talk to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] fought forces like what we just faced in the past and that we would need an army to fight how big this fight could be
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is worried
@@ -85,15 +85,15 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gets jewlery costing 20 gold
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gets glowing green ring
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.H.E.M]]’S Session 3 Notes
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]’S Session 3 Notes
 
 - -
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] starts unaware of anything happening on the outside
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] starts unaware of anything happening on the outside
 - circle of light grown 5 ft
 - Figure in the middle, streams of red, no eyes, white in color
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]'s form is more real than the others
 - when [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] enters the circle of light, the figure snaps head up
-- Figure could be the warforged before [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+- Figure could be the warforged before [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 - Figure knows old elven
 - Who are you Designation [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
 - When [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] tries to leave the light it shocks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
@@ -105,7 +105,7 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
 - "what happened to the world, shattered the magus gone"
 - "What caused you to shut down?"
 - Was programmed to guard vault of the Magus. The vault was sealed and went doemant to save power and after 300 years [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] shut down due to an unknown magical interference
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] theorybecause of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] is why [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] exists
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] theorybecause of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] is why [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] exists
 - "do you remember what you were guarding"
 - Cache of weapons of mass destruction for the Magus
 - Magical ordinance capable of destroying continents
@@ -116,7 +116,7 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
     - Vaults floors 1-4 breached, 7-9 unbreached (9th floor is where weapons are)
     - 7287 designation unbreached
     - "Abyssal entity 7 encountered" [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] explains the demons
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] capable of unlocking the vaults
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] capable of unlocking the vaults
     - The old empire gone
 - "why are you in my body?"
 - I was created for this kensai simulacrum (samurai)
@@ -131,10 +131,10 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
         - before the blackwas "more powerful than all dead sun cores in existance"
         - there was a sickly green magic wave shatters the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|Weave]] around [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
     - it was like a magical EMP that ATE the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|Weave]]
-- only diff b/t [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] is the face
+- only diff b/t [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] is the face
 - Self repairing liquid metal
-- the body is as live as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] is
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] can teach [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] how to make the weapon
+- the body is as live as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] is
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] can teach [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] how to make the weapon
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]'s body looks more human and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] teaches [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] how to summon the blade
 - the blade has lost the enchantments
 - Core power 20%not operating at full capacity
@@ -153,7 +153,7 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
     - Fractured Memories
     - siege breaker warforged
     - different core
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]Dead red sun core
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]Dead red sun core
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Kalani\|Kalani]] dead blue sun core
 - the vault is sentient
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] can navigate vaults

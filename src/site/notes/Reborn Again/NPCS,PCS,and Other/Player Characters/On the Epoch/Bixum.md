@@ -6,7 +6,7 @@ Semi-famous dwarf Chef
 Bixum
 - A cheerful, squat dwarf with a mechanical hand that transforms into kitchen tools.
     
-- Instantly bonds with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] over shared curiosity about his hand, which operates using a mysterious combination of artificer technology and [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]].
+- Instantly bonds with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] over shared curiosity about his hand, which operates using a mysterious combination of artificer technology and [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]].
     
 - Declares his role as the ship’s chef and heads straight to the kitchen to establish his domain.
 
@@ -41,7 +41,7 @@ Flaws:
 
 ---
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Alma Dragoncaller\|Alma Dragoncaller]]

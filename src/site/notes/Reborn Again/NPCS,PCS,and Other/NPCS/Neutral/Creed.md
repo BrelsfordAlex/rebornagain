@@ -27,5 +27,5 @@ First mentioned in [[Reborn Again/Session Notes/Session 16\|Session 16]]
 [[Tallon City \|Tallon City ]]
 [[Reborn Again/Locations Gone to/Other/The Bastion\|The Bastion]]
 [[Reborn Again/Session Notes/Session 16\|Session 16]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 

@@ -26,4 +26,4 @@
 ---
 
 
-Deliver the items to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]] by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] Quest given by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Pippin Falker\|Pippin Falker]] during [[Reborn Again/Session Notes/Session 6\|Session 6]] 
+Deliver the items to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]] by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] Quest given by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Pippin Falker\|Pippin Falker]] during [[Reborn Again/Session Notes/Session 6\|Session 6]] 

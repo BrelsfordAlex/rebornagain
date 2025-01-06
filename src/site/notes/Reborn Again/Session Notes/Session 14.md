@@ -103,10 +103,10 @@ By the progenitor
 - - Work
         - People commenting on [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Todd Toddson\|Todd Toddson]] being gone
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
 
 - - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
-        - Wants to talk to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] about project Aegis, Star and something else?
+        - Wants to talk to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] about project Aegis, Star and something else?
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] wandering
         - Main town Main gate
             - Refugees at gate
@@ -140,7 +140,7 @@ She needs to talk to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|
 
 She knows hes indisposed of?!?!
 
-- - - - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] brings [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+- - - - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] brings [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 
@@ -158,7 +158,7 @@ She knows hes indisposed of?!?!
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar comments that the sky is riddled with bats
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar joins vet company
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] watches the events with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] got 2 beers ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] took [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] lol)
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] got 2 beers ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] took [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] lol)
         - Fantasy Popcorn
         - Bingo sleeping on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s foot
 
@@ -168,13 +168,13 @@ She knows hes indisposed of?!?!
 
 ## -------------------------------------------------------------------------
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
 
-- - It is not [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]], bur their body fighting
+- - It is not [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]], bur their body fighting
         - Fighting horrors and demons and monsters
         - All hit with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|grey]] mist and atomised
-        - Person looking like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] with shield and long sword that glows blue and freezed people
-            - Smiles at [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+        - Person looking like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] with shield and long sword that glows blue and freezed people
+            - Smiles at [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]
         - Endless horror fighting
         - At the end there was nothing left so both go back to their vaults
         - Green energy pulses and then they wake up
@@ -233,18 +233,18 @@ Magic Magic and more Magic
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] about what [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]] told her, [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Todd Toddson\|Todd Toddson]],
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] isnt Mad but is _mad_
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
 
 - - Competition
         - Present
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter]]
             - Others
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] vs [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] WINS
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] VS [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter]]
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] title: Protector of Mizzix
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] WINS
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] vs [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] WINS
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] VS [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baxter]]
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] title: Protector of Mizzix
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] WINS
             - Win:
                 - 400g
                 - Mystery
@@ -319,7 +319,7 @@ Every longrest they can choose what to have resistance to
 
 ==================================================
 
-- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Elnos]] Donation of a shield ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]])
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Elnos]] Donation of a shield ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]])
     - Enchanted
         - Every long rest they can choose what to have resistance to
     - +1 AC

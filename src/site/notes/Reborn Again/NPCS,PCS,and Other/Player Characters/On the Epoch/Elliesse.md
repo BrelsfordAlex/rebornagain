@@ -10,8 +10,8 @@
 **Where They Live:** Epoch
 **Are They Friendly:** Friendly
 **Who Met them:** Maria Myria Viv THEM
-**When Did** Maria Myria Viv THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 21
-**Session** Maria Myria Viv THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]: Session 21 
+**When Did** Maria Myria Viv THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]]: Session 21
+**Session** Maria Myria Viv THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]]: Session 21 
 **Did Elliesse give any quests:** No
 	**If yes what quest:** `= this.quests`
 

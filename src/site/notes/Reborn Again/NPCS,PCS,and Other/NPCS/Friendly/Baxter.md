@@ -22,7 +22,7 @@ Warforged at Mizzix
 #### Notes
 ---
 
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
 [[Tallon City \|Tallon City ]]
 [[Reborn Again/Session Notes/Session 16\|Session 16]]

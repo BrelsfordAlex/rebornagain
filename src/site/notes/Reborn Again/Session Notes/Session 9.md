@@ -38,20 +38,20 @@ Session 9 Dated 9/25/24
     - The hallway is 50 ft long
     - Meeting MF
         - Tall, Was once handsome, Pale skin, Veins showing (Man is on that Steriods), Pulsing Green Eyes, Sickly Solid Green Glass coming out of his body (Eww <:eew:1244346896537878688> )
-        - Named: Alliasher Dar'Kaller (We found out by asking someone his name later, Still calling him MF ca)
+        - Named: [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Alliasher Dar'Kaller\|Alliasher Dar'Kaller]] (We found out by asking someone his name later, Still calling him MF ca)
     - AlliasherWelcome Hope you Don't Enjoy this
         - He tries to cast Timestop but was stopped by Counterspell
     - [[Alliasher Dar'Kaller \|Alliasher Dar'Kaller ]]Gets angry and rips a shard of the glass off and throws it
-        - Viv and Maria Run down the stairs
-        - Myria runs upstairs with her last ghouls and tosses the shard of glass (using the ghoul) under the door and at Alliasher (Looks like skipping stones)
-    - Hawthorn Points out more traps (why <:tbh_sobbing:1073203341292744785> )
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Run down the stairs
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] runs upstairs with her last ghouls and tosses the shard of glass (using the ghoul) under the door and at Alliasher (Looks like skipping stones)
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] Points out more traps (why <:tbh_sobbing:1073203341292744785> )
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] struk with Lightning as Alliasher's wand breaks and shoots a [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] beam at [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] 
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Roasts Alliasher by saying "Did daddy not love you enough is that why you decided to work with demons?"
         - GetRoastedBitch <a:200IQ:851554985912959016>
-    - Maria and Viv Kill Alliasher
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] Kill Alliasher
         - Alliasher's Blood pulses
-    - Maria goes down Myria uses spare the dying begging for her friend to come backand heals Maria
-    - Maria is mad at Myria for acting as judge jury and executioner
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] goes down [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] uses spare the dying begging for her friend to come backand heals [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is mad at [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] for acting as judge jury and executioner
     - Enabler is broken (Everyone is sad and everyone carries him to Mizzix)
 - ==================================================
 
@@ -62,24 +62,24 @@ Session 9 Dated 9/25/24
     - Them shows [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] Enabler's Corpse
     - Everyone tries to meet with Brian (he is busy)
     - After pestering long enough Brian starts to talk through the Secretary Illithid
-    - Myria insults the Illithid saying "Something is on your face" and then gets spooked by it talking in her head
-    - Elder Brian knew about the Demons
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] insults the Illithid saying "Something is on your face" and then gets spooked by it talking in her head
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] knew about the Demons
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] is angry about that
-    - Group talks Elder Brian into telling them where the rest of the bombs are
+    - Group talks [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] into telling them where the rest of the bombs are
     - Bombs at 31, 33, and right above 46
-    - Viv goes to Mistfiend with Maria about the bombs
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] goes to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] about the bombs
     - Them goes to a park
-    - Myria just wanders around town
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] just wanders around town
 - ==================================================
 
-### THEM (Hawthorn)
+### THEM ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]])
 
 - ==================================================
     - Them goes to a park (32)
     - Park had 9-10 people in it
     - Dog Shifters
     - There is a temple in the middle of the park
-        - Temple of the Creator
+        - Temple of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/The Creator\|the Creator]]
     - Them goes to the temple
     - them feels a presence in the temple
     - Them was upset seeing Enabler in pieces
@@ -97,7 +97,7 @@ Session 9 Dated 9/25/24
         - PersonIt was required to right the wrongs. I can't be everywhere at once. I need a champion and this time it seems I chose 50
         - HawthornI will bring bring balance
         - PersonIf you bring balance and help me I will help you in turn
-        - Hawthorn regains 3 memories
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] regains 3 memories
         - A memory of a fence and in a field with someone who feels familiar
         - A memory of sitting in a tinker's workshop with a short stout man who is working on something
         - A memory of his mother's face
@@ -105,13 +105,13 @@ Session 9 Dated 9/25/24
         - HawthornIf no bad exists then you can't appreciate the good (mans hitting the mood)
 - ==================================================
 
-### Myria
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 
 - ==================================================
     - Wandered to the docks
     - Met an old lady who offered her tea
-    - The old lady was there when Myria was born and when her mom left the old lady was searching for Myria
-    - Myria has a gift to know what is right and what is wrong
+    - The old lady was there when [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] was born and when her mom left the old lady was searching for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] has a gift to know what is right and what is wrong
     - Vampires not under a Progeneter (ik i did not spell this right Ink fight me <a:FightMePepe:1170013957306724462> ) by the age of 30 can lose brain function and essentially go feral
     - Progeniter's were shaped and created by other worldly people
     - Old lady is [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Madam Valenica\|Madam Valencia]], Progenetor of the House of Balance
@@ -122,7 +122,7 @@ Session 9 Dated 9/25/24
     - house of balance has 3-4 vampires in it rigth now(by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality]])
 - ==================================================
 
-### Maria and Viv at the Palace
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] at the Palace
 
 - ==================================================
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye]] not at the desk
@@ -142,7 +142,7 @@ Session 9 Dated 9/25/24
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] shares the plan her and Jurian had to investigate the Red Robes with the Paranormal Investigation Squad and how it went wrong and then explains the fightin basics and how they got information out of Brian
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] proud that they got information from Brian
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] to JurianIs your house in order yet?
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] where the bombs are
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] where the bombs are
     - VivDar'taggon died again
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]] sends [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] to send out units to each locationand when each bomb is found they need to contact Jurian directly
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Malfane Dar'Farla\|Malfane]] sent ot acompany a group (has a wand made of bone voice sounds dead inside)
@@ -156,7 +156,7 @@ Session 9 Dated 9/25/24
     - All bombs were disposed of and sent to Mizzix
 - ==================================================
 
-### At Elnos
+### At [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Elnos]]
 
 - ==================================================
     - the shop is across from Hospitality
@@ -199,9 +199,9 @@ Session 9 Dated 9/25/24
 
 - ==================================================
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] slept in Balance
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] talks to Brian in their "sleep"
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] talks to Brian in their "sleep"
     - Foot Notes:
-    - MFThe dude we fought in the red robes, was second in command to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+    - MFThe dude we fought in the red robes, was second in command to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 - ==================================================
 - Party Reputation: 2
 - Known positively Locally

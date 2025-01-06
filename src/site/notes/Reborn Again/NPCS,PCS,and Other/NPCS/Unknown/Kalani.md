@@ -24,7 +24,7 @@ different core
 ---
 Only met through [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]'s Memories
 [[Reborn Again/Locations Gone to/Westvale/The Golden City\|The Golden City]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/Session Notes/Session 3\|Session 3]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
 [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]

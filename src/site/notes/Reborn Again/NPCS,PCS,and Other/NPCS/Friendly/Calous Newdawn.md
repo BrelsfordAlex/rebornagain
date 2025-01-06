@@ -24,7 +24,7 @@ Old man, Fae, Spring Fae in charge of Spring, 1st generation true fae
 [[Reborn Again/Locations Gone to/Tallan/Shaleverge\|Shaleverge]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/Session Notes/Session 1\|Session 1]]
 [[Reborn Again/Quests for Campaign/Demons to Tallon\|Demons to Tallon]]

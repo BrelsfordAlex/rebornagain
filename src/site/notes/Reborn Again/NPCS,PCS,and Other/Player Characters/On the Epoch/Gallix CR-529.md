@@ -23,7 +23,7 @@ Bio-mantic Creation: Gallix as many major bio-engineered advantages over most ot
 
   
 
-Commander of the Forge-born: Gallix is the only being other than [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] that can command the Forge-born, he has been altered to allow telepathic communication on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and can grant advantage on a single task (e.g. Firing weapons or trimming sails or making repairs ect.)
+Commander of the Forge-born: Gallix is the only being other than [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] that can command the Forge-born, he has been altered to allow telepathic communication on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and can grant advantage on a single task (e.g. Firing weapons or trimming sails or making repairs ect.)
 
   
 
@@ -37,7 +37,7 @@ Flaws:   I do not, understand most non-enhanced issues.
 
 ---
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Alma Dragoncaller\|Alma Dragoncaller]]

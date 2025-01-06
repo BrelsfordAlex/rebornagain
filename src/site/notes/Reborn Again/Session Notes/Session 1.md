@@ -12,7 +12,7 @@
 
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Amberly\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Amberly]] Knows [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Esher\|Esher]] (Eyes went White to Black)
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] were dead for 3 Months
-- The Shade Wraith that attacked [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] said "The white Why" to when [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] one shot the bastard
+- The Shade Wraith that attacked [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] said "The white Why" to when [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] one shot the bastard
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Shadowed Reaper\|Shadowed Reaper]] fight
     - Whisps
         - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Shade wraiths\|Shade wraiths]] are Assassins
@@ -21,13 +21,13 @@
 - They take more damage to things like light and fire
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Shade wraiths\|Shade wraiths]] = Assassins
 - Whisps = not dangerous alone, dangerous in groups
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] EMITS LIGHT
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] EMITS LIGHT
 - "Praise the demon god" [[Reborn Again/NPCS,PCS,and Other/NPCS/No/The Wizard (Magnus the Mad)\|The Wizard]] who nuked me
 - People on the list to assassinate
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
     - ~~[[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Mayor\|Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Mayor]]~~**DEAD**
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith]]
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 - Questioning the nuke wizard (am i missing one? I thought we got 6 but i only wrote down 5)
@@ -41,7 +41,7 @@
         - The Fate waver knows all
             - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Fate Weaver\|Fate Weaver]] = demon god which means the demon gods are working together = BAD]
     - Q5What do you want with the capital
-        - Watch the capital burn and allow the new dominion of the demons to reign. Fell the high council fell [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] all
+        - Watch the capital burn and allow the new dominion of the demons to reign. Fell the high council fell [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] all
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Talk with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]] in a private place away from the group
     - Fragment (The bear) Means no harm
     - El’Salar is sibling? Who is that?

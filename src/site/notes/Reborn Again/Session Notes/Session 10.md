@@ -21,8 +21,8 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
 ### The dream BeginThem
 
 - ==================================================
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] feels safest in a nighttime garden oasis
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] wakes up in a dead garden with all 4 of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] feels safest in a nighttime garden oasis
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] wakes up in a dead garden with all 4 of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] looks like a samurai with sharp features and eastern asian
     - The place they are in feels less tangible
     - a bluish green hand comes out of the darkness
@@ -37,7 +37,7 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
 - The dream beginningViv
 - ==================================================
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] feels safest in [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]]'s arms
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] wakes up in a graveyard seeing the graves of her mom, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]] and other's graves
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] wakes up in a graveyard seeing the graves of her mom, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Buddy]] and other's graves
     - creature looking like her mom appears with blue and purple gemstones out of her skin, when the creature grins [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] saw her mom's face and acts like her mom
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] gets hit with insanity
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] ssummons [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]]
@@ -105,18 +105,18 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
 - ==================================================
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] wakes up screaming and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]] cuddles her after learning about the dream
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] wakes up in a cold sweat the swords in bed with her calling to her
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] wakes up confused, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] saying "what was that" [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] responding "Demon Incursion they wont try that again" (Smug.png)
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] wakes up confused, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] saying "what was that" [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] responding "Demon Incursion they wont try that again" (Smug.png)
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] wakes up feeling like someone is with her
     - There is a hilt of a giant great sword in her hand
     - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengence]], it is broken and to make it whole one must die
 - ==================================================
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]]
 
 - ==================================================
     - Goes to meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]' Family
     - [[Ella Halcot \|Ella]] is home
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] tells [[Ella Halcot \|Ella]] how [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] is inside of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] tells [[Ella Halcot \|Ella]] how [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] is inside of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] sister [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Amallie Halcot\|Amallie]], late 70s canewisoned? wise? tf is this word?, hunched
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Amallie Halcot\|Amallie]] fucking punches [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] for dissapearing
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Amallie Halcot\|Amallie]] makes tea
@@ -144,7 +144,7 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
     - More people
 - ==================================================
 
-### Myria
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 
 - ==================================================
     - Goes to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Madam Valenica\|Valencia]] and tells her about the dream
@@ -167,8 +167,8 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Alarzo\|Alarzo]]
         - Mindflayer
     - MistfiendLast night all attacked by demons and have possibly have found a solution
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] can enter everyone's heads and keep [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] safe
-    - YesMistfiend, most everyone, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jez Baine\|Jez]] (After [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] said stop hurting yourself), me, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]],
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] can enter everyone's heads and keep [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] safe
+    - YesMistfiend, most everyone, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]], [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jez Baine\|Jez]] (After [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] said stop hurting yourself), me, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]],
     - NoGiant named ????,
     - Vivunsure if she said yes or no
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] doesnt care about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] fucking a vampire
@@ -179,7 +179,7 @@ Ending Date:Morning of the32st of Winterdusk 8 days before spring
     - MyriaMine don't touch it
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] notes to herself she needs to talk to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]] ALONE
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells everyone She summoned [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]] in her dream ([[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] impressed, party didn't blink at that)
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] can possibly fix [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] powersource
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] can possibly fix [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] powersource
     - Atypical defense meeting
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] wants people fixing the walls
     - PErson, Androgynous, skull face dark robes says the ghouls/guilds will answer and that grace corp will fix the walls

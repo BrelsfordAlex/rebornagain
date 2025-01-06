@@ -9,7 +9,7 @@ Lady M (Null Soul)
     
 - Null Soul Trait: Her presence repels magic, causing physical discomfort to those sensitive to the [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave]].
     
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and others feel a clawing sensation in their minds when she approaches, which dissipates when she focuses on controlling her aura.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and others feel a clawing sensation in their minds when she approaches, which dissipates when she focuses on controlling her aura.
     
 - Communicates using sign language and remains stoic, causing unease among the group.
 ### Statblock
@@ -47,7 +47,7 @@ Flaws:   ,,,
 
 ---
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Alma Dragoncaller\|Alma Dragoncaller]]

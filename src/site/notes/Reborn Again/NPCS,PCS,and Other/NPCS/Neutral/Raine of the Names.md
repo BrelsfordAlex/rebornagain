@@ -16,7 +16,7 @@ Did Raine of the Names give any quests: No
 
 #### Description
 Tall woman 
-Flowing Parchment Robes with flowing words on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]
+Flowing Parchment Robes with flowing words on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]]
 Flowing writing on skin 
 Onomancer
 

@@ -4,7 +4,7 @@
 
 ### Information about Elk of Arcanum
 **Description:** 
-**Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]** Myria
+**Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]]** Myria
 **What Are They:** God Shard
 **When Were They Met:** Session 17
 **When Were They Heard About:** Session 13

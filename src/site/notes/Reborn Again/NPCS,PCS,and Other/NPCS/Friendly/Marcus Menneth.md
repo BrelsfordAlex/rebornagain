@@ -23,7 +23,7 @@ Did Marcus Menneth give any quests: No
 ---
 
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/Session Notes/Session 12\|Session 12]]
 [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]
 

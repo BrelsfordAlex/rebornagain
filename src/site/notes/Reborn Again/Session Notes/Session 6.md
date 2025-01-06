@@ -23,7 +23,7 @@ Session 6
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] cooked breakfast
 - Main road was made of cobblestone and was enchanted to keep it clear
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] managed to get on the elk! <a:yippee:1193364810549690438>
-- Marla Ava Conversation
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] Conversation
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]We are approaching weave conflux, large connection to the weave
     - like a cross roads of sorts
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]]there is lots of magic here
@@ -34,18 +34,18 @@ Session 6
 - Being made of fire and Coals
     - Fire Genasi
     - Name: [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Pippin Falker\|Pippin Falker]] 
-    - Parent to Evie and Elnos
-    - From "The Brass City" (Only Marla knows)
-        - Ava flashes sickly green and then white and starts glitching
+    - Parent to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Elnos]]
+    - From "The Brass City" (Only [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]] knows)
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] flashes sickly green and then white and starts glitching
     - Forger's Mark'PF'
     - SHE HAS A ROBOT DOG! <:sobbing:1207050008709431316>
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] sole purpose was to pet the dog
-- Pippin to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]"royalty" ( like excuse me HUH? WHY DID WE LOOK OVER THIS?)
+- Pippin to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]"royalty" ( like excuse me HUH? WHY DID WE LOOK OVER THIS?)
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]'s armor made by Pippin.
 - Pippin focuses on the bear [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] had and a ghoul stands in front of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and Pippin fucking nukes it and puts a gun to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s head
     - Sad [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] noises puppi
 - Pippin askes for help forging something
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] helps forge it
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] helps forge it
     - Mariabends the metal and hits it
     - Vivcarves runes
     - Myriachannels magic into it
@@ -58,40 +58,37 @@ Session 6
         - The Leylines are strong
     - Weapon's nameVeil Piercer
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] can get a gun from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] ( <:tbh_gun:1082149444809658438> )
-- Everyone argues that Myria can't get a gun
-- Maria gets a shotgun
-- Them gets a gun hand (gets a memory from ava of how to aborb the hand into themselves) GUN HAND UWU
-- Viv is HIGHLY against Myria getting a gun
+- Everyone argues that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] can't get a gun
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] gets a shotgun
+- Them gets a gun hand (gets a memory from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|ava]] of how to aborb the hand into themselves) GUN HAND UWU
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is HIGHLY against [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] getting a gun
 - You can get addicted to the magic from the conflux, causing something called "Magical corruption"
 - -
 
 ### DREAMS
 
-- - -
-    - Everyone gets nice plesant dreams
-    - Myria's Dream
+-  Everyone gets nice plesant dreams
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s Dream
         - LocationAstral Void
         - Sitting infront of a grey fox
-        - Fox nuzzles Myria "safe"
-            - Introduces themself as the bear and "I am imagination"
+        - Fox nuzzles [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] "safe"
+            - Introduces themself as the bear and "I am [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]]"
         - Where are we
             - In my domain in your mind
         - Everything will be okay as long as you DO NOT BUY A FUCKING GUN
-    - -
 
 ### The Next Day
 
-- - -
-    - Pippin Them
-    - Deliver these boxes to [[Torak\|Torak]] in Tallon City ( [[Reborn Again/Quests for Campaign/Items to General Torrak\|Items to General Torrak]])
+- Pippin Them
+    - Deliver these boxes to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torrak]] in [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]] ( [[Reborn Again/Quests for Campaign/Items to General Torrak\|Items to General Torrak]])
     - Nothing happened but traveling
 
 ### The Next Day
 
-- - WE GOT TO TALLON NOW BITCHES
-    - Tallon Desc
+- - WE GOT TO [[Reborn Again/Locations Gone to/Tallan/Tallon City\|TALLON]] NOW BITCHES
+    - [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon]] Desc
     - 30 ft stone walls
-    - Yellow and Bluecolors of Tallon
+    - Yellow and Bluecolors of [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon]]
     - 4 Statues Archer, Soldier, Wizard, Sorcerer
         - Witch of Winter
         - Soldier of Spring
@@ -102,7 +99,7 @@ Session 6
     - Non artifacts do not work
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] mentions needing to talk to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]]
         - the guards freak out and call their bossess bosses bosses boss AKA [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]]
-    - The General walks the group through the checkpoint and brings [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] to the Palace
+    - The General walks the group through the checkpoint and brings [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] to the Palace
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]]
         - Large Dragonborn
         - 6 foot 5
@@ -114,49 +111,47 @@ Session 6
         - Dated Pippin ( they are 'just friends' your [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]])
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]] sits on his shoulder (cousin <:sobbing:1207050008709431316> )
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] to MarlaApproaching larger magical conflux
-    - -
 
 #### At the Palace
-
-- - -
-    - All asked to leave weapons even Myria's ghouls and her violin
-    - Viv is like guys behave
-    - Maria seconds this opinion
-    - Torak did not want to be suprised when they all walked in
-    - Viv mentions the phrase 'Ashen Conflux' which sends Torak into a an anxiety attack
-    - The Council members
-        - The twin Archmages of Dunamancy and joint 6th at the table [[Malifus and Karn Dar’Grixus\|Malifus and Karn Dar’Grixus]]
-        - [[Jurien Dar’Gannon\|Jurien Dar’Gannon]] Archmage of Evocation
-        - [[Malfane Dar’Farla\|Malfane Dar’Farla]] the Archmage of Conjuration
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]]
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]]
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]]
-    - Honor to Viv[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]] is present
-    - Ashen ConfluxDemon Conflicts
-    - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]] IS A DRAGON?!?!?!
-    - Myria and Grey talking in head while Viv and Maria and Them explain everything
-    - Myria asks for Viv's sickle to cut the bear
-    - Meet Rico who puts knife to Viv's throat like "nuh uh"
-    - Grey annoyed like "guys I just need to get my notes fucking CHILL jesus
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Rico\|Rico]] gives Myria his dagger to cut the bear's back
-    - Grey Takes over and tries to explain what he knows
-    - Justice snarls and stands infront of Myria like "WHAT ARE YOU DOING HERE IMAGINATION"
-        - Grey pulled out of Myria and is a fox (which no one questioned btw like why did no one question this?)
-    - Grey speaks freely
-    - Scribbles is sleeping on the council table
-    - Ava7 points of interest
-    - Archmages (Temporal Anomalies)
-        - [[Glint \|Glint ]](Primordial)
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] (Tau DNA)
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Rico\|Rico]]
-            - Tau Genome Detected
-            - Ava learns of the vampire race
-        - Gonna he honest i didn't hear the other 3 lol
-    - [[Reborn Again/Locations Gone to/Other/The Bastion\|The Bastion]] sent out to collect people
-    - MistfiendAnyway you can help defend please do it
-    - Mistfiend learns Myria can send messages to Westvale
-    - Myria sends a message for him
-    - Maria's old rank reinstated and she was promoted to Company Captain
-    - Maria asked to assemble a veteran's company
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Deadeye]] joins
-        - Myria to deadeye "Viv told me not to piss you off"
+---
+All asked to leave weapons even [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s ghouls and her violin
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is like guys behave
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] seconds this opinion
+    [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]] did not want to be suprised when they all walked in
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] mentions the phrase 'Ashen Conflux' which sends [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]] into a an anxiety attack
+    The Council members
+        The twin Archmages of Dunamancy and joint 6th at the table [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Malifus and Karn Dar'Grixus\|Malifus and Karn Dar'Grixus]]
+        [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jurien Dar'Gannon\|Jurien Dar'Gannon]] Archmage of Evocation
+        [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Malfane Dar'Farla\|Malfane Dar'Farla]] the Archmage of Conjuration
+        [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]]
+        [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]]
+        [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]]
+    [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]] to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]] is present
+    Ashen ConfluxDemon Conflicts
+    [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]] IS A DRAGON?!?!?!
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and Grey talking in head while [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and Them explain everything
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] asks for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s sickle to cut the bear
+    Meet [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Rico\|Rico]] who puts knife to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s throat like "nuh uh"
+    Grey annoyed like "guys I just need to get my notes fucking CHILL jesus
+    [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Rico\|Rico]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] his dagger to cut the bear's back
+    Grey Takes over and tries to explain what he knows
+    [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]] snarls and stands infront of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] like "WHAT ARE YOU DOING HERE [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|IMAGINATION]]"
+        Grey pulled out of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and is a fox (which no one questioned btw like why did no one question this?)
+    Grey speaks freely
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]] is sleeping on the council table
+    Ava7 points of interest
+    Archmages (Temporal Anomalies)
+        [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]]](Primordial)
+        [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] (Tau DNA)
+        [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Rico\|Rico]]
+            Tau Genome Detected
+            [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] learns of the vampire race
+        Gonna he honest i didn't hear the other 3 lol
+    [[Reborn Again/Locations Gone to/Other/The Bastion\|The Bastion]] sent out to collect people
+    MistfiendAnyway you can help defend please do it
+    [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] learns [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] can send messages to [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] sends a message for him
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]'s old rank reinstated and she was promoted to Company Captain
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] asked to assemble a veteran's company
+        [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Deadeye]] joins
+        [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|deadeye]] "[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] told me not to piss you off"

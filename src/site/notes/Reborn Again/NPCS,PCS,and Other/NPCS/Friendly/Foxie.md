@@ -27,7 +27,7 @@ Around 6 foot tall in 9 inch heels, she is a Kitsune and has asian vibes to her 
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s boss 
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Tallon City \|Tallon City ]]
 [[Reborn Again/Session Notes/Session 11\|Session 11]]
 

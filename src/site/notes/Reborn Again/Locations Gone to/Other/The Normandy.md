@@ -75,7 +75,7 @@
 
 - **Detection and Approach:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] parties detected the Normandy as a potential site for exploration.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] and the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] parties detected the Normandy as a potential site for exploration.
     - Concerns about structural instability and remaining threats were raised before boarding.
 - **Exploration and Findings:**
     

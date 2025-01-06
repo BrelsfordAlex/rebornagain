@@ -12,7 +12,7 @@ Avenging spirit vibes
 Vibes are darker 
 Scythe with a crescent moon on each side 
 Eyes burning white fire 
-**Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]** Myria Viv
+**Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]]** Myria Viv
 **What Are They:** 'God'
 **When Were They Met:** Session 8
 **When Were They Heard About:** N/A

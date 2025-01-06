@@ -11,7 +11,7 @@
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 **Starting Date:** 12th of Springdawn 
-**Ending Date:** `= this.insessionend`
+**Ending Date:** 14th of Springdawn
 
 ---
 
@@ -19,18 +19,18 @@
 
 # People Met
 ---
--  **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** – Central figure in leadership, combat, and handling Elise’s discovery and psionic disturbances. Took critical damage during the battle but led recovery efforts and bonding with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]].
+-  **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]** – Central figure in leadership, combat, and handling Elise’s discovery and psionic disturbances. Took critical damage during the battle but led recovery efforts and bonding with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]].
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv Baine]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]])** – Discreet and observant, engaged in secret communications. Played a key role in combat with her weapon **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]]** and discovered valuable loot.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** – Engaged in frontline combat using divine smite and firearms. Collected loot and participated in post-battle recovery.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]] (Evergreen)** – Used **Starry Wisp** in combat, conducted **Speak with Dead**, and maintained emotional distance after the battle. Carried the sword **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]**.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]])** – Used **Starry Wisp** in combat, conducted **Speak with Dead**, and maintained emotional distance after the battle. Carried the sword **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]**.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Quill Ak'Ta\|Quill Ak'Ta]]** – Strong enough to assist in escape plans, skilled in combat, and praised for sharpshooting. Revealed to have been expelled from the Raven’s Guild for justified murder.
-- **Ellisse ([[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]])** – Psionic child with illithid traits, discovered in the lower hold. Formed a bond with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] and exhibited psionic growth. Accompanied by an **intellect devourer companion**.
+- **Ellisse ([[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]])** – Psionic child with illithid traits, discovered in the lower hold. Formed a bond with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] and exhibited psionic growth. Accompanied by an **intellect devourer companion**.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]])** – Landed the finishing blow on the **broodmind** with his weapon “Final Curtain.”
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]]** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]’s scout, destroyed by [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]] during reconnaissance.
-- **Khan ([[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]])** – Repaired the ship and provided insight into Elise’s psionic development.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]]** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]’s scout, destroyed by [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]] during reconnaissance.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]])** – Repaired the ship and provided insight into Elise’s psionic development.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Flix Daisywind\|Flix Daisywind]]** – Elise sold stolen alcohol to Flix during the celebration.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Bixum\|Bixum]]** – Shared information with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] about Quill Ak’Ta’s past with the Raven’s Guild.
-- **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]]** – Mentioned by Evergreen; trapped in the Feywild alongside [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]] but confirmed to be safe.
+- **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]]** – Mentioned by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]]; trapped in the Feywild alongside [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]] but confirmed to be safe.
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]]** – Trapped in the Feywild with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] but safe.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]]** – Crew member injured during the acid explosion from the **broodmind**.
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxie]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]]** – Brought alcohol to the celebratory dinner. 
@@ -49,8 +49,8 @@
 **Ship Condition and Initial Preparations:**
 
 - The group gathered aboard the damaged enemy ship, discussing the possibility of an emergency evacuation.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] checked supplies, revealing a **slow falling potion** and a **potion of flight**. [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Quill Ak'Ta\|Quill Ak'Ta]] was mentioned as strong enough to carry at least one person if the ship became unsteady.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]] speculated that only Evergreen, due to her shifting abilities, could potentially survive if the ship failed mid-air.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] checked supplies, revealing a **slow falling potion** and a **potion of flight**. [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Quill Ak'Ta\|Quill Ak'Ta]] was mentioned as strong enough to carry at least one person if the ship became unsteady.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]] speculated that only [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]], due to her shifting abilities, could potentially survive if the ship failed mid-air.
 
 **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s Quiet Actions:**
 
@@ -62,18 +62,18 @@
 
 - A loud **metallic thud** resonated across the ship, raising alarm. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]] descended to the lower decks.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] explained that demons had been transported on this vessel disguised as **Mizzix research specimens**. Their intended destination was **Talon**, raising questions about potential sabotage or cult interference.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] expressed concern over the potential consequences if the demons reached Mizzix, suggesting the Mizix researchers might have attempted experiments on the creatures.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] expressed concern over the potential consequences if the demons reached Mizzix, suggesting the Mizix researchers might have attempted experiments on the creatures.
 
 **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]]’s Scouting and Ambush:**
 
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] deployed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] to investigate the lower deck. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]]’s **heightened perception** allowed him to detect a lurking enemy – a **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|Gene Stealers]]**, described as a four-armed, xenomorph-like creature with scythe-like claws.
-- Before [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] could retreat, another gene stealer ambushed and **destroyed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]]**, sending [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] a shockwave of psychic pain (1 point).
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] deployed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] to investigate the lower deck. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]]’s **heightened perception** allowed him to detect a lurking enemy – a **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|Gene Stealers]]**, described as a four-armed, xenomorph-like creature with scythe-like claws.
+- Before [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] could retreat, another gene stealer ambushed and **destroyed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]]**, sending [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] a shockwave of psychic pain (1 point).
 
 **Combat Initiation:**
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]]’s enhanced perception detected a **second enemy** clinging to the outside of the ship, peering through a window.
-- Reacting quickly, Evergreen **fired Starry Wisp** at the creature, initiating combat.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Quill Ak'Ta\|Quill Ak'Ta]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] readied weapons while [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] quietly observed but prepared to act.
+- Reacting quickly, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] **fired Starry Wisp** at the creature, initiating combat.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Quill Ak'Ta\|Quill Ak'Ta]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] readied weapons while [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] quietly observed but prepared to act.
 
 ---
 
@@ -81,23 +81,23 @@
 
 **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|Gene Stealers]] Ambush and Battle:**
 
-- As the group engaged, **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]] crawled from the lower decks and latched onto the ship’s sides**. One burst through a window to attack Evergreen.
+- As the group engaged, **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]] crawled from the lower decks and latched onto the ship’s sides**. One burst through a window to attack [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]].
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] charged in with her shotgun, **firing point-blank** at the nearest creature, using **divine smite** to augment her attack.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] pulled her gun and **activated [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]]**, her enchanted weapon. Each of her strikes left an **interdict seal** on enemies, preparing [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] for devastating follow-up attacks.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] engaged in melee combat with a **lightning staff**, delivering electric bursts while healing themselves with **lay on hands**.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] pulled his gun and **activated [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]]**, his enchanted weapon. Each of her strikes left an **interdict seal** on enemies, preparing [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] for devastating follow-up attacks.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] engaged in melee combat with a **lightning staff**, delivering electric bursts while healing themselves with **lay on hands**.
 
 **Adaptation and the Arrival of the [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|Broodmind]]:**
 
-- As the battle progressed, the enemies **adapted to radiant and thunder damage**, reducing the effectiveness of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]’s attacks.
+- As the battle progressed, the enemies **adapted to radiant and thunder damage**, reducing the effectiveness of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]’s attacks.
 - A **broodmind**, a massive psionic entity with tentacles, emerged from the lower decks, radiating power.
-- The broodmind critically injured [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]], leaving [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] with **6 HP**.
-- Evergreen, seeing [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]'s condition, cast **Phantasmal Force** to create the illusion of a powerful ghoul, distracting the broodmind.
+- The broodmind critically injured [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], leaving [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] with **6 HP**.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]], seeing [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]'s condition, cast **Phantasmal Force** to create the illusion of a powerful ghoul, distracting the broodmind.
 
 **Final Blow and Explosion:**
 
 - Despite heavy resistance, the group managed to weaken the broodmind.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s critical strikes, alongside [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]]’s finishing shot with “Final Curtain,” **disintegrated** the broodmind before it could escape.
-- The broodmind’s **corpse exploded in acid**, dealing severe damage to nearby crew members ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]]).
+- The broodmind’s **corpse exploded in acid**, dealing severe damage to nearby crew members ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]]).
 
 
 ---
@@ -106,14 +106,14 @@
 
 **Finding [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]]:**
 
-- In the lower hold, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] discovered **Elise**, a child with **illithid-like features**, unconscious but alive.
-- Elise’s **psionic energy** subtly rippled through the air. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] carried Elise to safety, where Elise **levitated** onto the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]].
-- Elise’s behavior indicated fear and distrust, but they quickly bonded with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]].
+- In the lower hold, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] discovered **Elise**, a child with **illithid-like features**, unconscious but alive.
+- Elise’s **psionic energy** subtly rippled through the air. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] carried Elise to safety, where Elise **levitated** onto the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]].
+- Elise’s behavior indicated fear and distrust, but they quickly bonded with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]].
 
 **Illithid Companion:**
 
-- Elise was accompanied by an **intellect devourer** that followed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] closely, treating Elise like a companion animal.
-- Elise communicated telepathically with Evergreen and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]], revealing distrust but a sense of curiosity.
+- Elise was accompanied by an **intellect devourer** that followed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] closely, treating Elise like a companion animal.
+- Elise communicated telepathically with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], revealing distrust but a sense of curiosity.
 
 #### **Investigation, Looting, and Speak with Dead:**
 
@@ -122,63 +122,63 @@
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] quietly continued writing reports and filling out paperwork in the dining area.
 - A mysterious note shot from her bag, suggesting communication with a superior or external party. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] did not share the note’s contents.
 
-**Evergreen’s Speak with Dead (Captain’s Head):**
+**[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]]’s Speak with Dead (Captain’s Head):**
 
-- Evergreen performed a **Speak with Dead** ritual on the decapitated captain’s head, gaining five questions to extract information.
-- Posing as **[[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Allendro Dar'Marvo\|Allendro Dar'Marvo]]r** (via [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Deception\|deception]]), Evergreen learned:
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] performed a **Speak with Dead** ritual on the decapitated captain’s head, gaining five questions to extract information.
+- Posing as **[[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Allendro Dar'Marvo\|Allendro Dar'Marvo]]r** (via [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Deception\|deception]]), [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] learned:
     - The ship belonged to **Believers of the Third Arm**, a cult seeking to unleash demons in Mizzix.
     - Experiments involving **illithids and humanoid hosts** were underway.
     - The captain had been tasked with transporting the demons for Mizzix’s destabilization.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] quietly observed the ritual, continuing her notes.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] quietly observed the ritual, continuing his notes.
 
 ---
 
 #### **Ship Looting:**
 
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]** – Found **210 gold** and a **Chime of Opening** (10 uses of Knock spell) in officer quarters.
-- **Evergreen** – Collected potions of healing, trade goods, and a potion of growth.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]]** – Collected potions of healing, trade goods, and a potion of growth.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** – Obtained gold, rare potions, and shotgun shells.
-- Elise was considered the **most valuable find**, given her illithid potential and psionic abilities.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]] was considered the **most valuable find**, given her illithid potential and psionic abilities.
 
 
 ## 13th of Springdawn Year: 10044
 ---
 **Elise’s Nightmare and Psionic Surge:**
 
-- During the night, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] experienced their body seizing but resisted (Strength Save: 26).
-- Elise floated above the bed, radiating psionic energy. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] comforted Elise, who had no memory of the event.
+- During the night, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] experienced their body seizing but resisted (Strength Save: 26).
+- Elise floated above the bed, radiating psionic energy. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] comforted Elise, who had no memory of the event.
 - Elise’s intellect devourer sat protectively beside her, resembling a small cat.
 **General Activities:**
 
 - A **rainstorm** swept over the ship.
-- Evergreen remained distant, reflecting on her unsettling dreams.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] remained distant, reflecting on her unsettling dreams.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] worked diligently to finish paperwork, learning from [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Bixum\|Bixum]] that [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Quill Ak'Ta\|Quill Ak'Ta]] had been expelled from the Raven’s Guild for **justified murder**.
 
 **Conversations:**
 
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] spoke with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]] about Elise’s condition. Khan explained Elise’s psionic abilities would grow, and she could find acceptance in Mizix.
-- Evergreen contacted [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] through [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Flix Daisywind\|Flix Daisywind]], confirming [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]]were trapped in the Feywild but were safe.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] spoke with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]] about Elise’s condition. [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]] explained Elise’s psionic abilities would grow, and she could find acceptance in Mizix.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] contacted [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] through [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Flix Daisywind\|Flix Daisywind]], confirming [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]]were trapped in the Feywild but were safe.
 
 ## 14th of Springdawn Year: 10044
 ---
 **Celebratory Dinner:**
 
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] organized a **dinner celebration** to commemorate the crew’s success in surviving their first major battle.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] organized a **dinner celebration** to commemorate the crew’s success in surviving their first major battle.
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxie]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]] arrived with large quantities of alcohol.
 - Elise **attempted to steal alcohol** during the party, successfully selling it to Flix for 10 gold.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] praised Quill’s sharpshooting and Gal Beck’s decisive finishing blow.
-- Evergreen participated but remained emotionally distant, carrying the sword **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]** and refusing to part with it.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] praised Quill’s sharpshooting and Gal Beck’s decisive finishing blow.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] participated but remained emotionally distant, carrying the sword **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]** and refusing to part with it.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] attended briefly but **focused on paperwork** before leaving early.
  
 **Continued Travel and Recovery:**
 
-- Elise became more attached to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]], staying close and seeking comfort.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] finalized most of her reports.
-- The ship, fully repaired by Khan, continued its journey.
+- Elise became more attached to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], staying close and seeking comfort.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] finalized most of his reports.
+- The ship, fully repaired by [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]], continued its journey.
 - Elise’s abilities and presence became a focal point of future intrigue as the crew prepared for their next encounter.
 
 
-# Myria Sendings
+# [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Sendings
 --------------
 - To : 
 	- Reply: 
@@ -193,22 +193,22 @@
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|Gene Stealers]]** – These four-armed, xenomorph-like creatures with scythe-like claws serve the broodmind and adapt to radiant and thunder damage. Their adaptability suggests genetic modification or psionic influence.
 - **Broodmind** – A psionic entity that led the [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]], wielding powerful mental abilities. The broodmind’s explosion upon death suggests it was imbued with acidic or corrosive properties, a potential defensive mechanism.
 - **Elise’s Illithid Traits** – Elise’s illithid-like features, psionic abilities, and connection to an **intellect devourer companion** indicate she may be the result of illithid experimentation or hybridization.
-- **Psionic Growth and Disturbances** – Elise’s psionic abilities are developing rapidly, causing involuntary surges that affect the crew. Khan noted that Elise’s power could lead to acceptance in Mizzix.
+- **Psionic Growth and Disturbances** – Elise’s psionic abilities are developing rapidly, causing involuntary surges that affect the crew. [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]] noted that Elise’s power could lead to acceptance in Mizzix.
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]] (Sword)** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] carried the sword **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]** during the celebration, hinting at personal conflict or unresolved issues tied to the weapon.
 # Things of Importance
 
 ---
 
--  **Ship’s Condition & Escape Plans** – The enemy ship was damaged, prompting discussions of emergency evacuation. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] secured potions of **slow falling** and **flight**. Quill Ak’Ta was noted as strong enough to carry one person.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s Secretive Actions** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] scribbled a note and placed it in her belt bag, engaging in discreet communication that wasn’t questioned by the crew.
-- **Gene Stealer Ambush** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] scouted the lower decks but was ambushed and destroyed by [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]], dealing psychic damage to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]. This triggered immediate combat.
-- **Combat with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|Gene Stealers]] and Broodmind** – The crew fought [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]] that adapted to radiant and thunder damage. A **broodmind** emerged during the battle, critically wounding [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and Gal'Bak ultimately destroyed the broodmind, though its explosion caused acid damage to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]].
-- **Elise’s Discovery** – Elise, a psionic child with illithid traits, was found unconscious in the lower hold and taken to safety.
-- **Evergreen’s Speak with Dead** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] questioned the decapitated captain’s spirit, learning about the cult's plans to unleash demons in Mizzix and their experiments involving illithids.
-- **Psionic Disturbances from Elise** – Elise emitted psionic surges at night, causing [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]’s body to seize. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] comforted Elise, who had no memory of the events.
-- **Elise’s Bond with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]** – Elise levitated onto the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] and formed a growing attachment to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]], staying close to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]] during events.
+-  **Ship’s Condition & Escape Plans** – The enemy ship was damaged, prompting discussions of emergency evacuation. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] secured potions of **slow falling** and **flight**. Quill Ak’Ta was noted as strong enough to carry one person.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s Secretive Actions** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] scribbled a note and placed it in his belt bag, engaging in discreet communication that wasn’t questioned by the crew.
+- **Gene Stealer Ambush** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] scouted the lower decks but was ambushed and destroyed by [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]], dealing psychic damage to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]. This triggered immediate combat.
+- **Combat with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|Gene Stealers]] and Broodmind** – The crew fought [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]] that adapted to radiant and thunder damage. A **broodmind** emerged during the battle, critically wounding [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and Gal'Bak ultimately destroyed the broodmind, though its explosion caused acid damage to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]].
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]]’s Discovery** – Elise, a psionic child with illithid traits, was found unconscious in the lower hold and taken to safety.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]]’s Speak with Dead** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] questioned the decapitated captain’s spirit, learning about the cult's plans to unleash demons in Mizzix and their experiments involving illithids.
+- **Psionic Disturbances from Elise** – Elise emitted psionic surges at night, causing [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]’s body to seize. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] comforted Elise, who had no memory of the events.
+- **Elise’s Bond with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** – Elise levitated onto the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] and formed a growing attachment to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], staying close to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] during events.
 - **Quill’s Past Revealed** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] learned that Quill Ak’Ta had been expelled from the Raven’s Guild for **justified murder**.
-- **Celebratory Dinner** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]] organized a dinner to celebrate the crew’s victory. Elise attempted to steal alcohol and sell it to Flix, showcasing her mischievous side.
+- **Celebratory Dinner** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] organized a dinner to celebrate the crew’s victory. Elise attempted to steal alcohol and sell it to Flix, showcasing her mischievous side.
 - **Ship Fully Repaired** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]] repaired the ship, ensuring it was ready for further travel.
 
 # Loot
@@ -226,7 +226,7 @@
     - **Gold**
     - **Rare potion**
     - **Shotgun shells**
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]:**
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]:**
     - **Chain of Opening** – (10 uses of Knock spell)
 	- **Elise** – Considered the **most valuable discovery** due to her illithid potential and psionic abilities.
 
@@ -243,7 +243,7 @@
 -----
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 
 

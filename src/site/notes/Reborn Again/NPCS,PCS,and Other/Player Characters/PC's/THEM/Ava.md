@@ -15,13 +15,13 @@ Did Ava give any quests: No
 
 
 #### Description
-the original personailty in the [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.H.E.M]] warforged, treams of red, no eyes, white in color
+the original personailty in the [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] warforged, treams of red, no eyes, white in color
 
 ---
 
 #### Notes
 ---
-Only people to talk to Ava is [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]
+Only people to talk to Ava is [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]
@@ -29,7 +29,7 @@ Only people to talk to Ava is [[Reborn Again/NPCS,PCS,and Other/Player Character
 [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Kalani\|Kalani]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Alma Dragoncaller\|Alma Dragoncaller]]
@@ -68,13 +68,13 @@ Did Ava give any quests: No
 
 
 #### Description
-the original personailty in the [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.H.E.M]] warforged, treams of red, no eyes, white in color
+the original personailty in the [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] warforged, treams of red, no eyes, white in color
 
 ---
 
 #### Notes
 ---
-Only people to talk to Ava is [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]
+Only people to talk to Ava is [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]
@@ -82,7 +82,7 @@ Only people to talk to Ava is [[Reborn Again/NPCS,PCS,and Other/Player Character
 [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Kalani\|Kalani]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Alma Dragoncaller\|Alma Dragoncaller]]

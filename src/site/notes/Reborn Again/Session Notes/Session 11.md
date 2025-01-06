@@ -161,22 +161,22 @@ Session 11 _*Dated 10/9/24*_
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] Fights The [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/The Canis\|Cannis]] with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|honor]] and gains his respect
     - The Kaines will offer aid
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
 
-- - Hawthorn has fun at Mizzix
-    - Hawthorn gets a full tour
+- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] has fun at Mizzix
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] gets a full tour
     - Mizzix departments
         - Research and Development
         - Magictech
         - Biomancy
         - “Stables”
         - Psionics and Esoteric
-    - Hawthorn spends the day with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] helps Hawthorn make Gravity Bombs
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] spends the day with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] helps [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] make Gravity Bombs
         - Mizzix will fund 1 but the rest cost 100 gold and 4 days work
     - Mizzix test subject escapedKrasis
         - Prototype Magus Vault creature
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] enjoys Hawthorn
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] enjoys [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] started construction?
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
@@ -250,33 +250,33 @@ Session 11 _*Dated 10/9/24*_
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] cuddling shifted felines
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] uses her sending to talk to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]]
             - Sending 1"im sorry for the noise dad im partying with vivs family"
-                - Replynot your father madam Evergreen, do you need assistance?
+                - Replynot your father madam [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]], do you need assistance?
             - Sending 2“ "i got fun juice from nice woman yes can you bring more of the sweets too?"
                 - Reply,,, Of course small one. Give me 10 minutes
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]] carries her back to hospitality with sweets
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
 
-- - Hawthorn with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
+- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
         - Two Elder Brians show up for a second then none then one
-        - Hawthorn makes 2 Gravity Bombs
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Talk
-        - Hawthorn asking what the plan is for the fight
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] makes 2 Gravity Bombs
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Talk
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] asking what the plan is for the fight
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] learns of the gravity bombs and what the cost of the m is
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] has an idea to turn the gravity bombs into land mines
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] is listening and reworking the plans
-        - Hawthorn has a plan but cant talk about it
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] has a plan but cant talk about it
         - The two plan to equip regular army men with general equipment and help
-        - Hawthorn and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] plan for the fight
-        - Hawthorn idea
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] plan for the fight
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] idea
             - Place mirrors to point light at the ground
-        - Hawthorn has a past with Shadowed Reapers
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] has a past with Shadowed Reapers
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] wants to focus on the solid Demons
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 
 - - Refugees
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] spots [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] spots [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]]
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous]] on a stag
             - Radagast
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] with a cub named Bingo
@@ -286,9 +286,9 @@ Session 11 _*Dated 10/9/24*_
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] offers his services to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] named his pup Bingo
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] crying while holding [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]
-        - Hawthorn hates the idea of children going to war
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] hates the idea of children going to war
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] has battle scars on his shield
-            - This makes Hawthorn Angry
+            - This makes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] Angry
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] gets [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] hooked up with armor and a place to stay at the barracks
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] grandparents with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] Family
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous]]
@@ -344,7 +344,7 @@ Session 11 _*Dated 10/9/24*_
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] uses shatter on the ground and screams in anger as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] holds her
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] about the summer court and being unable to do anything to protect her OWN home and is stuck here protecting everyone elses
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|T.h.e.m]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
 
 - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] has flashbacks of bombs and if he can redeem himself
 
@@ -425,10 +425,10 @@ Session 11 _*Dated 10/9/24*_
 
 - Golden Fiddle ( [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]])
     - Spell Save up by 2
-    - If ever fight someone in a music battle if they win you must give it to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+    - If ever fight someone in a music battle if they win you must give it to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
     - Cannot play other instruments
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s new [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] Armor
-- 2x Gravity Bombs ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]])
+- 2x Gravity Bombs ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]])
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Gun
     - Thunder Damage
 

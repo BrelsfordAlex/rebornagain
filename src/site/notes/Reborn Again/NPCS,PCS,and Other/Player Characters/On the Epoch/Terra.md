@@ -24,7 +24,7 @@ Proficiencies: History +12, Brewers Kit +10, Medicine +6, Perception +6
 
   
 
-Balance Above All: Once per day Terra can plant their staff into the ground and cause an aura of balance to emanate around [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]]. No creature within 60ft may gain advantage or disadvantage, reroll a dice or harm a creature that hasnt harmed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|them]], this effect lasts for one hour.
+Balance Above All: Once per day Terra can plant their staff into the ground and cause an aura of balance to emanate around [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]]. No creature within 60ft may gain advantage or disadvantage, reroll a dice or harm a creature that hasnt harmed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]], this effect lasts for one hour.
 
 Regeneration. The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn’t in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn.
 
@@ -52,7 +52,7 @@ Flaws:
 
 ---
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Alma Dragoncaller\|Alma Dragoncaller]]

@@ -4,7 +4,7 @@
 
 ### Information about Changer of Ways 
 **Description:** Bird Demon
-**Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|Them]]** Maria Myria Viv THEM
+**Who Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]]** Maria Myria Viv THEM
 **What Are They:** Demon God
 **When Were They Met:** Session 5
 **When Were They Heard About:** Session 5
@@ -29,7 +29,7 @@ Slow
 
 [[Reborn Again/Session Notes/Session 5\|Session 5]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/El'Solar\|El'Solar]]

@@ -26,7 +26,7 @@ Progenitor of House of Lament
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana, Temportal Disacossiate]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marra\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marra]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/THEM\|THEM]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/Session Notes/Session 7\|Session 7]]
