@@ -38,7 +38,7 @@
 ---
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]** – The crew’s ship where Elise was taken after her discovery. Elise levitated onto the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]], and repairs were conducted by Asperoth’s Apostle.
 - **[[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]]** – The intended destination for the demons disguised as Mizzix research specimens. A potential site for sabotage or cult interference.
-	- **Mizzix** – A region or faction involved in research and experimentation. The **Believers of the Third Arm** aimed to destabilize Mizzix by unleashing demons and conducting illithid experiments. Elise’s psionic growth may lead to acceptance in Mizzix.
+	- **Mizzix** – A region or faction involved in research and experimentation. The **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/Believers of the Third Arm\|Believers of the Third Arm]]** aimed to destabilize Mizzix by unleashing demons and conducting illithid experiments. Elise’s psionic growth may lead to acceptance in Mizzix.
 - **Feywild** – [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]] are trapped in the Feywild but confirmed to be safe.
 - **Raven’s Guild** – Quill Ak’Ta was expelled from this guild for **justified murder**.
 
@@ -125,11 +125,10 @@
 **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]]’s Speak with Dead (Captain’s Head):**
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] performed a **Speak with Dead** ritual on the decapitated captain’s head, gaining five questions to extract information.
-- Posing as **[[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Allendro Dar'Marvo\|Allendro Dar'Marvo]]r** (via [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Deception\|deception]]), [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] learned:
-    - The ship belonged to **Believers of the Third Arm**, a cult seeking to unleash demons in Mizzix.
+- Posing as **[[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Allendro Dar'Marvo\|Allendro Dar'Marvo]]** (via [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Deception\|deception]]), [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] learned:
+    - The ship belonged to **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/Believers of the Third Arm\|Believers of the Third Arm]]**, a cult seeking to unleash demons in Mizzix.
     - Experiments involving **illithids and humanoid hosts** were underway.
     - The captain had been tasked with transporting the demons for Mizzix’s destabilization.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] quietly observed the ritual, continuing his notes.
 
 ---
 
@@ -188,7 +187,7 @@
 # Lore 
 ---
 
--   - **Believers of the Third Arm (Cult)** – This cult was responsible for transporting demons disguised as Mizzix research specimens. They are actively engaged in destabilization efforts in Mizzix by experimenting with **illithids and humanoid hosts**.
+-   - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/Believers of the Third Arm\|Believers of the Third Arm]] (Cult)** – This cult was responsible for transporting demons disguised as Mizzix research specimens. They are actively engaged in destabilization efforts in Mizzix by experimenting with **illithids and humanoid hosts**.
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/It That Hungers\|It That Hungers]]** – A powerful entity connected to the **broodmind** encountered during the battle. Its association with the cult hints at a larger illithid plot unfolding across the region.
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|Gene Stealers]]** – These four-armed, xenomorph-like creatures with scythe-like claws serve the broodmind and adapt to radiant and thunder damage. Their adaptability suggests genetic modification or psionic influence.
 - **Broodmind** – A psionic entity that led the [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]], wielding powerful mental abilities. The broodmind’s explosion upon death suggests it was imbued with acidic or corrosive properties, a potential defensive mechanism.

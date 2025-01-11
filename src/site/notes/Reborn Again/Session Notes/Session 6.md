@@ -129,15 +129,15 @@ All asked to leave weapons even [[Reborn Again/NPCS,PCS,and Other/Player Charact
     [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]] to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]] is present
     Ashen ConfluxDemon Conflicts
     [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]] IS A DRAGON?!?!?!
-    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and Grey talking in head while [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and Them explain everything
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] talking in head while [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] explain everything
     [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] asks for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s sickle to cut the bear
     Meet [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Rico\|Rico]] who puts knife to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s throat like "nuh uh"
-    Grey annoyed like "guys I just need to get my notes fucking CHILL jesus
+    [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] annoyed like "guys I just need to get my notes fucking CHILL jesus
     [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Rico\|Rico]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] his dagger to cut the bear's back
-    Grey Takes over and tries to explain what he knows
+    [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] Takes over and tries to explain what he knows
     [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]] snarls and stands infront of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] like "WHAT ARE YOU DOING HERE [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|IMAGINATION]]"
-        Grey pulled out of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and is a fox (which no one questioned btw like why did no one question this?)
-    Grey speaks freely
+        [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] pulled out of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and is a fox (which no one questioned btw like why did no one question this?)
+    [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] speaks freely
     [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]] is sleeping on the council table
     Ava7 points of interest
     Archmages (Temporal Anomalies)

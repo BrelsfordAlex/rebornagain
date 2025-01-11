@@ -402,7 +402,7 @@ Ending Date: 9th of Springdawn  
     
     - The ship, **The [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]**, is used for travel, and **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]** demonstrates how it can travel through trees using magical portals.
     - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]** becomes intrigued by the tree portal's magic, which plays a role in the journey to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
-- **The Summer Court's Revolt**:
+- **[[Reborn Again/Locations Gone to/Westvale/The Summer Court\|The Summer Court]]'s Revolt**:
     
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** shares that the **Summer Court** has experienced a revolt, creating chaos that impacts communication and the situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
     - **Spring Court** is also under attack by demons, and **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]**'s connections within the **Spring Court** provide some insight into the situation.
@@ -473,7 +473,7 @@ Ending Date: 9th of Springdawn  
 - **Depot 1**:
     
     - **Depot 1** is a location in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** that is crucial to the mission but is missing from maps and possibly cloaked by powerful magic.
-- **The Summer Court's Rebellion**:
+- **[[Reborn Again/Locations Gone to/Westvale/The Summer Court\|The Summer Court]]'s Rebellion**:
     
     - A revolt within the **Summer Court** is ongoing, and it significantly impacts the balance of power and communication, particularly affecting the situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
 - **The Magical Blockages in [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**:

@@ -27,7 +27,7 @@ Session 15 _*Dated 10/30/24*_
     - Friends with Cheezo
     - From the Warrens
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]
-- [[[Glint\|[Glint]]]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]]
 - [Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sentry\|Sentry]]]]
 -[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/George\|George]]

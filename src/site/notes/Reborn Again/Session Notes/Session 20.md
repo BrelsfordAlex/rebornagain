@@ -338,7 +338,7 @@
 - **Cautious Approach:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] deliberated on the risks of approaching [[Reborn Again/Locations Gone to/Other/The Normandy\|the Normandy]], aware of its potential as a trap or the presence of dangerous entities.
-    - Hawthorne expressed concerns about the crew’s safety, emphasizing the need for a well-structured entry plan.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorne]] expressed concerns about the crew’s safety, emphasizing the need for a well-structured entry plan.
 
 ---
 

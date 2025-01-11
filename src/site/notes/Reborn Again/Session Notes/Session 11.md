@@ -99,7 +99,7 @@ Session 11 _*Dated 10/9/24*_
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Sending to her father“Dad are you ok? I know home is being attacked and I had a dream of you”
     - Response“[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]” but in a growl voice that felt like an ice pick digging into her temple which caused a headache
 - 3 Gnaw Bombs the demons have access to
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] doesn't mention the Summer Court’s revolt and about her sending to her father
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] doesn't mention [[Reborn Again/Locations Gone to/Westvale/The Summer Court\|the Summer Court]]’s revolt and about her sending to her father
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 
@@ -109,7 +109,7 @@ Session 11 _*Dated 10/9/24*_
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]] is shocked that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] doesn’t understand how serious what her actions were
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]] has to solidify that yes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] made a pact with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]] and split it apart
         - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] is a better part of “[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End]]”
-        - She tells [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]] about the Summer court
+        - She tells [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]] about [[Reborn Again/Locations Gone to/Westvale/The Summer Court\|the Summer court]]
             - He said that nothing they can do right now
         - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]] is the worst part of “[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/The Creator\|The Creator]]”
         - ImaginationArbitration
@@ -342,7 +342,7 @@ Session 11 _*Dated 10/9/24*_
         - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] goes on a tangent on how [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] doesnt like fighting and struggles with it so he makes the hard decisions with it and how he knows [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] would die to protect [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] about her childhood
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] uses shatter on the ground and screams in anger as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] holds her
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] about the summer court and being unable to do anything to protect her OWN home and is stuck here protecting everyone elses
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] about [[Reborn Again/Locations Gone to/Westvale/The Summer Court\|the summer court]] and being unable to do anything to protect her OWN home and is stuck here protecting everyone elses
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
 

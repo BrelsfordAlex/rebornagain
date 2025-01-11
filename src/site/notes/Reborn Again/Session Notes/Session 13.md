@@ -168,7 +168,7 @@ Session 13 _*Dated 10/23/24*_
             - Devines have uses to the Hags (When [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] told them about her father coming and how [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]] told her)
             - The hags are older than Grey
             - Baba Saga learns of what [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s stepdad did and who he was and Baba Saga cast Eyebite at 9th level on him
-            - The Summer Court hates [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalania]]
+            - [[Reborn Again/Locations Gone to/Westvale/The Summer Court\|The Summer Court]] hates [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalania]]
             - The Hags need an invitation to help with the fight
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] asks the hags for help with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|mistfiend]]
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] At Witches End
@@ -553,7 +553,7 @@ You can’t stop us
         
 - **To Pippin:** [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] made me a big gun! I know your house is on the way to [[Tallon City \|Tallon]]… are you going to seek shelter in the city?
     - **Reply:** thats great, hope youre well I am home for this invasion. I am safe. Hope you are as well much love
-- **To [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley]]:** Are you ok? I heard about the summer court I was gonna come and say hi soon as I could… Please be safe
+- **To [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley]]:** Are you ok? I heard about [[Reborn Again/Locations Gone to/Westvale/The Summer Court\|the summer court]] I was gonna come and say hi soon as I could… Please be safe
     - **Reply:** I'm great!! the spring court is amazing so many shiny things  
         
 - **To [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess]]([[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Rose]]):** Thank you for little [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]] I’m sorry I wasn’t more thankful when I met you he's a little sneaky boy! Would you be my friend?
@@ -603,7 +603,7 @@ You can’t stop us
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]] is respected and fearful
 - Devines have uses to the Hags (When [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] told [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] about her father coming and how [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]] told her)
     - The hags are older than [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]]
-- The Summer Court hates [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]]
+- [[Reborn Again/Locations Gone to/Westvale/The Summer Court\|The Summer Court]] hates [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]]
 - The Hags need an invitation to help with the fight
 
 ==================================================

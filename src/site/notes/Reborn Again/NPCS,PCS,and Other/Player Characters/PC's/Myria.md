@@ -2,6 +2,25 @@
 {"dg-publish":true,"permalink":"/reborn-again/npcs-pcs-and-other/player-characters/pc-s/myria/"}
 ---
 
+##### Myria Evergreen characteristics
+- Extroverted
+- Loud and proud 
+- Wears her heart on her sleeve 
+- She shows and says how she feels 
+- Sees someone she thinks is kind and just goes “I want to be your friend”
+- Impulsive
+- She doesn’t think before she does something 
+- Strong Sense of Justice 
+- Kind
+- Wants to make everyone happy and feel welcomed and loved 
+- Scared of dead bodies and demons 
+- Wants to save everyone 
+- Talks to everyone and wants to meet everyone she sees 
+- She wants to know everyone’s stories
+- She wants to Entertain
+- Feeling like she can’t help someone is something that she hates  and regrets
+
+
 
 # Spells
 
@@ -22,36 +41,38 @@
 | 1st              |     |     |     |     |
 | 2nd              |     |     |     | --  |
 | 3rd              |     |     |     | --  |
-| 4th              |     |     |     | --  |
+| 4th              | X   |     |     | --  |
 | 5th              |     | --  | --  | --  |
 | 6th              |     | --  | --  | --  |
 
-| Tails | Used |
-| ----- | ---- |
-| 1     |      |
-| 2     |      |
-| 3     |      |
-| 4     |      |
+|     | [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] Charges | Tails | Bardic Inspiration | Detect Magic | Identify | Counterspell |
+| --- | ------------------------------- | ----- | ------------------ | ------------ | -------- | ------------ |
+| 1   |                                 |       |                    |              |          |              |
+| 2   |                                 |       |                    | --           | --       |              |
+| 3   |                                 |       |                    | --           | --       | --           |
+| 4   |                                 |       |                    | --           | --       | --           |
+| 5   | --                              | --    |                    | --           | --       | --           |
+
 
 ### Familiars
 
 | Other Familiars | Current HP | Total HP |
 | --------------- | ---------- | -------- |
-| Winter the Wolf | 0          | 45       |
-| [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]]       | 15         | 15       |
+| Winter the Wolf | 45         | 45       |
+| [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]]   | 15         | 15       |
 
 | Ghouls        | Current HP | Total HP |
 | ------------- | ---------- | -------- |
-| Ghoul (Daily) | 0          | 35       |
-| Ghoul (Daily) | 0          | 35       |
-| Ghoul (Daily) | 0          | 35       |
-| Ghoul (Daily) | 0          | 35       |
-| Ghoul         | 0          | 35       |
-| Ghoul         | 0          | 35       |
-| Ghoul         | 0          | 35       |
-| Ghoul         | 0          | 35       |
-| Ghoul         | 5          | 35       |
-| Ghoul         | 5          | 35       |
+| Ghoul (Daily) | 35         | 35       |
+| Ghoul (Daily) | 35         | 35       |
+| Ghoul (Daily) | 35         | 35       |
+| Ghoul (Daily) | 35         | 35       |
+| Ghoul         | --         | 35       |
+| Ghoul         | --         | 35       |
+| Ghoul         | --         | 35       |
+| Ghoul         | --         | 35       |
+| Ghoul         | --         | 35       |
+| Ghoul         | --         | 35       |
 | Ghoul         | --         | 35       |
 | Ghoul         | --         | 35       |
 | Ghoul         | --         | 35       |
