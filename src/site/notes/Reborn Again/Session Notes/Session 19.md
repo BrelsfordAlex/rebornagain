@@ -92,7 +92,7 @@ Ending Date: 9th of Springdawn  
     
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]’s Bar - A celebratory venue where the group gathers after the battle.
     
-- Depot 1 - Mentioned as a hidden location that will be used for landing and regrouping during the mission to [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]].
+- [[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]] - Mentioned as a hidden location that will be used for landing and regrouping during the mission to [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]].
     
 - [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]] - The region to be investigated, affected by demon attacks and rebellion.
     
@@ -361,12 +361,12 @@ Ending Date: 9th of Springdawn  
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s Reflection**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** worries about the situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** and feels a sense of urgency. She reflects on her connections with the **Spring Court** and the looming threats posed by the demons and the **Summer Court**.
 13. **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]] and Sending Blockage**:
     
-    - **Sending Blockage**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** tries to send messages to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** but finds that her communications are being blocked. She suspects that powerful magic or cloaking spells are at play, especially after hearing about **Depot 1**, which is mysteriously missing from the maps.
+    - **Sending Blockage**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** tries to send messages to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** but finds that her communications are being blocked. She suspects that powerful magic or cloaking spells are at play, especially after hearing about **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]**, which is mysteriously missing from the maps.
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s Concerns**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** expresses her worries about the situation, including the rebellion in the **Summer Court** and the demon attack on **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**. She believes her sending blockage is not related to the magical cloaking but is tied to another, more serious threat.
 14. **The War Room and Strategy**:
     
-    - **Strategic Meeting**: The group meets in the **war room** to strategize about their mission to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** provides details about the missing **Depot 1**, a strategic location that could be key to the mission.
-    - **Deployment Plans**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** discusses landing near **Depot 1**, which is magically cloaked. The group prepares for the risks ahead and begins to plan their next steps.
+    - **Strategic Meeting**: The group meets in the **war room** to strategize about their mission to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** provides details about the missing **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]**, a strategic location that could be key to the mission.
+    - **Deployment Plans**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** discusses landing near **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]**, which is magically cloaked. The group prepares for the risks ahead and begins to plan their next steps.
     - **New Information**: **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** shares her knowledge of the **Summer Court**'s revolt, the demon attack, and the uncertain situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** outlines the next steps and what the group will need to do once they arrive.
 15. **Conclusion and Next Steps**:
     
@@ -392,12 +392,12 @@ Ending Date: 9th of Springdawn  
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]'s Talk with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]**:
     
     - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]** updates **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** about the **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]**’s condition, mentioning it has been provisioned and did not suffer significant damage.
-    - Brian mentions **Depot 1** in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** as a potential mythic outpost and shares concerns about powerful magic blocking communication with **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
+    - Brian mentions **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]** in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** as a potential mythic outpost and shares concerns about powerful magic blocking communication with **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** is informed that the Fae have been surviving on actual rations due to the refusal of leaving their current location.
 - **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]] Sending Blockage**:
     
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** attempts to send messages to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** but is unable to due to magical blockages, possibly caused by cloaking spells or powerful magic.
-    - **Depot 1** is mentioned as being mysteriously missing from maps, which may be connected to the magical blockage.
+    - **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]** is mentioned as being mysteriously missing from maps, which may be connected to the magical blockage.
 - **The [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] and Magical Travel**:
     
     - The ship, **The [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]**, is used for travel, and **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]]** demonstrates how it can travel through trees using magical portals.
@@ -406,10 +406,10 @@ Ending Date: 9th of Springdawn  
     
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** shares that the **Summer Court** has experienced a revolt, creating chaos that impacts communication and the situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
     - **Spring Court** is also under attack by demons, and **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]**'s connections within the **Spring Court** provide some insight into the situation.
-- **Depot 1 and Magical Cloaking**:
+- **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]] and Magical Cloaking**:
     
-    - **Depot 1**, a strategic location in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**, is missing from maps, and **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** speculates that it may be cloaked by powerful magic, preventing it from being located.
-    - The blockage of communication with **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** is tied to this mystery, with **Depot 1** being a key point of interest.
+    - **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]**, a strategic location in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**, is missing from maps, and **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** speculates that it may be cloaked by powerful magic, preventing it from being located.
+    - The blockage of communication with **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** is tied to this mystery, with **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]** being a key point of interest.
 - **Magic and Demons in [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**:
     
     - **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** is under threat from demons, and **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]** notes that the attack is significant enough to disrupt communication with the area.
@@ -427,8 +427,8 @@ Ending Date: 9th of Springdawn  
     - **Radagast**, a squirrel Fae, is tasked with helping break through magical blockages in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**, signaling their importance to the mission ahead.
 - **The War Room Strategy**:
     
-    - The group meets in the **war room** to discuss the mission to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** and the strategies for dealing with **Depot 1** and the magical threats blocking their communication.
-    - Plans are made to travel to **Depot 1**, which is shrouded in magical cloaking, signaling its importance.
+    - The group meets in the **war room** to discuss the mission to **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** and the strategies for dealing with **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]** and the magical threats blocking their communication.
+    - Plans are made to travel to **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]**, which is shrouded in magical cloaking, signaling its importance.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]'s Role and Leadership**:
     
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** is recognized for her leadership and tactical expertise during the campaign.
@@ -470,15 +470,15 @@ Ending Date: 9th of Springdawn  
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]**:
     
     - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]** is a mysterious figure who guides **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** and resets their hourglass. They also manage **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Marcus]]'s soul** and ensure balance is maintained.
-- **Depot 1**:
+- **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]**:
     
-    - **Depot 1** is a location in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** that is crucial to the mission but is missing from maps and possibly cloaked by powerful magic.
+    - **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]** is a location in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** that is crucial to the mission but is missing from maps and possibly cloaked by powerful magic.
 - **[[Reborn Again/Locations Gone to/Westvale/The Summer Court\|The Summer Court]]'s Rebellion**:
     
     - A revolt within the **Summer Court** is ongoing, and it significantly impacts the balance of power and communication, particularly affecting the situation in **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**.
 - **The Magical Blockages in [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]**:
     
-    - The communication blockage with **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** suggests powerful magic or cloaking spells are in place, hiding locations like **Depot 1** and preventing easy contact.
+    - The communication blockage with **[[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]** suggests powerful magic or cloaking spells are in place, hiding locations like **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]** and preventing easy contact.
 - **Fae Involvement**:
     
     - **Radagast**, a squirrel Fae, is instrumental in dealing with the magical blockages. The **Fae** are key players in the mission but also present challenges with their own internal struggles.

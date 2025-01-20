@@ -11,7 +11,7 @@
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 **Starting Date:** 15th of Springdawn 
-**Ending Date:** `= this.insessionend`
+**Ending Date:** Night of the 18th of Springdawn 
 
 ---
 
@@ -28,7 +28,7 @@
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]]** – Acts as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s voice, explaining her nightmares and the threat posed by Kor’ad.
 - **Kor’ad, Will of a Thousand** – A demon targeting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] for emotional and physical conflict.
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Skulltaker\|Skulltaker]]** – A demon confronted by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] in her dream, seemingly intimidated by **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]**.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]] (Asperoth’s Apostle)** – Provides insights into Elise’s psionics and answers [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s invasive questions about illithid physiology.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]] (Asperoth’s Apostle)** – Provides insights into [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s psionics and answers [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s invasive questions about illithid physiology.
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]]** – Referenced by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] as someone who advised him to trust [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]].
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorne]]** – Interacts with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] regarding a book about illithids.
 # Places Gone/Mentioned
@@ -46,7 +46,7 @@
 
 -------------------------------------------------------------------------
 
-###[[# **Interactions During the Storm**
+#### **Interactions During the Storm**
 
 1. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] (Telepathic Communication):**
     

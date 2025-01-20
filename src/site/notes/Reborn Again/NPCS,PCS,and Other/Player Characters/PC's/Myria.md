@@ -29,10 +29,11 @@
 | Spare the Dying                                    | Starry Wisp<br><br>Vicious Mockery |            |                                        | Guidance                             | Cantrip      |
 | Tasha's Hideous Laughter                           |                                    |            | Healing word<br><br>Cure Wounds        | Sending <br><br>Detect Magic<br><br> | 1st level    |
 | Hold Person<br><br><br>Lesser Restoration          | Phantasmal Force                   | Shatter    |                                        |                                      | 2nd level    |
-|                                                    |                                    |            | Revivify <br><br>Mass healing word<br> | <br>Speak with Dead                  | 3rd<br>level |
+| Counterspell                                       |                                    |            | Revivify <br><br>Mass healing word<br> | <br>Speak with Dead                  | 3rd<br>level |
 | Greater Invisibility<br><br><br>Embody Extraplanar | Phastasmal Killer                  |            |                                        | Identify                             | 4th level    |
 |                                                    |                                    |            |                                        | Teleportation Circle<br>             | 5th level    |
-| Counterspell                                       |                                    |            |                                        |                                      | 6th level    |
+| Counterspell (Grey)                                |                                    |            |                                        |                                      | 6th level    |
+|                                                    |                                    |            |                                        |                                      |              |
 ### Spell Slots and Tails
 
 | Spell Slot Level |     |     |     |     |
@@ -40,9 +41,9 @@
 | Cantrip          | --  | --  | --  | --  |
 | 1st              |     |     |     |     |
 | 2nd              |     |     |     | --  |
-| 3rd              |     |     |     | --  |
+| 3rd              | X   | X   | X   | --  |
 | 4th              | X   |     |     | --  |
-| 5th              |     | --  | --  | --  |
+| 5th              |     |     | --  | --  |
 | 6th              |     | --  | --  | --  |
 
 |     | [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] Charges | Tails | Bardic Inspiration | Detect Magic | Identify | Counterspell |

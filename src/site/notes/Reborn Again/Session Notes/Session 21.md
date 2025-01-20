@@ -19,7 +19,7 @@
 
 # People Met
 ---
--  **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]** – Central figure in leadership, combat, and handling Elise’s discovery and psionic disturbances. Took critical damage during the battle but led recovery efforts and bonding with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]].
+-  **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]** – Central figure in leadership, combat, and handling [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s discovery and psionic disturbances. Took critical damage during the battle but led recovery efforts and bonding with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]].
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv Baine]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]])** – Discreet and observant, engaged in secret communications. Played a key role in combat with her weapon **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]]** and discovered valuable loot.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** – Engaged in frontline combat using divine smite and firearms. Collected loot and participated in post-battle recovery.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]])** – Used **Starry Wisp** in combat, conducted **Speak with Dead**, and maintained emotional distance after the battle. Carried the sword **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]**.
@@ -27,8 +27,8 @@
 - **Ellisse ([[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]])** – Psionic child with illithid traits, discovered in the lower hold. Formed a bond with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] and exhibited psionic growth. Accompanied by an **intellect devourer companion**.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]])** – Landed the finishing blow on the **broodmind** with his weapon “Final Curtain.”
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]]** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]’s scout, destroyed by [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]] during reconnaissance.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]])** – Repaired the ship and provided insight into Elise’s psionic development.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Flix Daisywind\|Flix Daisywind]]** – Elise sold stolen alcohol to Flix during the celebration.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]])** – Repaired the ship and provided insight into [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s psionic development.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Flix Daisywind\|Flix Daisywind]]** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] sold stolen alcohol to Flix during the celebration.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Bixum\|Bixum]]** – Shared information with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] about Quill Ak’Ta’s past with the Raven’s Guild.
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]]** – Mentioned by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]]; trapped in the Feywild alongside [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]] but confirmed to be safe.
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]]** – Trapped in the Feywild with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] but safe.
@@ -36,9 +36,9 @@
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxie]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]]** – Brought alcohol to the celebratory dinner. 
 # Places Gone/Mentioned
 ---
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]** – The crew’s ship where Elise was taken after her discovery. Elise levitated onto the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]], and repairs were conducted by Asperoth’s Apostle.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]** – The crew’s ship where [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] was taken after her discovery. [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] levitated onto the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]], and repairs were conducted by Asperoth’s Apostle.
 - **[[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]]** – The intended destination for the demons disguised as Mizzix research specimens. A potential site for sabotage or cult interference.
-	- **Mizzix** – A region or faction involved in research and experimentation. The **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/Believers of the Third Arm\|Believers of the Third Arm]]** aimed to destabilize Mizzix by unleashing demons and conducting illithid experiments. Elise’s psionic growth may lead to acceptance in Mizzix.
+	- **Mizzix** – A region or faction involved in research and experimentation. The **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/CULTS/Believers of the Third Arm\|Believers of the Third Arm]]** aimed to destabilize Mizzix by unleashing demons and conducting illithid experiments. [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s psionic growth may lead to acceptance in Mizzix.
 - **Feywild** – [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]] are trapped in the Feywild but confirmed to be safe.
 - **Raven’s Guild** – Quill Ak’Ta was expelled from this guild for **justified murder**.
 
@@ -106,14 +106,14 @@
 
 **Finding [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]]:**
 
-- In the lower hold, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] discovered **Elise**, a child with **illithid-like features**, unconscious but alive.
-- Elise’s **psionic energy** subtly rippled through the air. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] carried Elise to safety, where Elise **levitated** onto the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]].
-- Elise’s behavior indicated fear and distrust, but they quickly bonded with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]].
+- In the lower hold, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] discovered **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]**, a child with **illithid-like features**, unconscious but alive.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s **psionic energy** subtly rippled through the air. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] carried [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] to safety, where [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] **levitated** onto the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]].
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s behavior indicated fear and distrust, but they quickly bonded with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]].
 
 **Illithid Companion:**
 
-- Elise was accompanied by an **intellect devourer** that followed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] closely, treating Elise like a companion animal.
-- Elise communicated telepathically with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], revealing distrust but a sense of curiosity.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] was accompanied by an **intellect devourer** that followed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] closely, treating [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] like a companion animal.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] communicated telepathically with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], revealing distrust but a sense of curiosity.
 
 #### **Investigation, Looting, and Speak with Dead:**
 
@@ -142,11 +142,11 @@
 
 ## 13th of Springdawn Year: 10044
 ---
-**Elise’s Nightmare and Psionic Surge:**
+**[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s Nightmare and Psionic Surge:**
 
 - During the night, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] experienced their body seizing but resisted (Strength Save: 26).
-- Elise floated above the bed, radiating psionic energy. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] comforted Elise, who had no memory of the event.
-- Elise’s intellect devourer sat protectively beside her, resembling a small cat.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] floated above the bed, radiating psionic energy. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] comforted [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]], who had no memory of the event.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s intellect devourer sat protectively beside her, resembling a small cat.
 **General Activities:**
 
 - A **rainstorm** swept over the ship.
@@ -155,7 +155,7 @@
 
 **Conversations:**
 
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] spoke with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]] about Elise’s condition. [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]] explained Elise’s psionic abilities would grow, and she could find acceptance in Mizix.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] spoke with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]] about [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s condition. [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]] explained [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s psionic abilities would grow, and she could find acceptance in Mizix.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] contacted [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] through [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Flix Daisywind\|Flix Daisywind]], confirming [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Titania]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]]were trapped in the Feywild but were safe.
 
 ## 14th of Springdawn Year: 10044
@@ -164,17 +164,17 @@
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] organized a **dinner celebration** to commemorate the crew’s success in surviving their first major battle.
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxie]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Hana, Temportal Disacossiate\|Hana]] arrived with large quantities of alcohol.
-- Elise **attempted to steal alcohol** during the party, successfully selling it to Flix for 10 gold.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] **attempted to steal alcohol** during the party, successfully selling it to Flix for 10 gold.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] praised Quill’s sharpshooting and Gal Beck’s decisive finishing blow.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] participated but remained emotionally distant, carrying the sword **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]** and refusing to part with it.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] attended briefly but **focused on paperwork** before leaving early.
  
 **Continued Travel and Recovery:**
 
-- Elise became more attached to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], staying close and seeking comfort.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] became more attached to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], staying close and seeking comfort.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] finalized most of his reports.
 - The ship, fully repaired by [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]], continued its journey.
-- Elise’s abilities and presence became a focal point of future intrigue as the crew prepared for their next encounter.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s abilities and presence became a focal point of future intrigue as the crew prepared for their next encounter.
 
 
 # [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Sendings
@@ -191,8 +191,8 @@
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/It That Hungers\|It That Hungers]]** – A powerful entity connected to the **broodmind** encountered during the battle. Its association with the cult hints at a larger illithid plot unfolding across the region.
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|Gene Stealers]]** – These four-armed, xenomorph-like creatures with scythe-like claws serve the broodmind and adapt to radiant and thunder damage. Their adaptability suggests genetic modification or psionic influence.
 - **Broodmind** – A psionic entity that led the [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]], wielding powerful mental abilities. The broodmind’s explosion upon death suggests it was imbued with acidic or corrosive properties, a potential defensive mechanism.
-- **Elise’s Illithid Traits** – Elise’s illithid-like features, psionic abilities, and connection to an **intellect devourer companion** indicate she may be the result of illithid experimentation or hybridization.
-- **Psionic Growth and Disturbances** – Elise’s psionic abilities are developing rapidly, causing involuntary surges that affect the crew. [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]] noted that Elise’s power could lead to acceptance in Mizzix.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s Illithid Traits** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s illithid-like features, psionic abilities, and connection to an **intellect devourer companion** indicate she may be the result of illithid experimentation or hybridization.
+- **Psionic Growth and Disturbances** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s psionic abilities are developing rapidly, causing involuntary surges that affect the crew. [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]] noted that [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s power could lead to acceptance in Mizzix.
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]] (Sword)** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] carried the sword **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]** during the celebration, hinting at personal conflict or unresolved issues tied to the weapon.
 # Things of Importance
 
@@ -202,12 +202,12 @@
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s Secretive Actions** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] scribbled a note and placed it in his belt bag, engaging in discreet communication that wasn’t questioned by the crew.
 - **Gene Stealer Ambush** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] scouted the lower decks but was ambushed and destroyed by [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]], dealing psychic damage to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]. This triggered immediate combat.
 - **Combat with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|Gene Stealers]] and Broodmind** – The crew fought [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Gene Stealers\|gene stealers]] that adapted to radiant and thunder damage. A **broodmind** emerged during the battle, critically wounding [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and Gal'Bak ultimately destroyed the broodmind, though its explosion caused acid damage to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]].
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]]’s Discovery** – Elise, a psionic child with illithid traits, was found unconscious in the lower hold and taken to safety.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]]’s Discovery** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]], a psionic child with illithid traits, was found unconscious in the lower hold and taken to safety.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]]’s Speak with Dead** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] questioned the decapitated captain’s spirit, learning about the cult's plans to unleash demons in Mizzix and their experiments involving illithids.
-- **Psionic Disturbances from Elise** – Elise emitted psionic surges at night, causing [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]’s body to seize. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] comforted Elise, who had no memory of the events.
-- **Elise’s Bond with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** – Elise levitated onto the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] and formed a growing attachment to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], staying close to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] during events.
+- **Psionic Disturbances from [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] emitted psionic surges at night, causing [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]’s body to seize. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] comforted [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]], who had no memory of the events.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s Bond with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] levitated onto the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] and formed a growing attachment to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], staying close to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] during events.
 - **Quill’s Past Revealed** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] learned that Quill Ak’Ta had been expelled from the Raven’s Guild for **justified murder**.
-- **Celebratory Dinner** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] organized a dinner to celebrate the crew’s victory. Elise attempted to steal alcohol and sell it to Flix, showcasing her mischievous side.
+- **Celebratory Dinner** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] organized a dinner to celebrate the crew’s victory. [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]] attempted to steal alcohol and sell it to Flix, showcasing her mischievous side.
 - **Ship Fully Repaired** – [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Asperoth's Apostle]] repaired the ship, ensuring it was ready for further travel.
 
 # Loot
@@ -227,7 +227,7 @@
     - **Shotgun shells**
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]:**
     - **Chain of Opening** – (10 uses of Knock spell)
-	- **Elise** – Considered the **most valuable discovery** due to her illithid potential and psionic abilities.
+	- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]** – Considered the **most valuable discovery** due to her illithid potential and psionic abilities.
 
 
 # Party Reputation: 6
