@@ -22,4 +22,4 @@ Eyes burning white fire
 Moon Goddess Visits [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] 's Dreams Alot 
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/Session Notes/Session 8\|Session 8]]
-![Pasted image 20250119200457.png](/img/user/Pasted%20image%2020250119200457.png)
+![Pasted image 20250119200457.png](/img/user/Reborn%20Again/Misc%20Files/Pasted%20image%2020250119200457.png)

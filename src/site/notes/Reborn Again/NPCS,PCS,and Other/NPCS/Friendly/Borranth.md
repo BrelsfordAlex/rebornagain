@@ -20,7 +20,7 @@
 ---
 - **Role:** A sentient mimic and the living entity of Mizzix [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]].
 - **Appearance/Demeanor:** Takes the form of a massive snail shell-like structure with shifting walls and a door with eyes. Speaks with a mix of humor and intelligence.
-- **Significance:** Provides Myria with insights into the political struggles of Westvale. Hints at potential solutions to protect the party and offers logistical and magical support.
+- **Significance:** Provides [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] with insights into the political struggles of Westvale. Hints at potential solutions to protect the party and offers logistical and magical support.
 #### Notes
 ---
 

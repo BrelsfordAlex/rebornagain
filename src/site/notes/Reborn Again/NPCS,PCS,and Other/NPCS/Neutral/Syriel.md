@@ -21,7 +21,7 @@
 - **Appearance/Demeanor:** A calm and intellectual individual in flowing blue robes, focused on preserving knowledge and education.
 - **Interactions:**
     - **Vivienne Baine and THEM:** Syriel provided measured support during discussions, aligning with [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Findire\|Findire]] against [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maledos\|Maledos]]’ inaction.
-    - **Myria Evergreen:** Indirectly connected through insights shared by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Borranth\|Borranth]] about the political dynamics in Westvale.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]]:** Indirectly connected through insights shared by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Borranth\|Borranth]] about the political dynamics in Westvale.
 #### Notes
 ---
 

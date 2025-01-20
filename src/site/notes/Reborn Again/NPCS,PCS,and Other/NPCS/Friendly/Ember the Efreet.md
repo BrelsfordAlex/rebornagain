@@ -27,7 +27,7 @@
 **Interactions:**
 
 - **Maria V'mova:** Spoke extensively with Ember about strategies and the company’s diminished capacity.
-- **Myria Evergreen:** Observed Ember during the tactical briefings.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]]:** Observed Ember during the tactical briefings.
 - **Vivienne Baine and THEM:** Minimal direct interaction, but acknowledged Ember’s role in the defense of Westvale.
 
 
