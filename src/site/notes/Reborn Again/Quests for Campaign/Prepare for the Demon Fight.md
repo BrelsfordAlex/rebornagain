@@ -26,6 +26,6 @@
 ---
 
 
-There is a upcoming battle against the demons prepare the city for the invasion. Head of the army could be [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s Stepfather.  [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] in [[Tallon City \|Tallon City ]] given by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] in [[Reborn Again/Session Notes/Session 6\|Session 6]]
+There is a upcoming battle against the demons prepare the city for the invasion. Head of the army could be [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s Stepfather.  [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] in [[Tallon City \|Tallon City ]] given by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] in [[Reborn Again/Session Notes/Session 6\|Session 6]]
 
 There is a upcoming battle against the demons prepare the city for the invasion. Head of the army could be [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s Stepfather.

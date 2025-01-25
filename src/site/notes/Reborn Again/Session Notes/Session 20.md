@@ -18,7 +18,7 @@
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Aselia Greenleaf\|Aselia Greenleaf]]:**
     
     - Half-dryad healer aboard the ship.
-    - Provided [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] with advice on long-term recovery, emphasizing self-care beyond magical healing.
+    - Provided [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]] with advice on long-term recovery, emphasizing self-care beyond magical healing.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]]:**
     
     - Experienced gunslinger and key combatant aboard the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]].
@@ -62,7 +62,7 @@
 
 #### **Party Members**
 
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria V’mova]]:**
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria V’mova]]:**
     
     - A key figure in the investigation, providing analysis of the bio-demon attacks and leading in combat alongside [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]].
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]]:**
@@ -124,12 +124,12 @@
     
     - The ship sailed under favorable winds, with the weather aiding the journey and creating a calming environment.
     - The warforged crew, diligent but oblivious to personal space, busied themselves with ship maintenance and operations.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s Day:**
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s Day:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] spent most of her time detoxing from the stress of war. Her activities alternated between:
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] spent most of her time detoxing from the stress of war. Her activities alternated between:
         - Relaxing in her nature-inspired quarters, which featured mossy carpets and tree roots extending from the walls.
         - Standing at the ship's bow, letting the wind flow through her hair while she reflected on past experiences.
-    - Despite the serenity, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] found the warforged crew mildly irritating due to their lack of awareness about personal space.
+    - Despite the serenity, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] found the warforged crew mildly irritating due to their lack of awareness about personal space.
 - **Chefs and Meals:**
     
     - Two chefs prepared meals for the day, rolling with advantage due to their collaboration. Their efforts spared the crew from food poisoning after one chef rolled poorly.
@@ -149,10 +149,10 @@
     
     - The second day was quiet, with calm winds and clear skies maintaining the ship’s peaceful ambiance.
     - The crew remained focused on maintaining the ship, while the party had ample time for personal pursuits and interactions.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s Relaxation:**
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s Relaxation:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] continued to focus on her recovery. She spent time with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Aselia Greenleaf\|Aselia Greenleaf]], the half-dryad healer, whose roots and natural elements extended into [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s quarters.
-    - Azalea provided gentle advice on long-term recovery, emphasizing self-care beyond magical healing. While [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] enjoyed their conversations, she largely kept to herself.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] continued to focus on her recovery. She spent time with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Aselia Greenleaf\|Aselia Greenleaf]], the half-dryad healer, whose roots and natural elements extended into [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s quarters.
+    - Azalea provided gentle advice on long-term recovery, emphasizing self-care beyond magical healing. While [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] enjoyed their conversations, she largely kept to herself.
 
 ---
 
@@ -193,7 +193,7 @@
 
 ## Day 12th of Springdawn Year: 10044
 -------------------------------------------------------------------------
-### With [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### With [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 #### **Detection of [[Reborn Again/Locations Gone to/Other/The Normandy\|The Normandy]]**
 
 - **Initial Announcement:**
@@ -214,7 +214,7 @@
     
     - The deck was strewn with corpses, most bearing signs of brutal deaths—deep slashes, claw marks, and acidic burns.
     - The mast was broken, and parts of the ship were scorched, suggesting fire damage had occurred during the attack.
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] examined the corpses, identifying the burns as the work of demons tied to “[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/It That Hungers\|It That Hungers]]” a biological horror that consumes everything in its path.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] examined the corpses, identifying the burns as the work of demons tied to “[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/It That Hungers\|It That Hungers]]” a biological horror that consumes everything in its path.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]]’s Observations:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]] inspected the claw marks gouged into the wood and metal, remarking that the demons’ sheer strength could rip through armor and structures.
@@ -240,7 +240,7 @@
         - The containment breach was catastrophic, leading to the swift annihilation of the crew.
 - **Group Reactions:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] confirmed the scientist’s revelations matched the visible evidence, emphasizing the immediate danger of the patriarch-class demon.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] confirmed the scientist’s revelations matched the visible evidence, emphasizing the immediate danger of the patriarch-class demon.
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]] suggested focusing their efforts on neutralizing smaller demons first to avoid being overwhelmed.
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Terra\|Terra]] remarked that the patriarch would likely be coordinating an ambush from deeper within the ship.
 
@@ -248,9 +248,9 @@
 
 #### **Clues and Planning**
 
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s Analysis:**
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s Analysis:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] pieced together the sequence of events, deducing that the demons had escaped containment and systematically slaughtered the crew.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] pieced together the sequence of events, deducing that the demons had escaped containment and systematically slaughtered the crew.
     - She theorized that the patriarch-class demon was using its hive-like control to guide the remaining demons into strategic ambushes.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]]’s Suggestions:**
     
@@ -278,26 +278,26 @@
 - **Emergence of Additional Demons:**
     
     - Two more bio-demons emerged from the main deck’s doors, targeting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s undead minions and quickly dispatching them.
-    - A third demon climbed up from below deck, attempting to isolate [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]] while cutting off [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]] from the group.
+    - A third demon climbed up from below deck, attempting to isolate [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]] while cutting off [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]] from the group.
 
 ---
 
 #### **Combat Highlights**
 
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]:**
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] responded immediately to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s distress, jumping below deck to assist.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] responded immediately to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s distress, jumping below deck to assist.
     - She cast _Produce Flame_, striking the demon holding [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and forcing it to release him.
-    - Using _Heroism_, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] granted [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] temporary hit points and immunity to fear, bolstering his confidence to fight back.
+    - Using _Heroism_, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] granted [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] temporary hit points and immunity to fear, bolstering his confidence to fight back.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]]:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] summoned additional undead minions to reinforce the group, using [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] to create barriers against the advancing demons.
-    - Her companion dog unleashed its fire breath, dealing heavy damage to one demon and halting its advance toward [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]].
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] managed the battlefield by directing her summons to shield [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]] while coordinating her offensive efforts.
+    - Her companion dog unleashed its fire breath, dealing heavy damage to one demon and halting its advance toward [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]].
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] managed the battlefield by directing her summons to shield [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]] while coordinating her offensive efforts.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] recovered from the initial ambush, using his precision and agility to counterattack the demon that had grappled him.
-    - He worked alongside [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] to inflict severe damage on the creature, eventually forcing it to retreat deeper into the ship.
+    - He worked alongside [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] to inflict severe damage on the creature, eventually forcing it to retreat deeper into the ship.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]]:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]] held the line on the main deck, using his power shield to block attacks and protect [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Mamoru Gal’Bak\|Mamoru Gal’Bak]].

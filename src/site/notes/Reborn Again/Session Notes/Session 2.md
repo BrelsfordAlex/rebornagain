@@ -25,16 +25,16 @@
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] has white light in their head?!?!
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s Friend can help when in times of danger
 - "Someones moving you" old man guard grandpa( [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox]])
-    - Carried her to guard house (soldiers praise [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] & [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]])
+    - Carried her to guard house (soldiers praise [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] & [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]])
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox]] lets [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] sleep in his bed saying shes safe
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] got big deer butchered
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] pull to things?
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] got big deer butchered
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] pull to things?
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] talk to [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith]] (Vex [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbiter]] (bronze whatever that metal is [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] has = contractor?)
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
-- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Radaghast\|Radaghast]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s Squirrel
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] gets medallion from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]]
+- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Radaghast\|Radaghast]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s Squirrel
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] gets medallion from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]]
         - One time use of calling the old man spring
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
@@ -60,7 +60,7 @@
         - Overworked
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gave parrot and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie Falker]] 3 seeds
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] is [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie Falker]]'s brother in Talon City, tower, bad sense of direction
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] shopped
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] shopped
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] talks to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Evie Falker\|Evie Falker]] about [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Allaro Dar'Marvo (Marvo)]] being her boss
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] mentions house of flesh [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] froze hearing name
     - might make you die ring
@@ -82,15 +82,15 @@
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] sitting on top of cart
 - 2 wolves stalking
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] catching snowflakes
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] knows how to cook (cooked dinner)
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] knows how to cook (cooked dinner)
     - Scout [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
     - Navigator [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
     - Quartermaster [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
     - DriverMaria
 - Dreams
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] dream
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] dream
         - Old forest
         - People (I think) in vines
         - Pull to something
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] mark on hand
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] mark on hand
         - Wakes up checks (redacted) not as strong of a pull to whatever (redacted) is as before

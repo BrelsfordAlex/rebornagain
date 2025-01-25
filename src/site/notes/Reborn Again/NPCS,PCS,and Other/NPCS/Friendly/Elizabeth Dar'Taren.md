@@ -23,6 +23,6 @@ Did Elizabeth Dar'Taren give any quests: No
 ---
 
 **First Mentioned in:**[[Reborn Again/Session Notes/Session 7\|Session 7]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Tallon City \|Tallon City ]]
 

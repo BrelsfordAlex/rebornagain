@@ -24,7 +24,7 @@ Simple Platemale (Never Seen without it Can't really see him)
 
 [[Tallon City \|Tallon City ]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/Session Notes/Session 6\|Session 6]]

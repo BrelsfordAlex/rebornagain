@@ -165,14 +165,14 @@ Session 15 _*Dated 10/30/24*_
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]] EVERYTHING she's learned , from [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]], from [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]], literally everything she could get out she told him.
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] falls asleep for a tiny nap before her event
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - Talk with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous]]
         - She asks for aid in the fight
             - They are in the Baine Clan Forest
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous]] creates 350 Tree Soldiers
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] gives a war speech to them
-        - “[[Reborn Again/NPCS,PCS,and Other/Higher Powers/The Ancient One\|The Ancient One]] says Hello” One of the soldiers to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] gives a war speech to them
+        - “[[Reborn Again/NPCS,PCS,and Other/Higher Powers/The Ancient One\|The Ancient One]] says Hello” One of the soldiers to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 
@@ -278,7 +278,7 @@ Used sending to ask baba to come here
             - That's not concerning
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Thalia Merrigrove\|Thalia]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] go to Baba’s for dinner
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - Basic Combat and movement training for healers
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Elnos]] visit
@@ -338,7 +338,7 @@ Half truths are ok
 - - Trains with Necrochoir
         - Asks leader if he wants to help with a concert to help the city feel hope
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - Militia recruitment drive
         - 20 new members
@@ -353,8 +353,8 @@ From the ranger force on Quae
 
 Retired in [[Tallon City \|Tallon]]
 
-- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] -[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Conversation
-        - Gift to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] -[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] Conversation
+        - Gift to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
             - Archeotech armor
                 - Adds +1 AC
                 - +10 Movement
@@ -394,18 +394,18 @@ Retired in [[Tallon City \|Tallon]]
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] names the dragon Edan
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior]] gets 2 Grav Bombs
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] talk
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] talk
 
 - - On the wall
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is worried
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] is worried
         - Her morale is just a facade for the soldiers
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] wants to give everyone the reality
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] sees her soldiers as brave
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] sees her soldiers as brave
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] wants to boost the civilian’s Moral not just soldiers
         - If their families feel safe the soldiers will try harder
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] knows the city civilians are scared
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] will gather people for her concert
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] will keep [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] in check incase she loses control
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] will gather people for her concert
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] will keep [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] in check incase she loses control
 
 ### The concert
 
@@ -454,10 +454,10 @@ Retired in [[Tallon City \|Tallon]]
 - Rumors of mages going missing from the academy, missing for about 1-5 days
 - The warrens is a place for small shifters
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] is PHYSICALLY unable to break any laws or bylaws and has to listen to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] for 5 weeks.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] sees her soldiers as brave
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] sees her soldiers as brave
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] wants to boost the civilian’s morale not just soldiers
     - If their families feel safe the soldiers will try harder
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] will keep [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] in check incase she loses control
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] will keep [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] in check incase she loses control
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] Projects
     - Starcutter almost done
     - Aegis Complete
@@ -485,7 +485,7 @@ Retired in [[Tallon City \|Tallon]]
 ==================================================
 
 - A dead spell, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] can make one spell any level
-- Archeotech armor ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]])
+- Archeotech armor ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]])
     - Adds +1 AC
     - +10 Movement
 

@@ -36,13 +36,13 @@ Bonds:  I am not sure why I am here but I know it is important.
 Flaws:   Past, present and future have no meaning there is only now and other now.
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 
 ---
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Alma Dragoncaller\|Alma Dragoncaller]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Arva\|Arva]]

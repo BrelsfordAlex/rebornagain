@@ -179,25 +179,25 @@ Session 11 _*Dated 10/9/24*_
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] enjoys [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] started construction?
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
-- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Met [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Aldros\|Aldros]]
+- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] Met [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Aldros\|Aldros]]
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Aldros\|Aldros]]
             - Kor, Tall, Pale yellow [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|grey]] skin
             - Leader of the Kor
             - Has 2 climbing hooks\
             - Tattoo that glows
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] says that everyone needs to be prepared for the fight
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] says that everyone needs to be prepared for the fight
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Aldros\|Aldros]] says his troops are always ready
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Aldros\|Aldros]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Fight
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Wins
-        - Fight was to see if [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] was ready
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Aldros\|Aldros]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] Fight
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] Wins
+        - Fight was to see if [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] was ready
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Aldros\|Aldros]] fights like Toph
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Aldros\|Aldros]] has heels of pointed stone
     - The Veteran Company has a lot of respect and moral is high
         - They learned a thing or two in the fight
     - Money from bets being exchanged
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] goes around to shops and asks for support with some officials to help with the wall
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] goes around to shops and asks for support with some officials to help with the wall
 
 -------------------------------------------------------------------------
 
@@ -260,36 +260,36 @@ Session 11 _*Dated 10/9/24*_
 - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
         - Two Elder Brians show up for a second then none then one
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] makes 2 Gravity Bombs
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Talk
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] Talk
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] asking what the plan is for the fight
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] learns of the gravity bombs and what the cost of the m is
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] has an idea to turn the gravity bombs into land mines
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] learns of the gravity bombs and what the cost of the m is
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] has an idea to turn the gravity bombs into land mines
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] is listening and reworking the plans
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] has a plan but cant talk about it
         - The two plan to equip regular army men with general equipment and help
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] plan for the fight
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] plan for the fight
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] idea
             - Place mirrors to point light at the ground
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] has a past with Shadowed Reapers
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] wants to focus on the solid Demons
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] wants to focus on the solid Demons
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - Refugees
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] spots [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] spots [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]]
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous]] on a stag
             - Radagast
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] with a cub named Bingo
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Eniox]]
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith\|Faith]] the Vex [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbiter]]
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Eniox]] lost a hand but has a new one made out of light
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] offers his services to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] offers his services to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] named his pup Bingo
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] crying while holding [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] crying while holding [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] hates the idea of children going to war
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] has battle scars on his shield
             - This makes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] Angry
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] gets [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] hooked up with armor and a place to stay at the barracks
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] gets [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] hooked up with armor and a place to stay at the barracks
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] grandparents with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] Family
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous]]
             - Goes to stay with the Baine Clan
@@ -323,32 +323,32 @@ Session 11 _*Dated 10/9/24*_
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]]
         - Picks up her gun and it is SICK!!!
         - She shows [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] the fiddle
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Talk
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] says she needs to talk to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is not to happy about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] wanting to talk to her
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] says she wishes she was strong like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] not happy about this and mentions how upset she is
-                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] used to be like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] didn’t know [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] was a vampire
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] Talk
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] says she needs to talk to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] is not to happy about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] wanting to talk to her
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] says she wishes she was strong like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] not happy about this and mentions how upset she is
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] used to be like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] didn’t know [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] was a vampire
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] explains what she learned
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] bout [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]]
-                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] knows [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] is like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s blade and is apart of an old god and that god hates demonic and celestial entities and is called “[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]]”
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] about being in the war and what it was like for her
-            - “You got cold water poured on you but I lived in it”-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] bout [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]]
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] knows [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] is like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s blade and is apart of an old god and that god hates demonic and celestial entities and is called “[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]]”
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] about being in the war and what it was like for her
+            - “You got cold water poured on you but I lived in it”-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
             - “I DIDNT EVEN KNOW THE WATER i LIVED IN WAS COLD TILL NOW!” [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] got attached to comrades and was scared and her own anger kept her going
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] got attached to comrades and was scared and her own anger kept her going
             - “We fight because life is precious”
             - The previous king was a demon?
-        - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] goes on a tangent on how [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] doesnt like fighting and struggles with it so he makes the hard decisions with it and how he knows [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] would die to protect [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] about her childhood
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] uses shatter on the ground and screams in anger as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] holds her
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] about [[Reborn Again/Locations Gone to/Westvale/The Summer Court\|the summer court]] and being unable to do anything to protect her OWN home and is stuck here protecting everyone elses
+        - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] goes on a tangent on how [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] doesnt like fighting and struggles with it so he makes the hard decisions with it and how he knows [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] would die to protect [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] about her childhood
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] uses shatter on the ground and screams in anger as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] holds her
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] about [[Reborn Again/Locations Gone to/Westvale/The Summer Court\|the summer court]] and being unable to do anything to protect her OWN home and is stuck here protecting everyone elses
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
 
 - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] has flashbacks of bombs and if he can redeem himself
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - Gives the troops target practice
     - Kor Light Cannon
@@ -357,14 +357,14 @@ Session 11 _*Dated 10/9/24*_
         - Kor have sharp shooters
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] in the armor of [[Tallon City \|Tallon]]
         - Looks like a roman soldier
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] using painted rocks to help the archers aim
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Talk
-        - In [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s head voice of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/The Ancient One\|The Ancient One]] = “Summer Court has Fallen to your old enemy”
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] using painted rocks to help the archers aim
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] Talk
+        - In [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s head voice of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/The Ancient One\|The Ancient One]] = “Summer Court has Fallen to your old enemy”
 
 ### The Basion
 
 - - [[Reborn Again/Locations Gone to/Other/The Bastion\|The Bastion]] arrives smoking
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] goes out to it
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] goes out to it
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] uses sending to get [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]]
             - Send“Uhsmoking big ship?”
             - “Omw”
@@ -397,8 +397,8 @@ Session 11 _*Dated 10/9/24*_
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Eniox]] lost a hand but has a new one made out of light
 - The Kor have a fucking light cannon
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] hates the idea of children going to war
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] used to be like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] knows [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] is like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s blade and is apart of an old god and that god hates demonic and celestial entities and is called “[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]]”
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] used to be like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] knows [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] is like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s blade and is apart of an old god and that god hates demonic and celestial entities and is called “[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]]”
 
 ==================================================
 
@@ -415,7 +415,7 @@ Session 11 _*Dated 10/9/24*_
     - If things can be good or bad you roll 2 d 20 and whatever number is closer to 10 wins
         - Exfate of refugees
 - The Refugees were attacked along the way
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] knows [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] is like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s blade and is apart of an old god and that god hates demonic and celestial entities and is called “[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]]”
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] knows [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] is like [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s blade and is apart of an old god and that god hates demonic and celestial entities and is called “[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]]”
 
 ==================================================
 

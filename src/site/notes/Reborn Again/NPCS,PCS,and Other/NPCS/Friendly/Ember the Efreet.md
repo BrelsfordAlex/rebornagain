@@ -9,9 +9,9 @@
 ---
 **Where They Live:** [[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]
 **Are They Friendly:** Friendly
-**Who Met:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-**When Did** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] meet : [[Reborn Again/Session Notes/Session 23\|Session 23]]
-**Session** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] heard about them [[Reborn Again/Session Notes/Session 23\|Session 23]] 
+**Who Met:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
+**When Did** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] meet : [[Reborn Again/Session Notes/Session 23\|Session 23]]
+**Session** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] heard about them [[Reborn Again/Session Notes/Session 23\|Session 23]] 
 **Did Ember the Efreet give any quests:** `= this.anyquests`
 	**If yes what quest:** `= this.quests`
 

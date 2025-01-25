@@ -23,14 +23,14 @@ Advanced Armor, Gold helmet with 8 Daggers (black)
 
 #### Notes
 ---
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] has had a mission or two with him
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] has had a mission or two with him
 nicknamed "Flame of the West"
 Pyromancer
 Dated Pippin ( they are 'just friends' your [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]])
 
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Pippin Falker\|Pippin Falker]]
 [[Tallon City \|Tallon City ]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]

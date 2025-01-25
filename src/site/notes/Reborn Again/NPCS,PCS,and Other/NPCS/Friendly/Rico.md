@@ -22,5 +22,5 @@ Did Rico give any quests: No
 #### Notes
 ---
 
-met in [[Reborn Again/Session Notes/Session 6\|Session 6]] by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
+met in [[Reborn Again/Session Notes/Session 6\|Session 6]] by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Tallon City \|Tallon City ]]

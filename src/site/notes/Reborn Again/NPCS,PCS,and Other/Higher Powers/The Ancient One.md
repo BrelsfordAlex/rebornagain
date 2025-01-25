@@ -10,5 +10,5 @@
 
 #### Notes
 ---
-Linked to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+Linked to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 

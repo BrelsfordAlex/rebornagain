@@ -23,6 +23,6 @@ Cat shifter Female
 ---
 Vex [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbiter]] of [[Reborn Again/Locations Gone to/Tallan/Shaleverge\|Shaleverge]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Reborn Again/Session Notes/Session 1\|Session 1]]
 

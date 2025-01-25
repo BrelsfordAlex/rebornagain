@@ -7,9 +7,9 @@
 ---
 Where They Live: Tallon City 
 Are They Friendly: Friendly?
-Who Met them: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-When Did [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] meet them: Session 12
-Session [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] heard about them: Session 12
+Who Met them: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
+When Did [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] meet them: Session 12
+Session [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] heard about them: Session 12
 Did Alaneo Pinesprite give any quests: No
 	If yes what quest: `= this.quests`
 

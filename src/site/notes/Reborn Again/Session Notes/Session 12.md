@@ -139,7 +139,7 @@ Session 12 _*Dated 10/16/24*_
 ### What everyone is doing for the Crash
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] goes to help get people off and help
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] commanding people to help
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] commanding people to help
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Ghouls 1 with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] others with ship sending to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]]
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] getting dar’taggon but he wasnt home and then helping search and rescue
 - Meet [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Xina]]
@@ -166,7 +166,7 @@ Session 12 _*Dated 10/16/24*_
         - Burn marks like lighting was searching for people
             - Unnatural
 - Healing
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] Lay on hands
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] Lay on hands
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Spare the Dying
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]] shows up riding [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]]
     - With Clerics and Kor
@@ -271,7 +271,7 @@ Used the magic to alter herself
         - Goes to Foxies]
     - Tyruis feels watched
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - With [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] they both see in the sky a small dark winged shape watching with something on its back about 1 mile out
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Spherior\|Spherior]] takes bow out fucking giant lady from steven universe style and
@@ -279,13 +279,13 @@ Used the magic to alter herself
 ![](/img/user/Reborn Again/Misc Files/Image Attachments/People/Attachment.jpeg)
 
 - - - - Bat takes 2 shots to die
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Xina]] -[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] calls [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Xina]] a living Legend
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Xina]] -[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] calls [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Xina]] a living Legend
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Xina]] wants to help with the Air Defense
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] enters [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Xina]]’s Brain ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] wants to help)
 - Veteran Company learns triage and medial
 - Debrief
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] explaining the events that happened
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] explaining the events that happened
     - Learn that Demons want to cripple [[Reborn Again/Locations Gone to/Other/The Bastion\|the Bastion]] and [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon]]
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Xina\|Xina]] Runs the navy
         - The navy is basically air force
@@ -295,7 +295,7 @@ Used the magic to alter herself
     - AlanioMaria
         - Alanio
             - Pixie
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells about Summer Court falling
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] tells about Summer Court falling
 
 -------------------------------------------------------------------------
 
@@ -305,12 +305,12 @@ Used the magic to alter herself
 
 Full Moon
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
-- - After Debrief [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] goes under tree at the Church of Malady
+- - After Debrief [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] goes under tree at the Church of Malady
         - Takes armor off
         - Grounding herself
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] feels like she's failing her oath
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] feels like she's failing her oath
         - Comforted by [[Reborn Again/NPCS,PCS,and Other/Higher Powers/The Ancient One\|The Ancient one]] \
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] @ Foxies
@@ -566,8 +566,8 @@ ReplyI am safe, I will enform the conclave, who is [[Reborn Again/NPCS,PCS,and O
 - Vermin Demons attacked the ship
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maeve\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maeve]] copies drawings of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]
 - Veteran Company learns triage and medial
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells Alanio about Summer Court falling
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] feels like she's failing her oath
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] tells Alanio about Summer Court falling
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] feels like she's failing her oath
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie]] has a drink that can make Vampires Drunk
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]] recognizes the injustice with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] has a sense of Absolute [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]]

@@ -174,7 +174,7 @@ Can do 1d6 damage when stabbed in and pulled out
 
 If not pulled out target has 0 movement
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - Shopping episode
     - Gets a ring
@@ -192,7 +192,7 @@ If not pulled out target has 0 movement
 
 ### Mariathem Speech
 
-- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] holds a speech to remind people that the fight is coming and that the demons wont take [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon]] down
+- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] holds a speech to remind people that the fight is coming and that the demons wont take [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon]] down
     - Out of Mizzix came a ship
     - Airship
         - 60 ft long and 30 ft across
@@ -202,7 +202,7 @@ If not pulled out target has 0 movement
         - 3 floors
         - On the ship is
             - 2 figures
-        - Behind [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+        - Behind [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
             - The high council
             - Leaders of the shifter clans
 
@@ -228,7 +228,7 @@ If not pulled out target has 0 movement
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]’s grandparents staying
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] looks like someone [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] and his sister know
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - Sleeping at the barracks
     - Snu-Snu with [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Ella-Kar Marrow\|Ella-Kar Marrow]]
@@ -252,15 +252,15 @@ If not pulled out target has 0 movement
 ### The Fight
 
 - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] woken up by the Warforged they command that there are demonic scouts at the north wall
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] walks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] walks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] wakes everyone in their head saying “Invasion has begun all defenders to the wall”
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]/[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] tells [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] that he has full permission to delve deep and tell whoever he needs about anything they do
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] to the wall
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] to the wall
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to the healers area
     - Roof of Mizzix opens
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]]  removes the gate
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] comments she wants to learn to do that
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] has a speech
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] has a speech
     - A gnaw bomb gets shot
         - Mizzix takes the hit
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] uses her new spell and leaves 2 ghouls at the healers area to protect and goes off on her own as she hears about how many enemy are at the front and [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]] comments its to easy why attack from one side?
@@ -270,7 +270,7 @@ If not pulled out target has 0 movement
 
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] takes a CHUNK of damage
 
-- - - - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] race to find [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+- - - - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] race to find [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] rests on the ship and gets healed
 
@@ -290,12 +290,12 @@ Illithid comments on a portal existing
 
 Illithid takes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to Mizzix where she gets scolded by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
 
-- - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] remember about there being at least one more gnaw bomb they know about
+- - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] remember about there being at least one more gnaw bomb they know about
             - They find where the bomb is
             - They plan for a distraction with [[Reborn Again/Locations Gone to/Other/The Bastion\|The Bastion]] and the undead army and the shifters (with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]) to go in and get rid of it
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and the shifters sneak in and find BARRELS of warpstone and they rig the warpstone with the gravity bombs on the Gnaw bomb and destroy it but also get spotted and [[Reborn Again/Locations Gone to/Other/The Bastion\|The Bastion]] saves [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells the party about how she feels like shes doing nothing and the place [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] got nuked at she feels this pull to go and check and she just needs to go there she doesnt know why
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] how she is trusting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] on this
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] how she is trusting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] on this
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tells everyone its their call if she goes but whatever party is sent there she **will** go with
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/The Canis\|Cannis]] comments how the House of Lament could go, they are stealthy and sneaky
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sana, The Deathless Wanderer\|Sana]] carries her to the farm house (she is using major image to disguise [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]])
@@ -361,7 +361,7 @@ He respondsTry it runt
         - Gives additional things
         - Can do 1d6 damage when stabbed in and pulled out
         - If not pulled out target has 0 movement
-- Ring ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]])
+- Ring ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]])
     - 2 charges of Magic Missile
         - attunement
 

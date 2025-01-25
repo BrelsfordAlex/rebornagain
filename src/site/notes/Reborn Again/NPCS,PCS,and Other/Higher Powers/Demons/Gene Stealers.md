@@ -8,7 +8,7 @@
 ### About Gene Stealers 
 ---
 **Are They Friendly:** No
-**Who Met them:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
+**Who Met them:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 **When Did** Maria Myria Viv THEM meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]]: [[Reborn Again/Session Notes/Session 20\|Session 20]]
 **Session** Maria Myria Viv THEM heard about [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]]: Session 20 
 WORKS UNDER [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/It That Hungers\|It That Hungers]]
@@ -39,7 +39,7 @@ WORKS UNDER [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/It That Hunge
 ##### [[Reborn Again/Session Notes/Session 20\|Session 20]]
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s Capture:**
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] was ensnared by a gene-stealer’s tendril during an ambush aboard the derelict Talon ship.
-    - Despite injuries, she resisted paralysis and fought back, assisted by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and others.
+    - Despite injuries, she resisted paralysis and fought back, assisted by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]] and others.
 - **Group Ambush:**
     - Multiple gene-stealers attacked the party, utilizing confined corridors to their advantage and displaying retreat tactics when injured.
 

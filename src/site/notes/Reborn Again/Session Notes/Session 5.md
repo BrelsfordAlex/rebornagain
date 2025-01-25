@@ -60,19 +60,19 @@ Ending Date: Evening of the 26th of Winterdusk 14 days before spring
             - Dense pocket of gravity that bends reality ( like tits uwu)
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Klank\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Klank]] gives [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] a grenade
     - -
-- In the Spring Court Training Grounds (with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and Tatiana)
+- In the Spring Court Training Grounds (with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and Tatiana)
     - -
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] wants to train
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] wants to train
     - Tatiana training against guards
     - Real weapons
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] VS [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] VS [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Titania]]
     - T: you are Entertaining
     - Tatiana's eye color guide
         - NormalGreen
         - FastWhite
     - They fight going rib for rib
     - Tatiana sends out wave of power making everyone want to kneel
-    - Tatiana names [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] "[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] friend of Spring
+    - Tatiana names [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] "[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] friend of Spring
     - THE CAPTAIN IS GAY YOUR [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]]
     - tatiana one day: captain
     - captain holding his kid: yes ma'am grumble
@@ -91,7 +91,7 @@ Ending Date: Evening of the 26th of Winterdusk 14 days before spring
         - The Captain
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]] tells everyone that its a wild hunt
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] knows why there is a wild hunt
-        - Last Wild hunt was 300 years ago, it is a group of fae<--[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] knows
+        - Last Wild hunt was 300 years ago, it is a group of fae<--[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] knows
     - Group called outside for a final send off
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Scared, she tries to hang back
             - the guard tells the group "everyone" has to go
@@ -107,7 +107,7 @@ Ending Date: Evening of the 26th of Winterdusk 14 days before spring
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] like WE COULD HAVE PORTALED?
     - Breakfast
         - Communal
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] goes to the guards
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] goes to the guards
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] goes to the tinkerer
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] runs out cause of to many people
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] wanted to eat with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Princess\|Rose]] and talk to her but she followed [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] outside
@@ -117,8 +117,8 @@ Ending Date: Evening of the 26th of Winterdusk 14 days before spring
     - the group gets lost for 3 hours
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] uses good and evil to sense partial fae things/2 mile north
     - The blizzard was magical
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] jumpscared by a talking Raccoon who guides the group to a tree house
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and them have to crawl inside
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] jumpscared by a talking Raccoon who guides the group to a tree house
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and them have to crawl inside
     - Cart guarded by a raccoonin a robinhood hat
         - The raccoons are awakened fae
     - They all get hot coco, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] wants to stay with the raccoons

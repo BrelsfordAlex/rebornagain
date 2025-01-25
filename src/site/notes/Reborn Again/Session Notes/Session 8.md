@@ -44,7 +44,7 @@ Session 8 Dated 9/21
         - Butlerhes not home
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] remembers [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] has Sending
     - Butler pours water on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and wakes her up
-        - Hawthornwakes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] up([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is naked 🧐 )
+        - Hawthornwakes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] up([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] is naked 🧐 )
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
     - Why did you wake me
     - VivI need to send a message to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'taggon]]
@@ -59,7 +59,7 @@ Session 8 Dated 9/21
         - Feral Vampires are in the prison
         - People [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] has put away is in there too
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] sends [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] to watch
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tries to get the mercs to fight and keep everyone save
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] tries to get the mercs to fight and keep everyone save
     - VivGoes to the docs
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Gathers as many civillians together as she can and keeps them save
     - PRISONERS ESCAPED ON AN AIRSHIP

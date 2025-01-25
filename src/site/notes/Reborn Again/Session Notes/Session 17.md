@@ -178,18 +178,18 @@ Pox BringerUnknown
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] almost cant leave the statue
     - She pulls out of it and wakes up in House of Balance and then passes the fuck out
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]]
 
-- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Ella-Kar Marrow\|Ella-Kar Marrow]] go scouting and find some cultists hiding in the woods farther north
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] asks [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] to link her to Callous
-        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]] Declines so [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] talks to his Lieutenant Lt. Brint
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells Brint of the cultists
+- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Ella-Kar Marrow\|Ella-Kar Marrow]] go scouting and find some cultists hiding in the woods farther north
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]] asks [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] to link her to Callous
+        - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]] Declines so [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]] talks to his Lieutenant Lt. Brint
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]] tells Brint of the cultists
             - Brint kills [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] with the power of the Spring Court (prob about 1k of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]])
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] Informs [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] of the troops and says that the R&D team could take [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]]
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]]
 
-- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] calls the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] and the Mizzix R&D team with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar do all halo drop on the cultists and get those numbers down a TON
+- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] calls the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]] and the Mizzix R&D team with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar do all halo drop on the cultists and get those numbers down a TON
     - As [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] is retreating [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] Summons [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Marcus]] who appears in a beam of moonlight and goes ham.
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
@@ -217,19 +217,19 @@ Pox BringerUnknown
 
 -------------------------------------------------------------------------
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]]
 
 - - Figure out that the demons are wanting to wait us out
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] tries to use sending but they fail
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]]
 
-- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] goes out to scout the farm with [[Ella Halcot \|Ella]]-Kar again
+- - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] goes out to scout the farm with [[Ella Halcot \|Ella]]-Kar again
     - She spots a rotting corpse with its arm missing below the elbow and its arm is replaced with a sword
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]]
 
-- - All get connected to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] through [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] Mind link
+- - All get connected to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] through [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] Mind link
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] get sending of the words “Well if it isnt the wayward children meet me or your friend dies”
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] hears it too
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] basically barges into [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]]’s room and tells him everything
@@ -249,13 +249,13 @@ Pox BringerUnknown
 - - There is a fight between the Elite troops, shifters, and the mizzix group and the cultists
     - The cultists are children no more than 17
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]]
 
-- - The corpse stares at [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+- - The corpse stares at [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
     - Corpse tells that the demons are a means of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengence]]
         - Not the mastermind
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] has some memories of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] copied
-    - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/The Ancient One\|The Ancient One]] helps breaks the chains in the air that is keeping [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tied up
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] has some memories of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] copied
+    - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/The Ancient One\|The Ancient One]] helps breaks the chains in the air that is keeping [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] tied up
 
 ==================================================
 
@@ -308,7 +308,7 @@ Pox BringerUnknown
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] learns the old tongue from the [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Owl of knowladge\|Owl of knowladge]]
 - Eye of knowledge [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-- Armor of oak and thorn [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+- Armor of oak and thorn [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 ==================================================
 

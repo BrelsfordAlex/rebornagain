@@ -17,7 +17,7 @@
 ---
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** – Witnesses [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Eden\|Eden]]’s hatching, bonds deeply with the dragon, and strategizes for the group’s mission.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]])** – Suffers recurring dreams involving the [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Skulltaker\|Skulltaker]], confronts her fears, and expresses concerns about endangering [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]].
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] V'mova** – Offers healing to Drake Company soldiers, proposes tactical strategies, and demonstrates leadership among soldiers.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] V'mova** – Offers healing to Drake Company soldiers, proposes tactical strategies, and demonstrates leadership among soldiers.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]] Baine ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]])** – Assertive in negotiations with [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]’s leadership, securing cooperation from [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maledos\|Maledos]].
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elliesse]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]])** – Bonds quickly with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Eden\|Eden]], accepting the dragon as part of her new family.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Eden\|Eden]]** – A golden pseudo-dragon hatched from a magical egg, bonded to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]].
@@ -27,7 +27,7 @@
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Findire\|Findire]]** – Representative of the Yellow Ward, practical and blunt in addressing the city’s struggles.
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Syriel\|Syriel]]** – Representative of the Blue Ward, reserved and focused on intellectual pursuits.
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Abby\|Abby]]** – General of Drake Company, leading the city’s remaining defenses.
-- **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ember the Efreet\|Ember]] the Efreet** – First captain of Drake Company, collaborates with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] on defensive strategies.
+- **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ember the Efreet\|Ember]] the Efreet** – First captain of Drake Company, collaborates with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] on defensive strategies.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorne]]** – Offers insights into [[Reborn Again/NPCS,PCS,and Other/NPCS/No/The Wizard (Magnus the Mad)\|Magnus]]’s role in the [[Reborn Again/Locations Gone to/Westvale/Necropolis\|Necropolis]] activation.
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxie]] ([[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Foxie\|Foxy]])** – Mentioned as a potential resource for teleportation assistance.
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Borranth\|Borranth]]** – A mimic and part of Mizzix, provides insight into [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]’s political struggles.
@@ -69,11 +69,11 @@
 
 ---
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] V'mova’s Conversations
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] V'mova’s Conversations
 
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s Anguish:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] confides in [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] about the vivid dreams and her encounters with the entity. She describes the mental and emotional toll of these recurring nightmares.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s Anguish:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] confides in [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] about the vivid dreams and her encounters with the entity. She describes the mental and emotional toll of these recurring nightmares.
 - **Training and Combat:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] mentions her recent training sessions with Bek, emphasizing her commitment to improving her combat skills.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s Strategic Reflections:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] observes the deteriorating situation in [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]] and begins formulating strategies to assist both the defense and the refugees, balancing her sense of duty with her practicality.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s Strategic Reflections:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] observes the deteriorating situation in [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]] and begins formulating strategies to assist both the defense and the refugees, balancing her sense of duty with her practicality.
 
 ---
 
@@ -100,7 +100,7 @@
 ### Drake Company’s Situation
 
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Abby\|Abby]]’s Report:** Drake Company has been reduced to 30 combat-ready troops, with over 50 incapacitated. The company has been fighting a retreating battle to protect [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]].
-- **Command Tent:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is led to the command tent, where she meets [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ember the Efreet\|Ember]], the first captain of Drake Company and an efreet. They discuss the dire state of their forces.
+- **Command Tent:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] is led to the command tent, where she meets [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ember the Efreet\|Ember]], the first captain of Drake Company and an efreet. They discuss the dire state of their forces.
 - **Scout Reports:** A scout reveals that the [[Reborn Again/Locations Gone to/Westvale/Necropolis\|Necropolis]] vault has been activated, and the Weave surrounding it is being consumed. The demons’ activity is concentrated in [[Reborn Again/Locations Gone to/Westvale/The old Wood\|the Old Wood]].
 - **[[Reborn Again/Locations Gone to/Westvale/Necropolis\|Necropolis]] Activation:** The party learns that the [[Reborn Again/Locations Gone to/Westvale/Necropolis\|Necropolis]]’ activation is causing the Weave to degrade and fuel an unknown, ominous power.
 
@@ -113,10 +113,10 @@
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] wanders through [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]] and stumbles upon the local branch of Mizzix, a massive mimic named [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Borranth\|Borranth]]. She learns about its origins and gains insight into the organization’s role in the city.
     - She discusses the political tensions between the city wards with [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Borranth\|Borranth]], learning of the struggles between the Yellow, Red, and Blue Wards. [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Borranth\|Borranth]] hints at potential solutions but leaves details for future exploration.
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] studies the teleportation circle at Mizzix, ensuring she has an escape route in emergencies.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] with Drake Company:**
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] with Drake Company:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] walks among the injured soldiers, offering healing and comfort to those in pain. She uses her magic to alleviate suffering and bolster morale.
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Abby\|Abby]] introduces [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] to the remaining leadership of Drake Company, including [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ember the Efreet\|Ember]] and the golden dragon in human form. Together, they strategize about potential defenses and discuss the activation of the [[Reborn Again/Locations Gone to/Westvale/Necropolis\|Necropolis]] vault.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] walks among the injured soldiers, offering healing and comfort to those in pain. She uses her magic to alleviate suffering and bolster morale.
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Abby\|Abby]] introduces [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] to the remaining leadership of Drake Company, including [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ember the Efreet\|Ember]] and the golden dragon in human form. Together, they strategize about potential defenses and discuss the activation of the [[Reborn Again/Locations Gone to/Westvale/Necropolis\|Necropolis]] vault.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]] with City Leaders:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]] engage with the city’s leadership, countering the arrogant  [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maledos\|Maledos]] assertions and securing his reluctant cooperation.
@@ -145,7 +145,7 @@
 
 ### Strategic Preparations
 
-- **Dummy Camps:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] proposes creating false military camps to mislead the enemy and potentially set up an ambush. This tactic aims to gather intel on the enemy’s size and strategy.
+- **Dummy Camps:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] proposes creating false military camps to mislead the enemy and potentially set up an ambush. This tactic aims to gather intel on the enemy’s size and strategy.
 - **Transportation:** The group acquires lizard-like mounts and a motorbike from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Elnos]] for quicker travel.
 - **Artificer’s Assistance:** [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Elnos]] and Mizzix are identified as potential resources to provide cloaking spells or other magical protections.
 
@@ -164,7 +164,7 @@
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]] Baine:** Asserts authority during political negotiations, handling Malladus with sharp wit and confidence.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]:** Bonds deeply with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Eden\|Eden]], displays leadership in strategizing against [[Reborn Again/NPCS,PCS,and Other/NPCS/No/The Wizard (Magnus the Mad)\|Magnus]], and reveals personal vulnerabilities about past betrayals.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]]:** Opens up about her traumatic dreams and determination to face the entity, balancing vulnerability with fiery resolve.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] V'mova:** Provides healing and solace to wounded soldiers, showcases tactical brilliance, and demonstrates camaraderie with fellow soldiers.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] V'mova:** Provides healing and solace to wounded soldiers, showcases tactical brilliance, and demonstrates camaraderie with fellow soldiers.
 
 ---
 
@@ -223,7 +223,7 @@
     - The **[[Reborn Again/Locations Gone to/Westvale/Necropolis\|Necropolis]]** vault has been activated, degrading the Weave and fueling an ominous power. The party learns [[Reborn Again/NPCS,PCS,and Other/NPCS/No/The Wizard (Magnus the Mad)\|Magnus]] the Mad is behind this, attempting to construct a powerful body.
 - **Strategic Preparations:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] suggests creating dummy military camps to mislead enemies and set up ambushes.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] suggests creating dummy military camps to mislead enemies and set up ambushes.
     - The group secures mounts and a motorbike for faster travel.
     - Discussions with artificers and Mizzix for cloaking spells and other protective measures are planned.
 - **Demon Pursuit of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]:**
@@ -246,7 +246,7 @@ know as heros throughout [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Ta
 
 # Tags
 -----
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]

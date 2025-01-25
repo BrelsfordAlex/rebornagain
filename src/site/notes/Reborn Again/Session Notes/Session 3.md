@@ -14,15 +14,15 @@ Starting Date: morning of the 20th of Winterdusk, 20 days before Spring
 
 Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
 
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]'s wolf pelt has goggles on the hood
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]'s wolf pelt has goggles on the hood
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] cooked Breakfast
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]'s eyes were darker/more absent
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Wanted to talk to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] fought forces like what we just faced in the past and that we would need an army to fight how big this fight could be
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is worried
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] Wanted to talk to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] fought forces like what we just faced in the past and that we would need an army to fight how big this fight could be
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] is worried
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] doesn't want anyone to die
 - Next townSmoking
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells stags to go and hide when they get to town
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] tells stags to go and hide when they get to town
 - MyriaSmells Burning straw
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Switched to Abyssal
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] felt "different"
@@ -32,7 +32,7 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
 - The fight (Fight with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Vermin Lord\|Vermin Lord]])
     - Hold person ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]) 3 pillars from sky, chains from the pillars wrapping around the person
         - Chains same vibe to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s sword
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] finds farmer's kid who bonked rat with a frying pan
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] finds farmer's kid who bonked rat with a frying pan
         - Gave kid a spear told him to get everyone out
         - Sent hellhound to protect the kid
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] angry at warchief, and the engineer
@@ -41,9 +41,9 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
     - Warchiefpoisonous tail
         - Magic isn't as effective on him?
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] says "vermin scum" to him in abyssal
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] kill him
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] watch [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] walk up to the warchief and stomp on his head swearing in Abyssalthen switching to a different language
-    - After Warchielf dies [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] goes to Farmer kid, finds a rat ninja (the raninja)
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] kill him
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] watch [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] walk up to the warchief and stomp on his head swearing in Abyssalthen switching to a different language
+    - After Warchielf dies [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] goes to Farmer kid, finds a rat ninja (the raninja)
     - Raninja has serrated knives, throwing stars and can talk
         - Raninja seems more intelligent than the others
         - Farmer kid knocks out raninja when it had tried to run.
@@ -51,8 +51,8 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
     - Farmer Kid named [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie Newharvest]]
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] had a frying pan
         - Blonde and shadowtouched Fae
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] sends [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Radaghast\|Radaghast]] to warn town she came from that this town was attacked and she is sending those villagers there
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] talks to townspeople
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] sends [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Radaghast\|Radaghast]] to warn town she came from that this town was attacked and she is sending those villagers there
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] talks to townspeople
     - People from the town shadowtouched
         - when use their ability to much they have this [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] mist
 - people who were touched when the shadowfell and fey realm fell
@@ -78,7 +78,7 @@ Ending Date:morning of the 23rd of Winterdusk, 17 days before Spring
         - Birch Trees with brown lycan on it looking like rust
     - Signs saying "STAY ON THE PATH"
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] has a sense of familiarity on how [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] was acting and her actions
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] helps [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] cook, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] got advantage
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] helps [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] cook, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] got advantage
 - Loot
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] got a ton of daggers and throwing stars
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] gets 2 vials of posion

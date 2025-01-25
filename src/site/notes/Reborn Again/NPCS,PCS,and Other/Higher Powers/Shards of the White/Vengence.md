@@ -24,7 +24,7 @@ Hilt met in [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myri
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Tallon City \|Tallon City ]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Allendro Dar'Marvo\|Allendro Dar'Marvo]]
 [[Reborn Again/Quests for Campaign/Revenge on the Cult of Last Days\|Revenge on the Cult of Last Days]]

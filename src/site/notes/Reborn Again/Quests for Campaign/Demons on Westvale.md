@@ -27,4 +27,4 @@ Save [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]] from the [[R
 
 #### Tags
 ----
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/Session Notes/Session 19\|Session 19]] [[Reborn Again/Session Notes/Session 20\|Session 20]] [[Reborn Again/Session Notes/Session 21\|Session 21]] [[Reborn Again/Session Notes/Session 22\|Session 22]] 
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/Session Notes/Session 19\|Session 19]] [[Reborn Again/Session Notes/Session 20\|Session 20]] [[Reborn Again/Session Notes/Session 21\|Session 21]] [[Reborn Again/Session Notes/Session 22\|Session 22]] 

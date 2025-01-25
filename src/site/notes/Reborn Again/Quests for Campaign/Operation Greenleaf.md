@@ -30,7 +30,7 @@
 - Secure the hidden city.
 - Destroy idols, statues, and artifacts tied to [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Kor'ad\|Khorad]] in [[Reborn Again/Locations Gone to/Westvale/The Summer Court\|the Summer Court]].
 - Confront and defeat [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Kor'ad\|Khorad]] in honorable combat.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] emphasizes the need for secrecy, particularly keeping the plan hidden from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] to prevent her self-sacrificing tendencies from interfering.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] emphasizes the need for secrecy, particularly keeping the plan hidden from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] to prevent her self-sacrificing tendencies from interfering.
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s Response:
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s anger surfaces during the discussion. She clenches her sword, [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]], visibly struggling to suppress her rage toward [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Kor'ad\|Khorad]].

@@ -140,27 +140,27 @@ She needs to talk to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|
 
 She knows hes indisposed of?!?!
 
-- - - - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] brings [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+- - - - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] brings [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - Green room
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] greets [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] knows most dragons sleep alot
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] greets [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] knows most dragons sleep alot
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar asks if another war is coming
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar wants to help
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar tells of forces of cultists near the lonely mountains
             - But dragons were not the target
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] fought with a dragon similar to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] fought with a dragon similar to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar
         - The war will have ramifications across all species
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-kar has to many teeth
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar strong and warm
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar comments that the sky is riddled with bats
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Ella Halcot\|Ella]]-Kar joins vet company
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] watches the events with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] got 2 beers ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] took [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] lol)
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] watches the events with [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] got 2 beers ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] took [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] lol)
         - Fantasy Popcorn
-        - Bingo sleeping on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s foot
+        - Bingo sleeping on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s foot
 
 -------------------------------------------------------------------------
 
@@ -257,7 +257,7 @@ Every longrest they can choose what to have resistance to
 
 +1 AC
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - Vet Company Training
         - Magic Users get Magical
@@ -297,7 +297,7 @@ Every longrest they can choose what to have resistance to
 - Incident report on [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Allendro Dar'Marvo\|Allendro]]
     - Assassinated by House of Death
         - By the progenitor
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] fought with a dragon similar to [[Ella Halcot \|Ella]]-kar
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] fought with a dragon similar to [[Ella Halcot \|Ella]]-kar
 
 ==================================================
 

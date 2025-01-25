@@ -41,7 +41,7 @@ Session 6
     - SHE HAS A ROBOT DOG! <:sobbing:1207050008709431316>
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] sole purpose was to pet the dog
 - Pippin to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]"royalty" ( like excuse me HUH? WHY DID WE LOOK OVER THIS?)
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]'s armor made by Pippin.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]'s armor made by Pippin.
 - Pippin focuses on the bear [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] had and a ghoul stands in front of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and Pippin fucking nukes it and puts a gun to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s head
     - Sad [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] noises puppi
 - Pippin askes for help forging something
@@ -59,7 +59,7 @@ Session 6
     - Weapon's nameVeil Piercer
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] can get a gun from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] ( <:tbh_gun:1082149444809658438> )
 - Everyone argues that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] can't get a gun
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] gets a shotgun
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] gets a shotgun
 - Them gets a gun hand (gets a memory from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|ava]] of how to aborb the hand into themselves) GUN HAND UWU
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is HIGHLY against [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] getting a gun
 - You can get addicted to the magic from the conflux, causing something called "Magical corruption"
@@ -105,7 +105,7 @@ Session 6
         - 6 foot 5
         - Advanced Armor, Gold helmet with 8 Daggers (black)
         - Knew [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s last name ( like how? i never got an answer for this)
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] has had a mission or two with him
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] has had a mission or two with him
         - nicknamed "Flame of the West"
         - Pyromancer
         - Dated Pippin ( they are 'just friends' your [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]])
@@ -116,7 +116,7 @@ Session 6
 ---
 All asked to leave weapons even [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s ghouls and her violin
     [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is like guys behave
-    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] seconds this opinion
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] seconds this opinion
     [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]] did not want to be suprised when they all walked in
     [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] mentions the phrase 'Ashen Conflux' which sends [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]] into a an anxiety attack
     The Council members
@@ -129,7 +129,7 @@ All asked to leave weapons even [[Reborn Again/NPCS,PCS,and Other/Player Charact
     [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Honor\|Honor]] to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]][[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]] is present
     Ashen ConfluxDemon Conflicts
     [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Justice\|Justice]] IS A DRAGON?!?!?!
-    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] talking in head while [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] explain everything
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] talking in head while [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] explain everything
     [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] asks for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s sickle to cut the bear
     Meet [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Rico\|Rico]] who puts knife to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s throat like "nuh uh"
     [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] annoyed like "guys I just need to get my notes fucking CHILL jesus
@@ -151,7 +151,7 @@ All asked to leave weapons even [[Reborn Again/NPCS,PCS,and Other/Player Charact
     MistfiendAnyway you can help defend please do it
     [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] learns [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] can send messages to [[Reborn Again/Locations Gone to/Westvale/Westvale\|Westvale]]
     [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] sends a message for him
-    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]'s old rank reinstated and she was promoted to Company Captain
-    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] asked to assemble a veteran's company
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]'s old rank reinstated and she was promoted to Company Captain
+    [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] asked to assemble a veteran's company
         [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Deadeye]] joins
         [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|deadeye]] "[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] told me not to piss you off"

@@ -17,7 +17,7 @@ Did Charlie Newharvest give any quests: No
 #### Description
 Charlie had a frying pan
 Blonde and shadowtouched Fae
-	[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]'s hanger on
+	[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]]'s hanger on
 	
 
 ---
@@ -26,7 +26,7 @@ Blonde and shadowtouched Fae
 ---
 [[Reborn Again/Locations Gone to/Tallan/Shaleverge\|Shaleverge]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/Session Notes/Session 3\|Session 3]]
@@ -34,7 +34,7 @@ Blonde and shadowtouched Fae
 ---
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Alma Dragoncaller\|Alma Dragoncaller]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Arva\|Arva]]

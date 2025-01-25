@@ -9,9 +9,9 @@
 ---
 **Where They Live:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]],[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]
 **Are They Friendly:** Friendly
-**Who Met:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-**When Did** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] meet : [[Reborn Again/Session Notes/Session 23\|Session 23]]
-**Session** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] heard about them [[Reborn Again/Session Notes/Session 23\|Session 23]]  
+**Who Met:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
+**When Did** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] meet : [[Reborn Again/Session Notes/Session 23\|Session 23]]
+**Session** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] heard about them [[Reborn Again/Session Notes/Session 23\|Session 23]]  
 **Did Eden give any quests:** `= this.anyquests`
 	**If yes what quest:** `= this.quests`
 

@@ -27,7 +27,7 @@ From "The Brass City" (Only [[Reborn Again/NPCS,PCS,and Other/Player Characters/
  [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] flashes sickly green and then white and starts glitching
 Forger's Mark- 'PF'
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|General Torak]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 [[Reborn Again/Session Notes/Session 6\|Session 6]]

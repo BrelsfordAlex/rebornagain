@@ -22,11 +22,11 @@
 
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]** – Central to leadership and planning [[Reborn Again/Quests for Campaign/Operation Greenleaf\|Operation Greenleaf]]. Provides emotional support and direction to the crew.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]])** – Shows impulsiveness and vulnerability but is loyal and emotionally supportive. Carries the sentient sword **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]**.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]** – Haunted by nightmares of her death and targeted by Kor’ad. Struggles with fear and emotional turmoil.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]])** – Offers trust and support to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], balances practicality with humor. Suggests practical solutions for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s distress.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]** – Haunted by nightmares of her death and targeted by Kor’ad. Struggles with fear and emotional turmoil.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]])** – Offers trust and support to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], balances practicality with humor. Suggests practical solutions for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s distress.
 - **Quill Ak’Ta** – Navigator of the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]], confirms the ship’s ability to handle the storm.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]]** – Acts as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s voice, explaining her nightmares and the threat posed by Kor’ad.
-- **Kor’ad, Will of a Thousand** – A demon targeting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] for emotional and physical conflict.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]]** – Acts as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s voice, explaining her nightmares and the threat posed by Kor’ad.
+- **Kor’ad, Will of a Thousand** – A demon targeting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] for emotional and physical conflict.
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Skulltaker\|Skulltaker]]** – A demon confronted by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] in her dream, seemingly intimidated by **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]**.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Asperoth's Apostle\|Khan]] (Asperoth’s Apostle)** – Provides insights into [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Elliesse\|Elise]]’s psionics and answers [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s invasive questions about illithid physiology.
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Luna\|Luna]]** – Referenced by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] as someone who advised him to trust [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]].
@@ -75,25 +75,25 @@
 
 ---
 
-#### **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s Nightmare and the Aftermath**
+#### **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s Nightmare and the Aftermath**
 
-1. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Respond to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s Scream:**
+1. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Respond to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s Scream:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s blood-curdling scream wakes the crew, prompting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] to immediately head to her quarters. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] follows shortly after, grabbing [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]], while [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]] arrives slightly later, having been startled mid-reading.
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] instinctively moves to comfort [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] by holding her face but is pushed away as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] recoils in fear. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] retreats slightly, giving her space, but is visibly shaken by her reaction.
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]], still recovering from his own shock, tries to offer help by suggesting a hot drink for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]. This lightens the mood slightly, as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] jokingly refers to himself as the “errand boy.”
-2. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannis]] (Indirect Communication):**
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s blood-curdling scream wakes the crew, prompting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] to immediately head to her quarters. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] follows shortly after, grabbing [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]], while [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]] arrives slightly later, having been startled mid-reading.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] instinctively moves to comfort [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] by holding her face but is pushed away as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] recoils in fear. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] retreats slightly, giving her space, but is visibly shaken by her reaction.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]], still recovering from his own shock, tries to offer help by suggesting a hot drink for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]. This lightens the mood slightly, as [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] jokingly refers to himself as the “errand boy.”
+2. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannis]] (Indirect Communication):**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannis]] becomes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s voice, explaining her situation to the group. He reveals that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] has been plagued by recurring nightmares, recalling her death in battle against the demon accord.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannis]] becomes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s voice, explaining her situation to the group. He reveals that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] has been plagued by recurring nightmares, recalling her death in battle against the demon accord.
     - He describes how she was nearly cut in half and slain, a memory that had been erased upon her resurrection but is now returning vividly in her dreams.
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannis]] also identifies [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Kor'ad\|Korad]], Will of a Thousand, as the demon champion stalking [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]. He warns the group that [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Kor'ad\|Korad]] intends to provoke [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] into battle by threatening her companions.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannis]] also identifies [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Kor'ad\|Korad]], Will of a Thousand, as the demon champion stalking [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]. He warns the group that [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Kor'ad\|Korad]] intends to provoke [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] into battle by threatening her companions.
 3. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannis]]:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] attempts to reassure [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannis]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] by stating firmly, “We won’t let that happen.”
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] attempts to reassure [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannis]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] by stating firmly, “We won’t let that happen.”
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannis]], stoic but emotional, responds with a somber, “If this is for her best interest, then I will go along with it.” His protective nature is evident, but he defers to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]’s leadership.
-4. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]:**
+4. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] leaves a notebook for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] with an encouraging note, offering it as a tool to help her process her emotions. The gesture reflects [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s effort to connect with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] on a deeper level, despite [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s silence.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] leaves a notebook for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] with an encouraging note, offering it as a tool to help her process her emotions. The gesture reflects [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s effort to connect with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] on a deeper level, despite [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s silence.
 
 ---
 
@@ -105,7 +105,7 @@
         - Secure [[Reborn Again/Locations Gone to/Westvale/The Hidden City\|the hidden city]].
         - Destroy idols, statues, and artifacts tied to [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Kor'ad\|Khorad]] in [[Reborn Again/Locations Gone to/Westvale/The Summer Court\|the Summer Court]].
         - Confront and defeat [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Kor'ad\|Khorad]] in honorable combat.
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] emphasizes the need for secrecy, particularly keeping the plan hidden from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] to prevent her self-sacrificing tendencies from interfering.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] emphasizes the need for secrecy, particularly keeping the plan hidden from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] to prevent her self-sacrificing tendencies from interfering.
 2. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s Response:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s anger surfaces during the discussion. She clenches her sword, [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]], visibly struggling to suppress her rage toward [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Kor'ad\|Khorad]].
@@ -139,9 +139,9 @@
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] continue to navigate their dynamic of trust and secrecy. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]’s introduction of "Greenleaf" as a trust system signifies their reliance on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s loyalty.
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s impulsiveness contrasts with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]’s calculated nature, creating a balance in their relationship.
-3. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and the Group:**
+3. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and the Group:**
     
-    - The group’s collective concern for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] highlights their dedication to her well-being. Each character offers support in their own way:
+    - The group’s collective concern for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] highlights their dedication to her well-being. Each character offers support in their own way:
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] provides reassurance and a plan of action.
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] offers a notebook as a coping tool.
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]], though less emotionally expressive, ensures practical needs are met, like suggesting drinks or breaks.
@@ -188,7 +188,7 @@
 
 -  **Kor’ad, Will of a Thousand:**
     
-    - A demon champion targeting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], intending to provoke her into battle through emotional manipulation and threats to her companions.
+    - A demon champion targeting [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]], intending to provoke her into battle through emotional manipulation and threats to her companions.
 - **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Skulltaker\|Skulltaker]] Encounter:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] confronted this demon in a dream, wielding **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]**, a sentient sword that seemed to intimidate the demon.
@@ -210,24 +210,24 @@
     
     - The **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]** warns of an incoming storm. Navigator Quill Ak’Ta confirms the ship can handle it but requires extra crew on deck.
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] delegates tasks to the [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Warforged Constructs\|warforged constructs]], reflecting on unexplained augmentations that have enhanced the ship’s resilience.
-- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s Nightmare:**
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s Nightmare:**
     
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] recalls vivid memories of her death and resurrection during nightmares, involving a confrontation with **Kor’ad, Will of a Thousand**.
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]] explains that the demon is provoking [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] by threatening her companions.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] recalls vivid memories of her death and resurrection during nightmares, involving a confrontation with **Kor’ad, Will of a Thousand**.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Rannus\|Rannus]] explains that the demon is provoking [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] by threatening her companions.
 - **[[Reborn Again/Quests for Campaign/Operation Greenleaf\|Operation Greenleaf]] Planning:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] outlines objectives:
         - Secure [[Reborn Again/Locations Gone to/Westvale/The Hidden City\|the hidden city]].
         - Destroy artifacts tied to **Kor’ad** in [[Reborn Again/Locations Gone to/Westvale/The Summer Court\|the Summer Court]].
         - Confront **Kor’ad** in honorable combat.
-    - The plan is to remain secret from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] to avoid her self-sacrificial tendencies.
+    - The plan is to remain secret from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] to avoid her self-sacrificial tendencies.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]’s Vulnerability:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] recounts her confrontation with the **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Skulltaker\|Skulltaker]]**, showing her brash nature but acknowledging the potential consequences of her actions.
 - **Deepening Relationships:**
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] gains reassurance and trust from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]], especially regarding their leadership in planning [[Reborn Again/Quests for Campaign/Operation Greenleaf\|Operation Greenleaf]].
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] offers [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] a notebook to process her emotions, signifying growing trust and camaraderie within the group.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] offers [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] a notebook to process her emotions, signifying growing trust and camaraderie within the group.
 
 # Loot
 ---
@@ -246,7 +246,7 @@ know as heros throughout [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Ta
 
 # Tags
 -----
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]

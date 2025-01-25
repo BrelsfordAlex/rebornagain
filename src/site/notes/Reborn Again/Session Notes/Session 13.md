@@ -233,13 +233,13 @@ This basically means she has protection from the Fae
         - VivMaria Training grounds
             - The Vet Company learns Unarmed
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is wearing her official outfit
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] seems happy [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and how her grandmother is a Hag
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] asks what [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] knows about Coolition day
-                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] once took part but it is a time for her troops to take part instead her
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] about her exam
-                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] says she would be honored to help 😭
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] seems happy [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and how her grandmother is a Hag
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] asks what [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] knows about Coolition day
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] once took part but it is a time for her troops to take part instead her
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] about her exam
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] says she would be honored to help 😭
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] pins someone to the ground (using Bingo to help)
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] meets Sunblessed
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] meets Sunblessed
                 - Sunblessed takes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s gun apart
 
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
@@ -254,18 +254,18 @@ This basically means she has protection from the Fae
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]] remembers birthdays exist
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] has a birthday on a non existent calendar
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - VivMaria Training grounds
         - The Vet Company learns Unarmed
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is wearing her official outfit
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] seems happy [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and how her grandmother is a Hag
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] asks what [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] knows about Coolition day
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] once took part but it is a time for her troops to take part instead her
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] about her exam
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] says she would be honored to help 😭
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] seems happy [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and how her grandmother is a Hag
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] asks what [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] knows about Coolition day
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] once took part but it is a time for her troops to take part instead her
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] about her exam
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] says she would be honored to help 😭
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Charlie Newharvest\|Charlie]] pins someone to the ground (using Bingo to help)
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] meets Sunblessed
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] meets Sunblessed
             - Sunblessed takes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s gun apart
 
 -------------------------------------------------------------------------
@@ -348,7 +348,7 @@ Decent
 
 - - Did something (Private Session)
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - Shopping Episode
         - Ring of Rage
@@ -380,16 +380,16 @@ Decent
         - Another gravity Bomb
         - Makes 2 more Gravity Bombs
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - Kalia gun misfires
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] trains Necro-corp and the mercs
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] trains Necro-corp and the mercs
     - Necro-corp has 6 catapults made of bone with skulls inside the bucket
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] gives leadership training
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] gives leadership training
     - Vet Company gains Independant
     - Militia get Swift and Stubborn
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
 
 - - Air Assets arrived
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Drake Knights\|Drake Knights]]
@@ -403,7 +403,7 @@ Decent
 -------------------------------------------------------------------------
 
 - Payday
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] 350G
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] 350G
     - Viv300G
     - Themspent over 600G
 
@@ -461,33 +461,33 @@ You can’t stop us
 ### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
 
 - - TyriusMAria
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Training vet company
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] wants her soldiers to shine in the events
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] thinks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] has all the pieces to help him
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] thinks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is strong and brave
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] his past and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] her past
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] Training vet company
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] wants her soldiers to shine in the events
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] thinks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] has all the pieces to help him
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] thinks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] is strong and brave
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] his past and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] her past
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - Recruits 12 new people to the Vet Company
     - TyriusMAria
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Training vet company
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] wants her soldiers to shine in the events
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] thinks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] has all the pieces to help him
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] thinks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is strong and brave
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] his past and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] her past
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] Training vet company
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] wants her soldiers to shine in the events
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] thinks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] has all the pieces to help him
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] thinks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] is strong and brave
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] his past and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] her past
     - Under the treeMaria and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]]
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] has no armor
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] has no armor
         - Elderly Rabbit Shifter
             - Priest Robes
             - In Temple
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] didn’t recognize [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] without her armor
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] didn’t recognize [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] without her armor
         - The tree has unlit lanterns
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] is resting head on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s Lap
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] is resting head on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s Lap
         - Vines wrapping around her arms and legs
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] needs to find acceptance in losing [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Marcus Menneth\|Marcus]]
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s tattoo grows
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] have a heart to heart moment
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s tattoo grows
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Tyrius\|Tyrius]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] have a heart to heart moment
 
 -------------------------------------------------------------------------
 
@@ -508,7 +508,7 @@ You can’t stop us
 - - Wakes up to Kalia at her door all night
     - Kore coffee counts as sleep
 - The group
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]’s sword turns into a buster sword
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]’s sword turns into a buster sword
 
 ### Proving groundsVex Exam
 
@@ -532,8 +532,8 @@ You can’t stop us
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Raine of the Names\|Raine]] has a binding spell
         - Old, thought it was lost
             - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] will ask later
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is proud of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-    - When [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] activates her rage she hears “Good” in her head
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] is proud of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+    - When [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] activates her rage she hears “Good” in her head
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]’s fireball comes from their chest in a cone of molten slag
     - Kalia finishes the demon
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]] changes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]’s [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbiter]] medallion
@@ -619,7 +619,7 @@ You can’t stop us
         - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Black/Deception\|Deception]] (Held by the Cult of the Last Day)
         - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] (Held by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s dad in the Cult of the Last Day)
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Raina\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Raina]] has a binding spell
-- When [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] activates her rage she hears “Good” in her head
+- When [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] activates her rage she hears “Good” in her head
 - What do you know about [[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Allendro Dar'Marvo\|Allendro]] Dar’[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Allaro Dar'Marvo (Marvo)\|Marvo]]
     - Master
     - He is coming
@@ -638,7 +638,7 @@ You can’t stop us
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
     - Gravity Bomb: +4
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
     - Ring of Rage
     - Armor Upgraded to have Fire resistance
     - Ring of Jumping

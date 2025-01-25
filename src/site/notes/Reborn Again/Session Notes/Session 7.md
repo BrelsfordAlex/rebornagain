@@ -21,7 +21,7 @@ Session 7 Dated 9/14/24
     - Everyone got their stuff back, Ghouls gone
     - Violin restringed and oiled with a note "Told you we would keep it safe -D" (who is d? Deezenuts? [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'Taggon]]? <:think:797473694145314847>)
     - Palace has an antimagic barrier around it
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Deadeye]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] staying in the proving grounds
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Deadeye]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] staying in the proving grounds
 
 #### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 
@@ -37,7 +37,7 @@ Session 7 Dated 9/14/24
             - AvaIdelonic Entity, Hospitality
                 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] asks how [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]] knew her last name
             - SHE HAS A FILE?
-                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]] have Files too.
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]] have Files too.
                 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] walks straight into the house meanwhile [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]] meet The Butler
                 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality\| The Butler]]
 
@@ -55,7 +55,7 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
             - pool of ink for [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|scribbles]]
             - roof is a night sky
             - forest greens
-            - bed is massive even if [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] were to lay on it
+            - bed is massive even if [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] were to lay on it
             - basically [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] looks like a child in it
                 - Them's room
             - full of notebooks
@@ -66,10 +66,10 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] Traitors in red robes, Jurian did not hear
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'Taggon]] sends out paranormal folk
 
-#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 - - - At the Proving Grounds
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] checks current strength
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] checks current strength
             - 50 Elite guard
             - 300 Mercs
             - 100 Shifter Company
@@ -77,7 +77,7 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
             - 350 Militia
             - The House of Lament
             - Vet Company currently at 52 with 5 NCO's and 2 CO's
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] met [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix]]
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] met [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix]]
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix]]
                 - Kor
                 - Pale
@@ -86,17 +86,17 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
                 - Tall
                 - Spirit Dancer
 
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix]] about the fight
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] tells [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix]] about the fight
 
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix]] calls her company to train
 
-- - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] asks for supplies for the fight
+- - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] asks for supplies for the fight
             - Dran Enterprises
         - Shop Keepers Union
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torrak]] hates Shinies
         - Meeting in war room
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torrak]]
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
             - Archmage of AbdurationElizabeth Dar'Taren
             - Jurian
             - other people I can't remember rn
@@ -181,20 +181,20 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
 
 ### 
 
-#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and the war room
+#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and the war room
 
 - - - People There (gonna be honest I didn't write any of this down)
             - Jurian
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torrak]]
             - ???
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] informs everyone of battle plans
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] wants Jurian's red robes to defend the walls right now
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] informs everyone of battle plans
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] wants Jurian's red robes to defend the walls right now
             - Jurian says no (looks concerned)
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] pulls Jurian aside for a "chat"
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] pulls Jurian aside for a "chat"
         - Jurian thinks there is a coo (coup? how the fuck is it spelt fucking take me over daddy shit)
         - Jurian diesnt trust the red robes right now
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] offers to help
-        - Jurian and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] plan to spy on the second in command of the red robes (with help of the rogue person?)
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] offers to help
+        - Jurian and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] plan to spy on the second in command of the red robes (with help of the rogue person?)
 - ==================================================
 
 ### Evening of the 30th of Winterdusk 10 days before spring
@@ -203,18 +203,18 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
     - dinner at the house
         - Present
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
             - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'Taggon]]
             - Butler
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] grumbling about being lied to by everyone about how they knew she was a vampire's child
         - Internally [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] was trying to reason with her it wasn't lying it was that everyone thougth she knew
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] show up
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] show up
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] asks whats wrong
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] explains the House of Lament stuff
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] Explains what happened at [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]'s place
     - Mariasilently eating
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] meet [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] meet [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]]
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] does a bad job at explaining things
     - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] gets yelled at for being on the table
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]

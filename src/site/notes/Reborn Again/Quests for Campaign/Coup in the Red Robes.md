@@ -27,6 +27,6 @@
 
 Find out about the revolt in the Red Robes and Stop it 
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jurien Dar'Gannon\|Jurien Dar'Gannon]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
+[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 [[Tallon City \|Tallon City ]]
 [[Reborn Again/Session Notes/Session 7\|Session 7]]

@@ -7,9 +7,9 @@
 ---
 Where They Live: Tallon City 
 Are They Friendly: Friendly 
-Who Met them: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-When Did [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] meet them: Session 7
-Session [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] heard about them: Session 7
+Who Met them: [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
+When Did [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] meet them: Session 7
+Session [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] heard about them: Session 7
 Did Jannix give any quests: No
 	If yes what quest: `= this.quests`
 
@@ -26,7 +26,7 @@ Spirit Dancer
 
 #### Notes
 ---
-Met with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]], Learned about he battle and is training her troops
+Met with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]], Learned about he battle and is training her troops
 [[Tallon City \|Tallon City ]]
 [[Reborn Again/Session Notes/Session 7\|Session 7]]
 

@@ -26,7 +26,7 @@ Session 9 Dated 9/25/24
     - Around the room (Base floor) Sickly Green Glyphs form and start showing lines of green electricity
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]  Restrained
         - Moment = 0 and can roll a Strength or Dex save to get out
-    - At the top of the stairs(with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]  and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]])[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] spots a poorly hidden trap
+    - At the top of the stairs(with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]  and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]])[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] spots a poorly hidden trap
         - VivWhats up?
             - MariaThey could have tried to hide it better
         - Vivthey aren't so smart
@@ -42,16 +42,16 @@ Session 9 Dated 9/25/24
     - AlliasherWelcome Hope you Don't Enjoy this
         - He tries to cast Timestop but was stopped by Counterspell
     - [[Alliasher Dar'Kaller \|Alliasher Dar'Kaller ]]Gets angry and rips a shard of the glass off and throws it
-        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] Run down the stairs
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] Run down the stairs
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] runs upstairs with her last ghouls and tosses the shard of glass (using the ghoul) under the door and at Alliasher (Looks like skipping stones)
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] Points out more traps (why <:tbh_sobbing:1073203341292744785> )
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] struk with Lightning as Alliasher's wand breaks and shoots a [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End (The Grey)]] beam at [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] 
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] Roasts Alliasher by saying "Did daddy not love you enough is that why you decided to work with demons?"
         - GetRoastedBitch <a:200IQ:851554985912959016>
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] Kill Alliasher
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] Kill Alliasher
         - Alliasher's Blood pulses
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] goes down [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] uses spare the dying begging for her friend to come backand heals [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is mad at [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] for acting as judge jury and executioner
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] goes down [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] uses spare the dying begging for her friend to come backand heals [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] is mad at [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] for acting as judge jury and executioner
     - Enabler is broken (Everyone is sad and everyone carries him to Mizzix)
 - ==================================================
 
@@ -67,7 +67,7 @@ Session 9 Dated 9/25/24
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] is angry about that
     - Group talks [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] into telling them where the rest of the bombs are
     - Bombs at 31, 33, and right above 46
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] goes to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] about the bombs
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] goes to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] about the bombs
     - Them goes to a park
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] just wanders around town
 - ==================================================
@@ -122,16 +122,16 @@ Session 9 Dated 9/25/24
     - house of balance has 3-4 vampires in it rigth now(by [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/House of Hospitality]])
 - ==================================================
 
-### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] at the Palace
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] at the Palace
 
 - ==================================================
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Deadeye]] not at the desk
     - VivWe need to speak to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] NOW, or I will get my mother
-    - Person at the deskhe is in a meeting That one ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]]) Can go in but you cannot
+    - Person at the deskhe is in a meeting That one ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]) Can go in but you cannot
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] : I can't go in? I'm an interregator
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] is the second highest ranking member of the millitary
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] vouches for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]  and mentions how [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] will go into the meeting
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]  go to the meeting
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] is the second highest ranking member of the millitary
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] vouches for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]  and mentions how [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] will go into the meeting
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]  go to the meeting
     - People in the Meeting
         - All the high mages
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]]
@@ -139,12 +139,12 @@ Session 9 Dated 9/25/24
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]]
     - MariaThere are urgent matters, there are 3 bombs in [[Tallon City \|Tallon City ]]and we know where they are. The Red robes are traitors one tried to surrender and was killed
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint]] slams his mace in front of Jurian
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] shares the plan her and Jurian had to investigate the Red Robes with the Paranormal Investigation Squad and how it went wrong and then explains the fightin basics and how they got information out of Brian
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] shares the plan her and Jurian had to investigate the Red Robes with the Paranormal Investigation Squad and how it went wrong and then explains the fightin basics and how they got information out of Brian
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] proud that they got information from Brian
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] to JurianIs your house in order yet?
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] where the bombs are
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] tells [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] where the bombs are
     - VivDar'taggon died again
-    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]] sends [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria\|Maria]] to send out units to each locationand when each bomb is found they need to contact Jurian directly
+    - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torak]] sends [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] to send out units to each locationand when each bomb is found they need to contact Jurian directly
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Malfane Dar'Farla\|Malfane]] sent ot acompany a group (has a wand made of bone voice sounds dead inside)
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] chastises [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Malfane Dar'Farla\|Malfane]]
     - Elizabeth sent to a squad too
