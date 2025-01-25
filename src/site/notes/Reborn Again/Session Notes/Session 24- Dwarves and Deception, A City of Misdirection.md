@@ -94,7 +94,7 @@
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] enters a tavern to gather information, playing music as a performer to blend in:
     - Plays for over two hours, captivating the crowd and earning admiration.
     - Two aristocratic mages watch her closely, clearly testing her loyalty and observing whether she is under the spell.
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] sends her telepathic rat to eavesdrop on the mages, who discuss:
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] sends her telepathic rat [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Cranium Rat\|Cranium Rat]] to eavesdrop on the mages, who discuss:
         - Meeting with their “associates.”
         - Plans to "change" before attending the meeting.
     - The performance draws significant attention, but [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] avoids suspicion by presenting herself as a local performer.
