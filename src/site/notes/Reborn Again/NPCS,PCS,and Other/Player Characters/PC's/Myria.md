@@ -107,19 +107,20 @@ Imagination is PHYSICALLY inable to break any laws or bylaws  and has to listen 
 | Cantrip          | --  | --  | --  | --  |
 | 1st              |     |     |     |     |
 | 2nd              |     |     |     | --  |
-| 3rd              | X   | X   | X   | --  |
-| 4th              | X   |     |     | --  |
-| 5th              |     |     | --  | --  |
+| 3rd              | X   |     |     | --  |
+| 4th              | X   | X   | X   | --  |
+| 5th              | X   | X   | --  | --  |
 | 6th              |     | --  | --  | --  |
+| 9th              |     | --  | --  | --  |
 
 |     | [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] Charges | Tails | Bardic Inspiration | Detect Magic | Identify | Counterspell |
 | --- | ------------------------------- | ----- | ------------------ | ------------ | -------- | ------------ |
-| 1   |                                 |       |                    |              |          |              |
-| 2   |                                 |       |                    | --           | --       |              |
-| 3   |                                 |       |                    | --           | --       | --           |
-| 4   |                                 |       |                    | --           | --       | --           |
-| 5   | --                              | --    |                    | --           | --       | --           |
-
+| 1   |                                 | X     |                    |              |          |              |
+| 2   |                                 | X     |                    | --           | --       |              |
+| 3   |                                 | X     |                    | --           | --       | --           |
+| 4   |                                 | X     |                    | --           | --       | --           |
+| 5   | --                              |       |                    | --           | --       | --           |
+Rage count: 
 
 ### Familiars
 
@@ -134,10 +135,10 @@ Imagination is PHYSICALLY inable to break any laws or bylaws  and has to listen 
 | Ghoul (Daily) | 35         | 35       |
 | Ghoul (Daily) | 35         | 35       |
 | Ghoul (Daily) | 35         | 35       |
-| Ghoul         | --         | 35       |
-| Ghoul         | --         | 35       |
-| Ghoul         | --         | 35       |
-| Ghoul         | --         | 35       |
+| Ghoul         | 35         | 35       |
+| Ghoul         | 35         | 35       |
+| Ghoul         | 35         | 35       |
+| Ghoul         | 35         | 35       |
 | Ghoul         | --         | 35       |
 | Ghoul         | --         | 35       |
 | Ghoul         | --         | 35       |
@@ -166,17 +167,14 @@ Imagination is PHYSICALLY inable to break any laws or bylaws  and has to listen 
 
 
 Imagination devotion: 15
-           Soul Count: 2
-*Souls allow Grey to use his ability if he spends one*
-- do not need attunement 
 
-Knowledge Devotion: 8
+Knowledge Devotion: 10
  
 Curiosity Devotion: 2
-Vengeance Devotion: 2
+Vengeance Devotion: 4
 
 
-Luna devotion: 8
+Luna devotion: 9
 
 
 I HAVE ONE REVIVIFY DO NOT SELL THE DIAMOND

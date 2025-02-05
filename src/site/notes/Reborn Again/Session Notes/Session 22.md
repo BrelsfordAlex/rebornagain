@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reborn-again/session-notes/session-22/"}
+{"dg-publish":true,"permalink":"/reborn-again/session-notes/session-22/","created":"2025-01-08","updated":"2025-01-08"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reborn-again/session-notes/session-24-dwarves-and-deception-a-city-of-misdirection/"}
+{"dg-publish":true,"permalink":"/reborn-again/session-notes/session-24-dwarves-and-deception-a-city-of-misdirection/","created":"2025-01-22T18:00:00","updated":"2025-01-22T18:00:00"}
 ---
 
 
