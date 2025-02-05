@@ -36,7 +36,6 @@
 # Places Gone
 ---
 - **The Vault:** A magical location where [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] and others like her draw power from the Weave.
-- **Saran:** A place magic failed to penetrate, referenced by [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]].
 - **[[Reborn Again/Locations Gone to/Westvale/Depot 1\|Depot 1]]:** Under [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maledos\|Maledos]]’ spell, with drained natural energy and controlled civilians.
 - **Red District:** The location of the burnt-down manor and elite mages.
 - **Military Camp:** [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]]’s training ground and a base for unaffected soldiers.
@@ -55,7 +54,7 @@
 - An entity called [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]], a white-yellow wireframe construct of hard light with runes covering its body, addresses [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] as "Madam [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]]."
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] explains that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] intercepted a dream meant for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] while fighting a grumpy demon.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] expresses frustration over [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] intercepting the dream, stating she could handle it herself.
-- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] discusses [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Borranth\|Borranth]], a fascinating creature, and mentions Saran, a being or place magic tried to penetrate.
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] discusses [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Borranth\|Borranth]], a fascinating creature being or place magic tried to penetrate.
 - A blue hardwire cable appears between [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]], forming two chairs and a kettle of tea.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] claims to be connected to a vault and explains that some of her kind draw power from the Weave.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] asks if [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] is handling the fight well and expresses a wish to have her own backup against the demon.
@@ -184,7 +183,6 @@
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]], a wireframe construct, claims to be connected to a **vault** where beings like her draw power from the Weave.
     - Mentions a **caretaker figure** resembling [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]].
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] lists **12 Idelonic entities**, including **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]], Rage, Horror, Ambition, The Architect, Love, Verdants, Hospitality, Lament, and Death (listed twice).**
-    - Mentions **Saran**, a place magic could not penetrate.
 - **City-Wide Enchantment:**
     
     - The city is under an **artificial enchantment**, likely cast by [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maledos\|Maledos]] and five other mages.
@@ -213,7 +211,7 @@
     
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] dreams of a **blue space filled with silver runes** and meets **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]**, a wireframe construct of hard light.
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] reveals that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] intercepted a dream meant for [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] while fighting a demon.
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] discusses **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Borranth\|Borranth]]** and **Saran**, hinting at a place magic tried and failed to penetrate.
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] discusses **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Borranth\|Borranth]]** 
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] lists **12 Idelonic entities**, including [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]], Horror, Ambition, Love, Death, and others.
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] mentally records the vault’s layout, planning to share it later with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]].
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]]’s Communion with Nature:**
