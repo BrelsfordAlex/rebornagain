@@ -28,7 +28,7 @@ Session 15 _*Dated 10/30/24*_
     - From the Warrens
 - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Arbitration\|Arbitration]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]]
-- [Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sentry\|Sentry]]]]
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Sentry\|Sentry]]
 -[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Calous Newdawn\|Calous Newdawn]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/George\|George]]
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jason\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jason]]
@@ -82,7 +82,7 @@ Session 15 _*Dated 10/30/24*_
     - Iron door
 - house that the red robes fight was in
 - Jail Cell
-- [Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]]]]s office
+- [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Glint\|Glint]]s office
 - Baine Clan Forest
 - Proving Grounds
 - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]]’ Emporium
