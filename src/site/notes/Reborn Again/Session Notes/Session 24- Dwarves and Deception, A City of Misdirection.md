@@ -78,7 +78,7 @@
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]]** attempts to connect to the city’s [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Tau-Weave\|weave]]:
     
     - Using personal magic, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] senses that the city operates as a layered suggestion spell.
-    - Knowledge confirms that the spell is decades old, requires a focus, and is layered over time to alter consciousness.
+    - [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Owl of knowladge\|Knowledge]] confirms that the spell is decades old, requires a focus, and is layered over time to alter consciousness.
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] deduces that breaking the focus would disrupt the entire spell but worries about potential chaos in the city.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] trains under [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Borranth\|Baranth]] (the mimic disguised as a goblin):**
     

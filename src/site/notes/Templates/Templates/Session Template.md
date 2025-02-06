@@ -21,72 +21,36 @@
 # People Met
 ---
 
--   
-    
 # Places Gone
 ---
-
-
-
--   
-    
 
 # Session Notes
 ---
 
-
-
-### Day {In Session Date} Year: 10044
+### Day {In Session Date} Year: 2451 PS
 
 -------------------------------------------------------------------------
-
-  
-
-
-  
-
-
 
 # Myria Sendings
 --------------
 
 
 - To : 
-    
+	- Reply: 
 
-- Reply: 
-    
-
-- To : 
-    
-
-- Reply: 
-    
-
--   
-    
-
-  
-
+- To :
+	- Reply: 
 
 # Lore 
 ---
 
--   
-    
 
 # Things of Importance
 
 ---
 
--   
-    
-
 # Loot
 ---
-
--   
-    
 
 
 # Party Reputation: 6

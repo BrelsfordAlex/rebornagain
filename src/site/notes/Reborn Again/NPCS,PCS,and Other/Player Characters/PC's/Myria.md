@@ -168,7 +168,7 @@ Rage count:
 
 Imagination devotion: 15
 
-Knowledge Devotion: 10
+[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Owl of knowladge\|Knowledge]] Devotion: 10
  
 Curiosity Devotion: 2
 Vengeance Devotion: 4

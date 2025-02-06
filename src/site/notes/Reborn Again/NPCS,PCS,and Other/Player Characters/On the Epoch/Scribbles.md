@@ -23,7 +23,7 @@ History: +6, Arcana: +6, Survival: +6,
 Saves: Dex:+6, Int:+4, Con:+4 Others:+0 
 Immune to Poison, Immune to charmed, paralysed, mind controlled effects. Advantage on saves against magic, vulnerability to fire, resistance against magical Damage
 
-Knowledge of Candlekeep in a very eepy boy: When Scribble makes a history, survival, arcana or nature check it gains advantage but then sleeps for the next minute after delivering the information. It also has a direct link to all knowledge in candlekeep.
+[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Owl of knowladge\|Knowledge]] of Candlekeep in a very eepy boy: When Scribble makes a history, survival, arcana or nature check it gains advantage but then sleeps for the next minute after delivering the information. It also has a direct link to all [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Owl of knowladge\|knowledge]] in candlekeep.
 
 Breath of a thousand paper-cuts: As an action Scribble may breath a 15ft cone each creature within the area must make a DC 15 Dex save taking 15 slashing damage on a fail and half as much on a success Each creature that fails has disadvantage on all attacks and saves until the end of their next turn. Scibbles may only do this once per day.
 

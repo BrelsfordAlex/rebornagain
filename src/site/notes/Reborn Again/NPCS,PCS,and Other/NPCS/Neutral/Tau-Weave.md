@@ -5,7 +5,7 @@
 
 #### About Tau- Weave
 ---
-Where They Live: `= this.location`
+Where They Live: 
 Are They Friendly: Neutral
 Who Met them: T.h.e.m
 When Did T.h.e.m meet them: Session 17

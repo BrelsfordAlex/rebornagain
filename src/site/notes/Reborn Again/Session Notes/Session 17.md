@@ -307,7 +307,7 @@ Pox BringerUnknown
 ==================================================
 
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] learns the old tongue from the [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Owl of knowladge\|Owl of knowladge]]
-- Eye of knowledge [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
+- Eye of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Owl of knowladge\|knowledge]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 - Armor of oak and thorn [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
 
 ==================================================

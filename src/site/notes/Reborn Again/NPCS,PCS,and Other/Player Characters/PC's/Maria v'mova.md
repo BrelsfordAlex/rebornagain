@@ -6,7 +6,7 @@
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 Ran by K
-[[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Mayor\|Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Mayor]]
+[[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/DEAD MAYOR\|DEAD MAYOR]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elizabeth Dar'Taren\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elizabeth Dar'Taren]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Alarzo\|Alarzo]]
@@ -99,7 +99,7 @@ Ran by K
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
 Ran by K
-[[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Mayor\|Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Mayor]]
+[[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/DEAD MAYOR\|DEAD MAYOR]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Jannix]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elizabeth Dar'Taren\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elizabeth Dar'Taren]]
 [[Reborn Again/NPCS,PCS,and Other/NPCS/Unknown/Alarzo\|Alarzo]]

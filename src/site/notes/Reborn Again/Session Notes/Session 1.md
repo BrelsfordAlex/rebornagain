@@ -25,7 +25,7 @@
 - "Praise the demon god" [[Reborn Again/NPCS,PCS,and Other/NPCS/No/The Wizard (Magnus the Mad)\|The Wizard]] who nuked me
 - People on the list to assassinate
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
-    - ~~[[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Mayor\|Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/Mayor]]~~**DEAD**
+    - ~~[[Reborn Again/NPCS,PCS,and Other/NPCS/DEAD/DEAD MAYOR\|DEAD MAYOR]]~~**DEAD**
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith\|Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Faith]]
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.h.e.m]]
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
