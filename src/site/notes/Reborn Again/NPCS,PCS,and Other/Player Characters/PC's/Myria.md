@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/reborn-again/npcs-pcs-and-other/player-characters/pc-s/myria/"}
 ---
 
+---
+###### Myria is a young, gifted bard and spellcaster who teeters between the light of creativity and the darkness of her past. She is bound to **[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Imagination\|Imagination]]**, an aspect of the "[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/The True End (The Grey)\|The True End]]," making her both a wielder of immense power and a danger to herself and others. Her **childhood was stolen by the House of Flesh**, and she has spent her life trying to piece together who she truly is. Recently, she discovered that she is **part vampire**, and unless she is bound to a progenitor by the age of 30, she risks losing her mind to bloodlust. This revelation, along with her **pact with [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|Vengeance]]**, has made her more reckless, though she still seeks comfort in music and the friendships she has built. She thrives in chaos, playing music in bars, out-drinking shifters, and defeating devils in musical battles, but when confronted with the realities of war and destiny, she is overwhelmed by doubt and fear. Myria struggles with morality, questioning whether she can be both a protector and a killer, and whether the power she holds is a gift or a curse.
+---
+
 ##### Myria Evergreen characteristics
 - Extroverted
 - Loud and proud 

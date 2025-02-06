@@ -118,7 +118,7 @@ Ending Date: Evening of the 26th of Winterdusk 14 days before spring
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]] uses good and evil to sense partial fae things/2 mile north
     - The blizzard was magical
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] jumpscared by a talking Raccoon who guides the group to a tree house
-    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and them have to crawl inside
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] have to crawl inside
     - Cart guarded by a raccoonin a robinhood hat
         - The raccoons are awakened fae
     - They all get hot coco, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] wants to stay with the raccoons
@@ -126,7 +126,7 @@ Ending Date: Evening of the 26th of Winterdusk 14 days before spring
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]'s eyes go white
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley\|Oakley]] guides the group
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Oakley\|Oakley]] likes shiny things(shiny = power)
-    - Thinks Them is the leader
+    - Thinks [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] is the leader
     - The hellborn makes the snow worse
     - shows group shinies
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] to [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]]

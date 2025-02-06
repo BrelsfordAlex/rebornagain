@@ -21,7 +21,7 @@
 ---
 - **Role:** General of Drake Company and commanding officer of Westvale’s defenses.
 - **Appearance/Demeanor:** Towering and intimidating, clad in green siege-breaker armor that resembles advanced archeotech. She wields a massive tower shield with a dragon emblem and a long golden spear.
-- **Interactions:** Commands respect and authority. Abby shares camaraderie with Maria due to past military connections and collaborates with the party on defense planning.
+- **Interactions:** Commands respect and authority. Abby shares camaraderie with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]] due to past military connections and collaborates with the party on defense planning.
 #### Notes
 ---
 

@@ -68,7 +68,7 @@ Session 8 Dated 9/21
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Candor\|Candor]] murders feral and one human died from the feral
     - Airship crashsite
         - some dead 24 escaped
-        - Them uses their Gravity Distortion Grenate on the crash sight
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] uses their Gravity Distortion Grenate on the crash sight
     - Ships gravity and some bodies crushed
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is at the warehouse
     - loud swearing from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'taggon]]

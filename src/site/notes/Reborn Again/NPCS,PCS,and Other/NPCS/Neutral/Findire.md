@@ -20,9 +20,9 @@
 ---
 - **Appearance/Demeanor:** Practical and hardworking, wearing a simple yet functional outfit with a yellow tricorn hat. Speaks bluntly, with a strong sense of justice for the working class.
 - **Interactions:**
-    - **Vivienne Baine and THEM:** Received support from them as Findire expressed frustration with [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maledos\|Maledos]]' leadership.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]] Baine and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]:** Received support from them as Findire expressed frustration with [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maledos\|Maledos]]' leadership.
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]]:** Mentioned during her conversations at Mizzix regarding the Yellow Ward’s struggles.
-    - **Maria V'mova:** Not directly involved with Findire but aware of the tensions.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria V'mova]]:** Not directly involved with Findire but aware of the tensions.
 #### Notes
 ---
 

@@ -33,9 +33,9 @@
 
 - After **Maledos' death**, black ichor-like smoke poured from his body.
 - The **abolethic entity** emerged, revealing it was part of a god and had a **disciple working to free it**.
-- The entity **revived T.H.E.M** and warned them **not to interfere**.
-- **Viv was freed from petrification**, while **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] had her mouth erased** when she tried to argue.
-- **Emery mocked the entity**, which gave him a warning before vanishing.
+- The entity **revived [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]** and warned them **not to interfere**.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] was freed from petrification**, while **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] had her mouth erased** when she tried to argue.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Emery\|Emery]] mocked the entity**, which gave him a warning before vanishing.
 
 ---
 
@@ -44,28 +44,28 @@
 - **Abby** arrived in **glowing green armor**, frustrated she missed the fight.
 - **Martial law was declared**, with soldiers securing the city.
 - **Maledos’ body was looted**:
-    - **His black onyx heart was a "time bomb"** designed to revive the cult. Maria crushed it.
-    - **Viv found a magical whistle** (one-time use to **conjure woodland beings**).
+    - **His black onyx heart was a "time bomb"** designed to revive the cult. [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]] crushed it.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] found a magical whistle** (one-time use to **conjure woodland beings**).
     - Gold was distributed among the party.
 
 ---
 
 ### **Discussions & Plans**
 
-- **Myria confronted T.H.E.M**, suspecting a hidden agenda.
-- **Ava was revealed to have permission to kill T.H.E.M** if THEY became compromised.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] confronted [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]**, suspecting a hidden agenda.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] was revealed to have permission to kill [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]** if THEY became compromised.
 - **The Red Wake** was discovered to be a phenomenon **blocking magical communication**.
-- **Myria failed to send a warning to Mistfiend**, as the spell was **forcibly blocked**.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] failed to send a warning to Mistfiend**, as the spell was **forcibly blocked**.
 
 ---
 
 ### **Journey to the Necropolis (8 Days)**
 
 - The group **traveled stealthily**, each playing a role:
-    - **T.H.E.M:** Vanguard (Survival)
-    - **Maria:** Handler (Animals)
-    - **Myria:** Lookout (Investigation)
-    - **Viv:** Stealth Expert (**rolled multiple 35s**)
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]:** Vanguard (Survival)
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]]:** Handler (Animals)
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]:** Lookout (Investigation)
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]:** Stealth Expert (**rolled multiple 35s**)
 - **Strange phenomena** occurred as they neared the **Necropolis**:
     - **Magic users felt sick**, and the **Weave was burning away faster than expected**.
 
@@ -74,7 +74,7 @@
 ### **Arrival at Necra-Camp**
 
 - The **camp was fortified**, showing signs of **demon attacks**.
-- **Ashla, an older vault-runner, recognized Viv as "Violet"**.
+- **Ashla, an older vault-runner, recognized [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] as "Violet"**.
 - The session **ended on this revelation**.
 
 ---
@@ -82,9 +82,9 @@
 ### **Important Lore & Party Growth**
 
 - **The entity** originates from the **Parallel Realm (same as the Kor)**.
-- **Myria received a Thematic Compass** to help navigate vaults.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] received a Thematic Compass** to help navigate vaults.
 - **Magic is being burned away in the Necropolis** at an alarming rate.
-- **T.H.E.M, Maria, Myria, and Viv all progressed in their abilities**.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]], [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]], and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] all progressed in their abilities**.
 
 
 ---

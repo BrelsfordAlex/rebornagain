@@ -45,7 +45,7 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
 
 - - - - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] called Lady [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] ( cries in not a lady just a farmer.png)
                 - Butler to themBeen a long time since hosted Simulacrum
-            - Them looks familiar
+            - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] looks familiar
             - Madam [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]]
                 - Each room tailored to each person (even each personality in them)
                 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'s room
@@ -57,7 +57,7 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
             - forest greens
             - bed is massive even if [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] were to lay on it
             - basically [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] looks like a child in it
-                - Them's room
+                - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]]'s room
             - full of notebooks
             - cooler and it feels nice
                 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'Taggon]] (Female Wolf Shifter)
@@ -122,7 +122,7 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
 
 - ==================================================
 
-#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and Them
+#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]]
 
 - - - Breakfast
         - People
@@ -136,7 +136,7 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
             - Half Dryad
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] 2 Entititties in 1( @ [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Dar'Taggon\|Dar'Taggon]])
             - Primordial Phoenix
-        - Them Summoned to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] (uwu brain daddy called me home)
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] Summoned to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] (uwu brain daddy called me home)
 
 #### Lament ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]])
 
@@ -158,15 +158,15 @@ No face, Grey skin, no hair (BALD!! BALD!!! `B A L D` 👩‍🦲 ) butler's rob
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] make an appt to see [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Madam Valenica\|Madam Valencia]]
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]'S MOM WAS A VAMPIRE
 
-#### Them and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
+#### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
 
-- - - Them has no idea where the fuck to go
-        - Them asks a warforged at the docks where Mizzix is
+- - - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] has no idea where the fuck to go
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] asks a warforged at the docks where Mizzix is
         - Mizzix
         - Steampunk chaos
         - 12-13 stories
         - Lobby desk is Mindflayer and Human
-        - Mindflayer guides Them to see [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
+        - Mindflayer guides [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] to see [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]]'s room is covered in experiments and in the center is a massive brain ( <:109_bigbrain:1139517873799307354> )
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] just HAAAAAAAAAAD to meet [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
         - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] Met [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|Ava]] and the Spirits inside of [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]

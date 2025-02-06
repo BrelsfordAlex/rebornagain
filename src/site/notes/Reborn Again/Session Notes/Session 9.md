@@ -59,31 +59,31 @@ Session 9 Dated 9/25/24
 
 - ==================================================
     - [[Elder Brian \|Elder Brian ]]made [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/3N4BL3R\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/3N4BL3R]]
-    - Them shows [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] Enabler's Corpse
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] shows [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Spark\|Spark]] Enabler's Corpse
     - Everyone tries to meet with Brian (he is busy)
     - After pestering long enough Brian starts to talk through the Secretary Illithid
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] insults the Illithid saying "Something is on your face" and then gets spooked by it talking in her head
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] knew about the Demons
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] is angry about that
-    - Group talks [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] into telling them where the rest of the bombs are
+    - Group talks [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elder Brian\|Elder Brian]] into telling [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] where the rest of the bombs are
     - Bombs at 31, 33, and right above 46
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] goes to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]] with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] about the bombs
-    - Them goes to a park
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] goes to a park
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] just wanders around town
 - ==================================================
 
-### THEM ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]])
+### [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] ([[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]])
 
 - ==================================================
-    - Them goes to a park (32)
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] goes to a park (32)
     - Park had 9-10 people in it
     - Dog Shifters
     - There is a temple in the middle of the park
         - Temple of [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/The Creator\|the Creator]]
-    - Them goes to the temple
-    - them feels a presence in the temple
-    - Them was upset seeing Enabler in pieces
-    - them feels a hand on their shoulder and sees a person
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] goes to the temple
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] feels a presence in the temple
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] was upset seeing Enabler in pieces
+    - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]] feels a hand on their shoulder and sees a person
     - Person Described as a person in a white robe
     - Bandages over eyes
     - Wings on the back
@@ -173,7 +173,7 @@ Session 9 Dated 9/25/24
     - [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] makes [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] armor
 - ==================================================
 
-### Grave of Men with THEM
+### Grave of Men with [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]
 
 - ==================================================
     - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Hawthorn\|Hawthorn]] looking for a grave and finds Nicolas Nicolas the Third

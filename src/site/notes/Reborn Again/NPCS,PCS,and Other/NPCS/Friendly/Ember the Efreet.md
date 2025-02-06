@@ -26,9 +26,9 @@
 ---
 **Interactions:**
 
-- **Maria V'mova:** Spoke extensively with Ember about strategies and the company’s diminished capacity.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria V'mova]]:** Spoke extensively with Ember about strategies and the company’s diminished capacity.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]]:** Observed Ember during the tactical briefings.
-- **Vivienne Baine and THEM:** Minimal direct interaction, but acknowledged Ember’s role in the defense of Westvale.
+- **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]] Baine and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]:** Minimal direct interaction, but acknowledged Ember’s role in the defense of Westvale.
 
 
 ### Tags 

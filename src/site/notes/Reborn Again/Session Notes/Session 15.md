@@ -255,7 +255,7 @@ Spirits walk around him
     - The Green Room
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] PANICKING
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Scribbles\|Scribbles]] and Rat sleeping in a pile
-        - Them comes in with a basket, flowers notebook and a drawing, and a ocarina designed to look like a leaf
+        - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] comes in with a basket, flowers notebook and a drawing, and a ocarina designed to look like a leaf
         - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] learns that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] is multiple people in the same body
             - They all were humans once
             - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Marla\|Marla]] was apart of a group that worshiped a mage and he was not a good man

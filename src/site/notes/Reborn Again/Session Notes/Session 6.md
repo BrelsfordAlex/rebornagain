@@ -60,7 +60,7 @@ Session 6
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] can get a gun from [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos]] ( <:tbh_gun:1082149444809658438> )
 - Everyone argues that [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] can't get a gun
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]] gets a shotgun
-- Them gets a gun hand (gets a memory from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|ava]] of how to aborb the hand into themselves) GUN HAND UWU
+- [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]] gets a gun hand (gets a memory from [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/Ava\|ava]] of how to aborb the hand into themselves) GUN HAND UWU
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]] is HIGHLY against [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] getting a gun
 - You can get addicted to the magic from the conflux, causing something called "Magical corruption"
 - -
@@ -79,7 +79,7 @@ Session 6
 
 ### The Next Day
 
-- Pippin Them
+- Pippin [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|Them]]
     - Deliver these boxes to [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/General Torak\|Torrak]] in [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Tallon City]] ( [[Reborn Again/Quests for Campaign/Items to General Torrak\|Items to General Torrak]])
     - Nothing happened but traveling
 

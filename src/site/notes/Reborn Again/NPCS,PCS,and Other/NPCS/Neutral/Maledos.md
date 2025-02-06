@@ -20,7 +20,7 @@
 ---
 - **Appearance/Demeanor:** A formal, dismissive aristocrat draped in regal red robes. Maledos exudes arrogance and prioritizes politics over practical action.
 - **Interactions:**
-    - **Vivienne Baine and THEM:** Both confronted and intimidated Maledos, forcing him to acknowledge their authority and cooperate.
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Vivienne]] Baine and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]:** Both confronted and intimidated Maledos, forcing him to acknowledge their authority and cooperate.
     - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Findire\|Findire]] and [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Syriel\|Syriel]]:** Often at odds with Maledos due to his negligence and dominance over Westvale politics.
 #### Notes
 ---
