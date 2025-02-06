@@ -168,13 +168,13 @@ Rage count:
 
 Imagination devotion: 15
 
-[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Owl of knowladge\|Knowledge]] Devotion: 10
+[[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Owl of knowladge\|Knowledge]] Devotion: 11
  
 Curiosity Devotion: 2
 Vengeance Devotion: 4
 
 
-Luna devotion: 9
+Luna devotion: 10
 
 
 I HAVE ONE REVIVIFY DO NOT SELL THE DIAMOND
