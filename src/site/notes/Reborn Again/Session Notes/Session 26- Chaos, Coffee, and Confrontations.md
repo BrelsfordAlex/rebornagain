@@ -65,7 +65,7 @@
 - The session begins after [[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maledos\|Maledos]]' death. His head was completely destroyed, and black ichor-like smoke poured from his body.
 - Players were prompted to roll for initiative and make Arcana or History checks regarding the smoke.
 - [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]] rolled a 17, and [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] rolled a natural 20 (24 total).
-- [[Knowledge\|Knowledge]] revealed [[Reborn Again/NPCS,PCS,and Other/Higher Powers/The Entity\|the entity]] was **abolethic**, part of a **god**, not a power or an eidolon.
+- [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the Grey/Owl of knowladge\|Owl of knowladge]] revealed [[Reborn Again/NPCS,PCS,and Other/Higher Powers/The Entity\|the entity]] was **abolethic**, part of a **god**, not a power or an eidolon.
 
 #### **Entity’s Appearance and Interaction**
 
@@ -260,12 +260,6 @@ know as heros throughout [[Reborn Again/Locations Gone to/Tallan/Tallon City\|Ta
 
 *Note: Party Rep goes from -10(Cult of Days End) to 20([[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]])*
 
-# Tags
+# Graph of connections of the session
 -----
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|T.H.E.M]]
-[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]
-
-
-
+![Pasted image 20250205225936.png](/img/user/Reborn%20Again/Misc%20Files/Pasted%20image%2020250205225936.png)
