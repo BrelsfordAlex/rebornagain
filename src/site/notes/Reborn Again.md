@@ -34,7 +34,7 @@
 - After **Maledos' death**, black ichor-like smoke poured from his body.
 - The **abolethic entity** emerged, revealing it was part of a god and had a **disciple working to free it**.
 - The entity **revived T.H.E.M** and warned them **not to interfere**.
-- **Viv was freed from petrification**, while **Myria had her mouth erased** when she tried to argue.
+- **Viv was freed from petrification**, while **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] had her mouth erased** when she tried to argue.
 - **Emery mocked the entity**, which gave him a warning before vanishing.
 
 ---

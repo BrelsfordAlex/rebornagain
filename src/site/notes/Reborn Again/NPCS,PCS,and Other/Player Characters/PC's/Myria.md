@@ -107,18 +107,18 @@ Imagination is PHYSICALLY inable to break any laws or bylaws  and has to listen 
 | Cantrip          | --  | --  | --  | --  |
 | 1st              |     |     |     |     |
 | 2nd              |     |     |     | --  |
-| 3rd              | X   |     |     | --  |
-| 4th              | X   | X   | X   | --  |
-| 5th              | X   | X   | --  | --  |
+| 3rd              |     |     |     | --  |
+| 4th              |     |     |     | --  |
+| 5th              | X   |     | --  | --  |
 | 6th              |     | --  | --  | --  |
 | 9th              |     | --  | --  | --  |
 
 |     | [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] Charges | Tails | Bardic Inspiration | Detect Magic | Identify | Counterspell |
 | --- | ------------------------------- | ----- | ------------------ | ------------ | -------- | ------------ |
 | 1   |                                 | X     |                    |              |          |              |
-| 2   |                                 | X     |                    | --           | --       |              |
-| 3   |                                 | X     |                    | --           | --       | --           |
-| 4   |                                 | X     |                    | --           | --       | --           |
+| 2   |                                 |       |                    | --           | --       |              |
+| 3   |                                 |       |                    | --           | --       | --           |
+| 4   |                                 |       |                    | --           | --       | --           |
 | 5   | --                              |       |                    | --           | --       | --           |
 Rage count: 
 
@@ -135,10 +135,10 @@ Rage count:
 | Ghoul (Daily) | 35         | 35       |
 | Ghoul (Daily) | 35         | 35       |
 | Ghoul (Daily) | 35         | 35       |
-| Ghoul         | 35         | 35       |
-| Ghoul         | 35         | 35       |
-| Ghoul         | 35         | 35       |
-| Ghoul         | 35         | 35       |
+| Ghoul (Daily) | 35         | 35       |
+| Ghoul (Daily) | 35         | 35       |
+| Ghoul (Daily) | 35         | 35       |
+| Ghoul (Daily) | 35         | 35       |
 | Ghoul         | --         | 35       |
 | Ghoul         | --         | 35       |
 | Ghoul         | --         | 35       |
