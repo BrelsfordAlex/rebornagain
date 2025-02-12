@@ -119,7 +119,7 @@ Imagination is PHYSICALLY inable to break any laws or bylaws  and has to listen 
 
 |     | [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] Charges | Tails | Bardic Inspiration | Detect Magic | Identify | Counterspell |
 | --- | ------------------------------- | ----- | ------------------ | ------------ | -------- | ------------ |
-| 1   |                                 | X     |                    |              |          |              |
+| 1   |                                 |       |                    |              |          |              |
 | 2   |                                 |       |                    | --           | --       |              |
 | 3   |                                 |       |                    | --           | --       | --           |
 | 4   |                                 |       |                    | --           | --       | --           |

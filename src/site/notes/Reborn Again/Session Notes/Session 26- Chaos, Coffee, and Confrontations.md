@@ -49,7 +49,6 @@
 ---
 - **[[Reborn Again/Locations Gone to/Westvale/Necropolis\|Necropolis]]** – Destination of the party, where **magic is being burned away**.
 - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/On the Epoch/Epoch\|Epoch]]** – Likely the party's base or ship where **[[Reborn Again/NPCS,PCS,and Other/NPCS/Neutral/Maledos\|Maledos]]’s head** was to be sent.
-- **Mizzix** – A city in chaos after its citizens woke from **mind control**.
 - **[[Reborn Again/Locations Gone to/Westvale/Necra-Camp\|Necra-camp]] (Runners Guild Outpost)** – A fortified outpost near the **[[Reborn Again/Locations Gone to/Westvale/Necropolis\|Necropolis]]**.
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Elnos\|Elnos]]’ Magical Shop** – A **sanctuary from [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Demons/Skulltaker\|Skulltaker]]’s influence**.
 - **[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mistfiend\|Mistfiend]]** – A location or entity that **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]] attempted to warn**, but the message was blocked.
