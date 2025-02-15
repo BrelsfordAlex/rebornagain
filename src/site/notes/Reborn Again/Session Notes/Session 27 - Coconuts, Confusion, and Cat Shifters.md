@@ -15,8 +15,104 @@
 **Ending Date:** Morning of the 31st of Springdawn
 
 ---
+# Funny Moments 
 
+### **1. THEM Gets a Gun to the Face, Maria Draws Her Sword, and Chaos Ensues**
 
+- When **Bigrove suddenly pressed a gun against THEM’s forehead**, the entire bar went silent.
+- **Maria IMMEDIATELY drew her sword**, only to have **every single vault runner in the bar pull their weapons on her in response**.
+- Maria: _"You think your little pea shooters can take me down?"_
+- THEM: _"Whoa, whoa, whoa, let's all calm down!"_
+- **Eventually, Bigrove backed off**, but the image of Maria squaring up against an entire bar full of armed vault runners while THEM awkwardly tried to defuse the situation was **hilariously chaotic**.
+
+### **2. Evergreen Yells "I SHIP IT" at Gavin and His Cleric Friend**
+
+- **Gavin’s vault team returned from the vault, battered and missing limbs**, but one of their teammates **died and was revived using a diamond**.
+- After the **cleric dramatically resurrected their dead teammate**, Evergreen **immediately yelled across the town square**:
+    - **"I SHIP IT!!"**
+- This resulted in **the revived man groggily asking Gavin if they were dating now** while Gavin **tried to clarify that this was "just normal field resuscitation."**
+
+### **3. THEM Tries to Impress the Goblin Merchant, but the Goblin is Too Weird**
+
+- THEM: _"This grav bomb is made with advanced archaeotech and pulled off a powerful demon."_
+- **Goblin Merchant (not listening, staring at the artifact like a lunatic):** _"Ohhhhh shiny."_
+- **He then IMMEDIATELY shut down his shop, changed the sign to "CLOSED," and scurried off with it like a little gremlin, leaving THEM standing there confused.**
+- **The entire party collectively agreed they would never see that goblin again.**
+
+### **4. "I Cuddled Luna!" - Evergreen Just Casually Announces Divine Interaction**
+
+- Evergreen, dead serious: _"I cuddled a large moon wolf, and the wolf was Luna."_
+- **Viv, already dealing with his mother and preparing for the vault:** _"Go you?"_
+- The entire bar was like _"Wait, what?"_ as Evergreen just **casually revealed she had met and cuddled a literal goddess** like it was **a normal Tuesday.**
+
+### **5. Bigrove is Covered in Blood, Completely Fine, and Steals Cake**
+
+- **Bigrove walked into Evergreen’s cabin, dripping in blood after slaughtering demons.**
+- **Maria, concerned:** _"Do you need healing?"_
+- **Bigrove, unfazed:** _"No, I’m good."_
+- **Evergreen (casually):** _"There’s cake in the kitchen."_
+- **Bigrove immediately makes a beeline for the cake.**
+
+### **6. The Party Tries to Lock a Tent**
+
+- **Viv planned to sleep at his mother’s tent for the night.**
+- THEM: _"Did she lock the tent?"_
+- Bigrove: _"It’s a tent."_
+- **THEM and Evergreen spent the next minute debating how one could "lock a tent"** while Viv **just stood there regretting his life choices.**
+
+### **7. Grik the Giant Stone Golem is Unreasonably Excited About Making Tea**
+
+- Evergreen: _"Do you have tea?"_
+- **Grik, a literal **8-foot-tall living stone monolith, visibly lights up like a child on Christmas morning.**
+- He **slams his hands together** and goes, _"OH YES. MANY TEAS. WOULD YOU LIKE TO HEAR THEM?"_
+- **Proceeds to list off **40 different teas** while visibly vibrating with joy.**
+- When Evergreen orders **ginseng tea with honey**, Grik nearly **cries happy tears** and **rushes off to make it like it was the most important task of his life.**
+
+### **8. Evergreen Bought a Box, and it Just Started Spitting Out Gold**
+
+- **Evergreen bought a puzzle box for 20 gold, opened it, and it immediately gave her 5 gold back.**
+- Evergreen, completely baffled: _"Uh, guys? I think I just scammed this dude."_
+- **The rest of the party was very concerned that this might turn into some kind of cursed money-laundering scheme.**
+
+### **9. "Does Anyone Want My Old Shield?" – THEM, Unknowingly Offering a Legendary Relic**
+
+- THEM: _"Hey, does anyone want this shield before I sell it?"_
+- **The shield in question? An insanely powerful magical artifact made by Elmas himself.**
+- **Maria (knowing what it is, in absolute disbelief):** _"You’re just… giving it away?!"_
+- THEM: _"Oh, I mean, I guess I could sell it?"_
+- **The Goblin Merchant: _"Oh, shiny! 600 gold."_ (IMMEDIATELY PUTS A 1200 GOLD PRICE TAG ON IT AFTER PURCHASING.)**
+
+### **10. "Locking the Tent" – Part 2 (Because It Was So Dumb We Needed More of It)**
+
+- **Bigrove left to go sleep after murdering demons.**
+- Evergreen: _"I told the vault runners that the bar tab was on you tonight."_
+- **Bigrove pauses mid-step.**
+- Bigrove: _"...Wait, what?"_
+- **The entire party proceeds to run out of the room laughing as Bigrove realizes she’s just been hit with a massive bill.**
+
+---
+
+### **Honorable Mentions**
+
+✅ **Evergreen & THEM Agree That Their Entire Lives Are a Mess:**
+
+- THEM: _"You know, I think we’re the same."_
+- Evergreen: _"What do you mean?"_
+- THEM: _"Neither of us know what the hell is going on."_
+- Evergreen: _"Oh, yeah. True."_
+
+✅ **Derek Lost an Eye in the Vault, and the First Thing He Said Was ‘Damn, That Blade Was Close’**
+
+- Gavin: _"Oh yeah, he got stabbed in the face, so we just left the eye there."_
+- Derek: _"Could have been worse, boss."_
+- **The whole party just stared at him like, “Bro, you lost an eye.”**
+
+✅ **Bigrove’s Entire Personality Is Just ‘Kill First, Ask No Questions’**
+
+- Evergreen: _"I found out Marvel and Elantro are siblings."_
+- **Bigrove, eating cake:** _"Cool."_
+- Evergreen: _"Doesn’t that… mean anything to you?"_
+- **Bigrove, still eating cake:** _"Nope."_
 
 # People Met
 ---
