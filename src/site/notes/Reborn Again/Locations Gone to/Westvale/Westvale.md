@@ -8,7 +8,7 @@
 ![Westvale1.jpg](/img/user/Reborn%20Again/Misc%20Files/Image%20Attachments/Maps/Westvale1.jpg)
 
 ![SPOILER_image.png](/img/user/Reborn%20Again/Misc%20Files/Image%20Attachments/Maps/SPOILER_image.png)
-**Who Went There:** Myria
+**Who Went There:** Myria,[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 **Places of Interest:** `= this.shopsorplacesofinterest`
 **People Known There**[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]]
 
@@ -29,7 +29,7 @@
 # Westvale
 ---
 **Description:** 
-**Who Went There:** Myria
+**Who Went There:** Myria,[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria v'mova]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]],[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]]
 **Places of Interest:** `= this.shopsorplacesofinterest`
 **People Known There**[[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Baba Yalaina\|Baba Yalaina]]
 

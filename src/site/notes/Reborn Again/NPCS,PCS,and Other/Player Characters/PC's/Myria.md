@@ -112,10 +112,10 @@ Imagination is PHYSICALLY inable to break any laws or bylaws  and has to listen 
 | 1st              |     |     |     |     |
 | 2nd              |     |     |     | --  |
 | 3rd              |     |     |     | --  |
-| 4th              |     |     |     | --  |
-| 5th              | X   |     | --  | --  |
+| 4th              | X   |     |     | --  |
+| 5th              | X   | X   | --  | --  |
 | 6th              |     | --  | --  | --  |
-| 9th              |     | --  | --  | --  |
+
 
 |     | [[Reborn Again/NPCS,PCS,and Other/Higher Powers/Shards of the White/Vengence\|vengeance]] Charges | Tails | Bardic Inspiration | Detect Magic | Identify | Counterspell |
 | --- | ------------------------------- | ----- | ------------------ | ------------ | -------- | ------------ |
@@ -135,7 +135,7 @@ Rage count:
 
 | Ghouls        | Current HP | Total HP |
 | ------------- | ---------- | -------- |
-| Ghoul (Daily) | 35         | 35       |
+| Ghoul (Daily) | --         | 35       |
 | Ghoul (Daily) | 35         | 35       |
 | Ghoul (Daily) | 35         | 35       |
 | Ghoul (Daily) | 35         | 35       |
