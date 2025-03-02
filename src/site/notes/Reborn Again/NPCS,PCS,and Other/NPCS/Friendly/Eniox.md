@@ -15,7 +15,7 @@ Did Eniox give any quests: No
 
 
 #### Description
-Old man head of guard, staff, surrounded by light
+Old man head of guard, staff, surrounded by light KOR
 
 ---
 
