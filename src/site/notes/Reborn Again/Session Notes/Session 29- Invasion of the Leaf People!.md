@@ -20,7 +20,7 @@
 
 1. **The Loot Debate**
     
-    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]]**: _"Logically, they're not using the money that they have on [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|them]]."_
+    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria Evergreen]]**: _"Logically, they're not using the money that they have on them(the dead bodies)."_
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]**: _"Quite frankly, I'm insulted."_
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/THEM/T.H.E.M\|THEM]]**: _"[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]], if you're poor, I have 457 gold I could just give you."_
     - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Myria]] [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Myria\|Evergreen]]**: _"I have 36 gold to my name."_
@@ -46,8 +46,8 @@
 4. **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]]’s Super Speed Existential Dread**
     
     - **DM**: _"[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]], you're traveling 80 feet in six seconds."_
-    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]] V'mova**: _"Yeah. I know. It's kinda weird, the movement in DND."_
-    - **[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]]**: _"Bros. Naruto running."_
+    - **DM**: _"Yeah. I know. It's kinda weird, the movement in DND."_
+    - **[[Maria\|Maria]]**: _"Bros. Naruto running."_
     - **DM**: _"Yeah, [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]], you are now at 330. You are about 30 feet into these root vegetable fields."_
     - **DM**: _"[[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Viv\|Viv]], you see [[Reborn Again/NPCS,PCS,and Other/Player Characters/PC's/Maria v'mova\|Maria]] pass you, like, as a blur of metal."_
     - **DM**: _"And in your [[Reborn Again/NPCS,PCS,and Other/NPCS/Friendly/Mind\|mind]], just very briefly: 'Nothing that big should move that fast.' This is clearly magical."_
